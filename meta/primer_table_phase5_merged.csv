@@ -1,0 +1,5 @@
+project,primer_f,primer_r,truncLen_f,truncLen_r,note,maxEE_r
+PRJNA1476760,,,157,156,phase5_filter_rescue_guard_waived,2
+PRJNA1310568,,,0,0,phase5_Aprime_maxEE_R5,5
+PRJNA596848,ACTCCTACGGGAGGCAGCAG,GGACTACNVGGGTWTCTAAT,259,230,phase5_keepall_samples,2
+PRJNA665860,ACTCCTACGGGAGGCAGCAG,GGACTACNVGGGTWTCTAAT,239,230,phase5_keepall_samples,2

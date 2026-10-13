@@ -1,0 +1,12 @@
+﻿project,mode,read_len,read_len_min,insert_len,t25_f,t25_r,tf,tr,overlap,n_aligned,note
+PRJNA996548,paired,301,301,253,301,275,157,156,60,339/360 (raw_reads),ok
+PRJNA596848,paired,294,294,429,293,250,259,230,60,232/360 (asv_table(raw_reads=469)),ok
+PRJNA665860,paired,294,294,409,294,250,239,230,60,262/360 (raw_reads),ok
+PRJNA753114,paired,250,250,292,250,225,176,176,60,350/360 (raw_reads),ok
+PRJNA1334676,paired,301,301,402,301,250,233,229,60,105/360 (asv_table),ok
+PRJNA816337,paired,301,301,456,300,250,266,250,60,204/360 (raw_reads),ok
+PRJNA1189047,paired,301,301,416,300,250,238,238,60,338/360 (raw_reads),ok
+PRJNA548437,paired,301,301,443,300,250,253,250,60,296/360 (raw_reads),ok
+PRJNA565000,paired,293,293,364,293,250,212,212,60,288/360 (asv_table(raw_reads=402)),ok
+PRJNA781096,paired,301,301,425,300,250,243,242,60,284/360 (raw_reads),ok
+PRJNA887236,paired,290,289,466,275,225,275,225,34,240/360 (asv_table(raw_reads=466)),ok

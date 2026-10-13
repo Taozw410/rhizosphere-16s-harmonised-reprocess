@@ -1,0 +1,922 @@
+genus,total_reads,n_projects,weight_class
+Pseudomonas,322105,28,consistent
+Sphingomonas,269128,37,consistent
+Massilia,216634,25,consistent
+Candidatus Udaeobacter,194808,20,consistent
+Flavobacterium,188739,18,consistent
+Streptomyces,152941,28,consistent
+Sphingobium,122260,6,consistent
+Rhodanobacter,120395,17,consistent
+Bryobacter,112860,26,consistent
+Anaeromyxobacter,109779,11,consistent
+Pedobacter,98944,8,consistent
+Ralstonia,85141,9,consistent
+Gemmatimonas,84735,20,consistent
+Burkholderia-Caballeronia-Paraburkholderia,83942,13,consistent
+Cellvibrio,75011,11,consistent
+Acinetobacter,72602,13,consistent
+Mucilaginibacter,71264,14,consistent
+Chitinophaga,71039,11,consistent
+Acidothermus,63113,13,consistent
+Nocardioides,62768,24,consistent
+Nitrospira,62016,28,consistent
+Chryseobacterium,61924,8,consistent
+Luteolibacter,61413,18,consistent
+Flavisolibacter,60110,25,consistent
+Gaiella,58097,27,consistent
+Candidatus Solibacter,57754,19,consistent
+Acidibacter,57384,18,consistent
+Pseudolabrys,56688,25,consistent
+Paenibacillus,55632,11,consistent
+Dyadobacter,54783,14,consistent
+Dyella,53251,9,consistent
+Brevundimonas,51439,13,consistent
+Ellin6067,50300,25,consistent
+Devosia,49188,18,consistent
+Bacteroides,42031,3,consistent
+WCHB1-32,41993,6,consistent
+Lysobacter,41096,24,consistent
+Methanobacterium,38077,3,consistent
+Thalassospira,38032,2,consistent
+Stenotrophomonas,37691,12,consistent
+Solirubrobacter,37352,18,consistent
+Phenylobacterium,35764,24,consistent
+Mycobacterium,35730,20,consistent
+Rheinheimera,34619,6,consistent
+Arenimonas,33983,22,consistent
+Microvirga,33812,17,consistent
+Conexibacter,33455,6,consistent
+Pseudoxanthomonas,31415,13,consistent
+Caulobacter,30042,12,consistent
+Dongia,28014,14,consistent
+MND1,26938,15,consistent
+Adhaeribacter,26921,12,consistent
+Sphingobacterium,25181,4,consistent
+Marinimicrobium,24578,1,consistent
+Methanosarcina,24427,4,consistent
+Azospirillum,24037,13,consistent
+Agromyces,23485,14,consistent
+Candidatus Koribacter,22817,13,consistent
+Anaerolinea,21904,9,consistent
+Delftia,21854,3,consistent
+Hydrogenophaga,21841,4,consistent
+Pelagibius,21234,1,consistent
+JG30a-KF-32,20927,3,consistent
+Reyranella,20847,17,consistent
+Geodermatophilus,20719,4,consistent
+Marmoricola,19673,15,consistent
+Skermanella,19222,10,consistent
+Chujaibacter,18731,6,consistent
+Nitrosospira,18442,10,consistent
+Dechloromonas,18197,1,consistent
+Chthoniobacter,17997,13,consistent
+Rugosimonospora,17778,4,consistent
+Thermoactinomyces,16529,2,consistent
+Granulicella,16467,8,consistent
+Sinomonas,16395,3,consistent
+Mesorhizobium,15955,13,consistent
+Luteibacter,15892,5,consistent
+Telmatospirillum,15747,1,consistent
+Blastococcus,15644,15,consistent
+Ohtaekwangia,15606,8,consistent
+Nodosilinea PCC-7104,15194,1,consistent
+Pontibacter,14895,5,consistent
+Niastella,14764,5,consistent
+Asticcacaulis,14596,16,consistent
+Edaphobacter,14576,6,consistent
+Arcicella,14296,1,consistent
+Candidatus Nitrosotalea,14239,2,consistent
+Terrabacter,14110,11,consistent
+Steroidobacter,14047,6,consistent
+Kribbella,13984,12,consistent
+Ammoniphilus,13977,2,consistent
+Candidatus Xiphinematobacter,13956,7,consistent
+Muricauda,13518,2,consistent
+Marinobacter,13435,1,consistent
+Rhodococcus,13257,6,consistent
+Microbacterium,13192,5,consistent
+Thiobacillus,12408,7,consistent
+possible genus 04,12177,6,consistent
+Opitutus,11738,16,consistent
+Lentimicrobium,11737,3,consistent
+Confluentibacter,11458,1,consistent
+Rhodoplanes,11088,7,consistent
+Algoriphagus,11030,4,consistent
+Emticicia,10939,4,consistent
+Defluviicoccus,10678,6,consistent
+Fonticella,10654,5,consistent
+Oryzihumus,10538,8,consistent
+Bosea,10521,8,consistent
+Methyloversatilis,10202,3,consistent
+Faecalibacterium,9999,3,consistent
+Flavitalea,9608,7,consistent
+Amycolatopsis,9534,6,consistent
+Bacteriovorax,9496,2,consistent
+Bradyrhizobium,9475,9,consistent
+Ferruginibacter,9450,6,consistent
+Kangiella,9340,1,consistent
+Paenarthrobacter,9339,4,consistent
+Labrys,9247,2,consistent
+Sphingopyxis,9123,7,consistent
+Pseudonocardia,9044,8,consistent
+Ramlibacter,9041,8,consistent
+RB41,9023,5,consistent
+Deinococcus,8918,2,consistent
+Rhodopseudomonas,8786,5,consistent
+Rubrobacter,8643,9,consistent
+Methanocella,8392,2,consistent
+Fluviicola,8263,5,consistent
+Exiguobacterium,8151,3,consistent
+hgcI clade,8096,2,consistent
+Candidatus Nitrososphaera,8089,7,consistent
+Saccharospirillum,7893,2,consistent
+Acidovorax,7853,1,consistent
+Rhizobacter,7759,3,consistent
+Sediminibacterium,7693,6,consistent
+Sulfuricurvum,7585,4,consistent
+Catenulispora,7496,5,consistent
+Peredibacter,7403,6,consistent
+Limnobacter,7185,3,consistent
+Microbulbifer,7172,2,consistent
+ADurb.Bin063-1,7159,8,consistent
+Cupriavidus,7098,7,consistent
+mle1-7,7091,6,consistent
+BSV13,6914,3,consistent
+Ellin517,6791,6,consistent
+Methanomassiliicoccus,6710,2,consistent
+Lacibacter,6654,5,consistent
+Tumebacillus,6643,6,consistent
+Niabella,6627,3,consistent
+Luteimonas,6551,5,consistent
+UTCFX1,6480,5,consistent
+Cellulomonas,6468,8,consistent
+Anaerosinus,6423,2,consistent
+Jatrophihabitans,6262,7,consistent
+Ilumatobacter,6218,11,consistent
+Azospira,6091,5,consistent
+Methylophaga,6060,2,consistent
+Microlunatus,6041,8,consistent
+Thermomonas,6005,3,consistent
+CL500-29 marine group,6003,4,consistent
+Paenisporosarcina,5977,3,consistent
+Fulvivirga,5956,1,consistent
+Frateuria,5836,2,consistent
+Pseudarthrobacter,5800,1,consistent
+Geothrix,5778,1,consistent
+Occallatibacter,5666,2,consistent
+Parasegetibacter,5624,6,consistent
+Glycomyces,5600,3,consistent
+Arenibacter,5520,1,consistent
+Fictibacillus,5472,1,consistent
+Catalinimonas,5435,1,consistent
+Duganella,5400,5,consistent
+Puia,5321,8,consistent
+Aurantisolimonas,5263,6,consistent
+BIyi10,5239,4,consistent
+Ruminiclostridium,5010,4,consistent
+Longivirga,5006,4,consistent
+Aquisphaera,4989,2,consistent
+Iamia,4983,4,consistent
+1921-3,4955,2,consistent
+Taibaiella,4909,6,consistent
+Saccharothrix,4877,1,consistent
+Sporacetigenium,4778,3,consistent
+Magnetospirillum,4762,5,consistent
+Nordella,4740,7,consistent
+OLB13,4558,4,consistent
+Promicromonospora,4493,4,consistent
+Methanoregula,4492,1,consistent
+Alistipes,4489,2,consistent
+Propionivibrio,4451,3,consistent
+Halomonas,4354,3,consistent
+Actinoallomurus,4337,4,consistent
+TM7a,4309,5,consistent
+Abditibacterium,4301,1,consistent
+Limibaculum,4249,1,consistent
+Dokdonella,4210,4,consistent
+Aridibacter,4163,4,consistent
+Subgroup 10,4154,5,consistent
+Sulfurospirillum,4146,4,consistent
+Terrimonas,4139,5,consistent
+Formivibrio,4121,1,consistent
+Prosthecobacter,4010,6,consistent
+Hyphomicrobium,3924,6,consistent
+Parabacteroides,3891,2,consistent
+Actinoplanes,3762,5,consistent
+Hamadaea,3720,1,consistent
+GOUTA6,3702,5,consistent
+Aeromicrobium,3617,5,consistent
+Methylophilus,3598,2,consistent
+Pseudorhizobium,3594,1,consistent
+Pirellula,3546,6,consistent
+Pajaroellobacter,3510,6,consistent
+Chryseolinea,3417,2,consistent
+Oxobacter,3415,1,consistent
+Salinimicrobium,3408,2,consistent
+Variovorax,3365,5,consistent
+Stenotrophobacter,3344,4,consistent
+Cyanobium PCC-6307,3343,2,consistent
+HSB OF53-F07,3325,2,consistent
+Dactylosporangium,3300,4,consistent
+Novosphingobium,3280,6,consistent
+Ferribacterium,3280,2,consistent
+Methylotenera,3268,2,consistent
+Nakamurella,3256,6,consistent
+Domibacillus,3219,3,consistent
+Hassallia,3208,3,consistent
+Christensenellaceae R-7 group,3203,1,consistent
+Polaromonas,3200,5,consistent
+Glutamicibacter,3196,1,consistent
+1921-2,3171,2,consistent
+Gemmata,3162,3,consistent
+Terriglobus,3125,4,consistent
+Haloferula,3105,2,consistent
+Thalassobaculum,3102,2,consistent
+Sporosarcina,3075,3,consistent
+Roseomonas,2979,5,consistent
+Amaricoccus,2940,2,consistent
+Parafilimonas,2928,2,consistent
+SZB85,2884,1,consistent
+Lactococcus,2853,3,consistent
+Aetherobacter,2820,3,consistent
+Blastomonas,2796,2,consistent
+Cohnella,2795,4,consistent
+Noviherbaspirillum,2783,2,consistent
+Segetibacter,2773,1,consistent
+Arachidicoccus,2766,1,consistent
+YC-ZSS-LKJ147,2750,2,consistent
+Kaistia,2704,3,consistent
+Aquabacterium,2649,1,consistent
+Dinghuibacter,2577,4,consistent
+Aquicella,2548,1,consistent
+Janthinobacterium,2532,2,consistent
+Mizugakiibacter,2483,1,consistent
+Afipia,2442,3,consistent
+Ahniella,2437,3,consistent
+Rhodomicrobium,2376,3,consistent
+Rudaea,2350,2,consistent
+Tahibacter,2309,3,consistent
+Tychonema CCAP 1459-11B,2281,1,consistent
+Streptosporangium,2270,2,consistent
+Roseiarcus,2207,2,consistent
+Rhodoblastus,2188,2,consistent
+Arthrobacter,2171,3,consistent
+Desulfosporosinus,2165,2,consistent
+Elizabethkingia,2164,2,consistent
+Mobilitalea,2164,2,consistent
+Curvibacter,2163,2,consistent
+Acidaminobacter,2153,4,consistent
+Nostoc PCC-7524,2141,2,consistent
+JGI 0001001-H03,2140,3,consistent
+Crossiella,2111,1,consistent
+Sideroxydans,2097,4,consistent
+Nubsella,2055,1,consistent
+Candidatus Nucleicultrix,2054,1,consistent
+Pir4 lineage,2050,2,consistent
+Pleomorphomonas,2044,1,consistent
+Actinocorallia,2026,1,consistent
+Luedemannella,1941,3,consistent
+IS-44,1896,2,consistent
+Bifidobacterium,1895,2,consistent
+Herbinix,1848,1,consistent
+Nitrosomonas,1838,2,consistent
+Limnohabitans,1837,1,consistent
+Methanospirillum,1833,1,consistent
+Shewanella,1751,1,consistent
+Woeseia,1736,1,consistent
+Rhodocytophaga,1730,2,consistent
+Pantoea,1728,2,consistent
+Thauera,1716,1,consistent
+Phaeocystidibacter,1708,1,consistent
+Herbaspirillum,1680,3,consistent
+Desulfobacca,1677,3,consistent
+Luteitalea,1669,1,consistent
+Rummeliibacillus,1630,2,consistent
+Ellin6055,1613,1,consistent
+Verrucomicrobium,1607,2,consistent
+Fusibacter,1585,1,consistent
+Pedococcus-Phycicoccus,1581,3,consistent
+Angustibacter,1580,3,consistent
+Bdellovibrio,1548,3,consistent
+Comamonas,1536,2,consistent
+Diplosphaera,1526,1,consistent
+Anaerovorax,1517,3,consistent
+Candidatus Alysiosphaera,1486,2,consistent
+Candidatus Methanoperedens,1477,1,consistent
+Methylobacillus,1459,2,consistent
+Escherichia-Shigella,1449,1,consistent
+Geobacillus,1437,1,consistent
+FCPS473,1429,2,consistent
+alphaI cluster,1415,3,consistent
+Polycyclovorans,1397,1,consistent
+Shimazuella,1395,1,consistent
+Acetobacter,1370,1,consistent
+Nocardia,1364,1,consistent
+Akkermansia,1340,1,consistent
+Ruminococcus,1325,2,consistent
+Hirschia,1265,2,consistent
+Piscinibacter,1250,3,consistent
+Candidatus Accumulibacter,1210,1,consistent
+Vogesella,1185,2,consistent
+Edaphobaculum,1180,1,consistent
+Phyllobacterium,1170,2,consistent
+Alishewanella,1168,1,consistent
+Brevifollis,1168,1,consistent
+Halobacillus,1148,1,consistent
+Kocuria,1147,2,consistent
+Filimonas,1143,1,consistent
+Hymenobacter,1140,1,consistent
+Aquimonas,1102,1,consistent
+Sh765B-TzT-35,1080,3,consistent
+Barnesiella,1054,1,consistent
+Shinella,1045,2,consistent
+Acidisoma,1044,1,consistent
+Azohydromonas,1037,1,consistent
+Pseudogulbenkiania,1018,1,consistent
+Derxia,1011,1,consistent
+Roseisolibacter,979,1,consistent
+Megamonas,978,1,consistent
+Chthonomonas,978,1,consistent
+Candidatus Nitrotoga,968,1,consistent
+SH3-11,963,1,consistent
+Psychrobacillus,959,1,consistent
+Streptococcus,942,1,consistent
+Jonesia,941,1,consistent
+Acetivibrio,924,1,consistent
+Rubellimicrobium,922,1,consistent
+Anaerobacterium,915,1,consistent
+Siphonobacter,910,1,consistent
+Virgisporangium,907,1,consistent
+Leeia,886,1,consistent
+Polynucleobacter,884,1,consistent
+Phascolarctobacterium,874,1,consistent
+Singulisphaera,871,1,consistent
+Dialister,861,1,consistent
+Leptolinea,860,1,consistent
+Ferrovibrio,860,1,consistent
+Aliihoeflea,833,1,consistent
+Methanobrevibacter,828,1,consistent
+Subsaxibacter,816,1,consistent
+Terribacillus,816,1,consistent
+Pedomicrobium,813,2,consistent
+Geobacter,812,1,consistent
+Ignavibacterium,812,1,consistent
+Thermincola,808,2,consistent
+Pseudorhodoplanes,803,1,consistent
+Alsobacter,799,1,consistent
+Longimicrobium,796,1,consistent
+Palleronia-Pseudomaribius,795,1,consistent
+Demequina,787,1,consistent
+Pullulanibacillus,784,1,consistent
+Smithella,770,1,consistent
+Spirochaeta 2,768,2,consistent
+Spirosoma,767,2,consistent
+Tardiphaga,763,1,consistent
+Leptonema,761,2,consistent
+Alcanivorax,748,1,consistent
+OLB12,744,2,consistent
+Schlesneria,728,1,consistent
+Kushneria,724,1,consistent
+UTBCD1,696,1,consistent
+Ideonella,688,2,consistent
+Candidatus Planktophila,686,1,consistent
+Pantalinema,686,1,consistent
+Candidatus Nitrosotenuis,685,1,consistent
+Solitalea,684,1,consistent
+Jeotgalibacillus,683,1,consistent
+Tepidicaulis,675,1,consistent
+Undibacterium,674,2,consistent
+Kitasatospora,656,2,consistent
+Sporocytophaga,653,2,consistent
+Olivibacter,639,1,consistent
+TX1A-55,635,1,consistent
+Geothermobacter,632,2,consistent
+Lautropia,625,1,consistent
+Odoribacter,620,1,consistent
+Pelosinus,618,2,consistent
+Rhodoferax,617,1,consistent
+Castellaniella,608,2,consistent
+Marinoscillum,598,1,consistent
+Lapillicoccus,598,1,consistent
+Kineosporia,593,1,consistent
+C1-B045,591,1,consistent
+1959-1,576,1,consistent
+OLB17,570,1,consistent
+Dietzia,563,1,consistent
+Moheibacter,559,1,consistent
+Lacimicrobium,549,1,consistent
+Salinispira,547,1,consistent
+Intrasporangium,546,1,consistent
+Zoogloea,530,1,consistent
+Blvii28 wastewater-sludge group,495,1,consistent
+IMCC26134,488,2,consistent
+Defluviitoga,483,1,consistent
+Rurimicrobium,482,2,consistent
+JTB255 marine benthic group,480,1,consistent
+Solimonas,460,1,consistent
+Serratia,460,1,consistent
+Legionella,458,1,consistent
+G12-WMSP1,450,1,consistent
+Tellurimicrobium,449,2,consistent
+Roseateles,444,1,consistent
+RS25G,442,1,consistent
+Anaerostipes,428,1,consistent
+Fimbriiglobus,423,1,consistent
+Streptacidiphilus,422,1,consistent
+Pseudoduganella,416,1,consistent
+Permianibacter,412,1,consistent
+Cavicella,408,1,consistent
+Cloacibacterium,403,1,consistent
+Terrimicrobium,374,2,consistent
+Planktothrix NIVA-CYA 15,367,1,consistent
+Parapedobacter,366,1,consistent
+Kroppenstedtia,350,1,consistent
+Phreatobacter,347,1,consistent
+Coprococcus,336,1,consistent
+Sphingorhabdus,321,1,consistent
+Pelagibacterium,321,1,consistent
+Lysinibacillus,320,1,consistent
+Flexivirga,317,1,consistent
+Curtobacterium,311,1,consistent
+Brachybacterium,290,1,consistent
+Methylovirgula,290,1,consistent
+Gryllotalpicola,288,1,consistent
+Planifilum,280,1,consistent
+Ancylothrix 8PC,272,1,consistent
+Roseimicrobium,267,1,consistent
+Nitratireductor,253,1,consistent
+Ellin516,248,1,consistent
+SWB02,241,1,consistent
+Actinotalea,225,1,consistent
+Neorhizobium,224,1,consistent
+Proteiniphilum,220,1,consistent
+Roseococcus,210,1,consistent
+Azotobacter,196,1,consistent
+Cutibacterium,190,1,consistent
+Herminiimonas,190,1,consistent
+Phormidium IAM M-71,184,1,consistent
+BD1-7 clade,170,1,consistent
+Arcticibacter,166,1,consistent
+Archangium,164,1,consistent
+Quatrionicoccus,162,1,consistent
+Ileibacterium,159,1,consistent
+Desulfomicrobium,158,1,consistent
+28-YEA-48,156,1,consistent
+Syntrophus,155,1,consistent
+Flavihumibacter,152,1,consistent
+Sorangium,150,1,consistent
+Corallococcus,147,1,consistent
+Hephaestia,146,1,consistent
+DEV008,137,1,consistent
+RBG-16-58-14,136,1,consistent
+Leptospira,136,1,consistent
+Sulfurovum,133,1,consistent
+P3OB-42,131,1,consistent
+Aminobacter,130,1,consistent
+Leptolyngbya EcFYyyy-00,119,1,consistent
+SH-PL14,117,1,consistent
+Herpetosiphon,116,1,consistent
+Truepera,114,1,consistent
+Brevibacillus,106,1,consistent
+Methylomicrobium,100,1,consistent
+Nonomuraea,97,1,consistent
+Polyangium,82,1,consistent
+Geitlerinema,72,1,consistent
+Bacillus,332115,30,dada2_only_not_confirmed
+Pseudarthrobacter,324355,29,dada2_only_not_confirmed
+uncultured,247507,42,dada2_only_not_confirmed
+Pseudomonas,211903,19,dada2_only_not_confirmed
+Massilia,180640,23,dada2_only_not_confirmed
+Bradyrhizobium,176214,36,dada2_only_not_confirmed
+uncultured bacterium,148910,35,dada2_only_not_confirmed
+Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium,145001,26,dada2_only_not_confirmed
+Flavobacterium,141160,12,dada2_only_not_confirmed
+Burkholderia-Caballeronia-Paraburkholderia,111573,12,dada2_only_not_confirmed
+Ramlibacter,98712,28,dada2_only_not_confirmed
+Sphingomonas,95031,28,dada2_only_not_confirmed
+Hydrogenophaga,83436,10,dada2_only_not_confirmed
+Klebsiella,79460,10,dada2_only_not_confirmed
+Limnohabitans,73170,8,dada2_only_not_confirmed
+Rhodanobacter,69221,10,dada2_only_not_confirmed
+Devosia,62797,20,dada2_only_not_confirmed
+Dyella,56116,6,dada2_only_not_confirmed
+Paenibacillus,53627,9,dada2_only_not_confirmed
+Ensifer,49903,5,dada2_only_not_confirmed
+Variovorax,46020,10,dada2_only_not_confirmed
+Marmoricola,40024,21,dada2_only_not_confirmed
+Steroidobacter,39995,14,dada2_only_not_confirmed
+Kitasatospora,39534,3,dada2_only_not_confirmed
+Paucibacter,39413,8,dada2_only_not_confirmed
+Intrasporangium,37137,10,dada2_only_not_confirmed
+Ellin6055,36525,14,dada2_only_not_confirmed
+Blastococcus,35625,20,dada2_only_not_confirmed
+Gemmatimonas,35313,12,dada2_only_not_confirmed
+Pantoea,31843,7,dada2_only_not_confirmed
+Xylophilus,31187,10,dada2_only_not_confirmed
+Duganella,30865,11,dada2_only_not_confirmed
+Pseudoduganella,30820,9,dada2_only_not_confirmed
+Bryobacter,30746,15,dada2_only_not_confirmed
+Candidatus Nitrocosmicus,30361,11,dada2_only_not_confirmed
+Piscinibacter,28656,11,dada2_only_not_confirmed
+Altererythrobacter,26495,11,dada2_only_not_confirmed
+Lysobacter,25820,15,dada2_only_not_confirmed
+Noviherbaspirillum,25136,13,dada2_only_not_confirmed
+Citrifermentans,24637,9,dada2_only_not_confirmed
+Aeromonas,24343,3,dada2_only_not_confirmed
+uncultured soil bacterium,24111,7,dada2_only_not_confirmed
+Dechloromonas,23465,5,dada2_only_not_confirmed
+uncultured Acidobacteria bacterium,22875,6,dada2_only_not_confirmed
+Rhodoferax,22360,6,dada2_only_not_confirmed
+Afipia,22118,12,dada2_only_not_confirmed
+Paenisporosarcina,21759,8,dada2_only_not_confirmed
+Acidovorax,21744,9,dada2_only_not_confirmed
+Enterobacter,21259,9,dada2_only_not_confirmed
+Rhizobacter,21108,7,dada2_only_not_confirmed
+Neorhizobium,19205,9,dada2_only_not_confirmed
+Luteimonas,18616,7,dada2_only_not_confirmed
+Clostridium sensu stricto 8,18364,4,dada2_only_not_confirmed
+uncultured crenarchaeote,17252,9,dada2_only_not_confirmed
+Clostridium sensu stricto 10,16880,6,dada2_only_not_confirmed
+Archangium,16173,14,dada2_only_not_confirmed
+Streptomyces,15228,8,dada2_only_not_confirmed
+Pseudolabrys,15029,9,dada2_only_not_confirmed
+Fonticella,14217,2,dada2_only_not_confirmed
+Rahnella1,14073,1,dada2_only_not_confirmed
+Porphyrobacter,13827,6,dada2_only_not_confirmed
+uncultured Acidobacteriaceae bacterium,13694,7,dada2_only_not_confirmed
+Alicyclobacillus,13323,1,dada2_only_not_confirmed
+Janthinobacterium,13201,2,dada2_only_not_confirmed
+Stenotrophomonas,12867,2,dada2_only_not_confirmed
+[Rhizobium] sphaerophysae group,12707,3,dada2_only_not_confirmed
+Roseateles,12391,1,dada2_only_not_confirmed
+Nostoc PCC-73102,12147,1,dada2_only_not_confirmed
+Knoellia,12104,8,dada2_only_not_confirmed
+TM7a,11794,5,dada2_only_not_confirmed
+Arthrobacter,11578,7,dada2_only_not_confirmed
+Achromobacter,11432,7,dada2_only_not_confirmed
+Nocardioides,11254,13,dada2_only_not_confirmed
+Anaeromyxobacter,11005,3,dada2_only_not_confirmed
+Mesorhizobium,10844,12,dada2_only_not_confirmed
+Terracidiphilus,10744,8,dada2_only_not_confirmed
+Occallatibacter,10696,2,dada2_only_not_confirmed
+Azoarcus,10502,3,dada2_only_not_confirmed
+Lechevalieria,10437,4,dada2_only_not_confirmed
+Kosakonia,10368,3,dada2_only_not_confirmed
+Qipengyuania,10121,10,dada2_only_not_confirmed
+Azohydromonas,10071,6,dada2_only_not_confirmed
+Terrimonas,10015,7,dada2_only_not_confirmed
+Methyloceanibacter,9788,1,dada2_only_not_confirmed
+Galbitalea,9629,7,dada2_only_not_confirmed
+uncultured thaumarchaeote,9482,1,dada2_only_not_confirmed
+Ideonella,9282,4,dada2_only_not_confirmed
+Pseudaminobacter,9273,7,dada2_only_not_confirmed
+Geobacter,9200,2,dada2_only_not_confirmed
+Frateuria,9049,5,dada2_only_not_confirmed
+Escherichia-Shigella,9001,3,dada2_only_not_confirmed
+1921-3,8839,2,dada2_only_not_confirmed
+Lapillicoccus,8785,9,dada2_only_not_confirmed
+Flavisolibacter,8767,4,dada2_only_not_confirmed
+RB41,8741,8,dada2_only_not_confirmed
+Ellin6067,8604,1,dada2_only_not_confirmed
+Herbaspirillum,8320,7,dada2_only_not_confirmed
+Microbacterium,8180,3,dada2_only_not_confirmed
+Mycoplana,8122,4,dada2_only_not_confirmed
+Serratia,8019,2,dada2_only_not_confirmed
+Shinella,7942,8,dada2_only_not_confirmed
+Chitinophaga,7913,2,dada2_only_not_confirmed
+metagenome,7891,10,dada2_only_not_confirmed
+Exiguobacterium,7810,2,dada2_only_not_confirmed
+ADurb.Bin063-1,7643,6,dada2_only_not_confirmed
+Mucilaginibacter,7465,5,dada2_only_not_confirmed
+Clostridium sensu stricto 12,7345,2,dada2_only_not_confirmed
+Thermomonas,7274,7,dada2_only_not_confirmed
+Pedococcus-Phycicoccus,7062,9,dada2_only_not_confirmed
+Spongospora subterranea,7046,2,dada2_only_not_confirmed
+Candidatus Solibacter,7029,8,dada2_only_not_confirmed
+Caenimonas,6890,7,dada2_only_not_confirmed
+Isoptericola,6854,1,dada2_only_not_confirmed
+Solirubrobacter,6719,2,dada2_only_not_confirmed
+Sphingobium,6688,6,dada2_only_not_confirmed
+Acidibacter,6647,4,dada2_only_not_confirmed
+uncultured Alphaproteobacteria bacterium,6515,3,dada2_only_not_confirmed
+Solibacillus,6509,5,dada2_only_not_confirmed
+Modestobacter,6482,3,dada2_only_not_confirmed
+UTCFX1,6442,5,dada2_only_not_confirmed
+Acidothermus,6269,2,dada2_only_not_confirmed
+Luedemannella,6267,6,dada2_only_not_confirmed
+Chryseolinea,6180,5,dada2_only_not_confirmed
+Oryzihumus,6140,3,dada2_only_not_confirmed
+Pedobacter,6099,5,dada2_only_not_confirmed
+Chungangia,6060,3,dada2_only_not_confirmed
+bacterium Ellin6527,5907,1,dada2_only_not_confirmed
+Anaerolinea,5857,6,dada2_only_not_confirmed
+Haliangium,5717,5,dada2_only_not_confirmed
+Allostreptomyces,5689,2,dada2_only_not_confirmed
+Rhodococcus,5675,1,dada2_only_not_confirmed
+JGI 0001001-H03,5599,5,dada2_only_not_confirmed
+Streptacidiphilus sp. DSM 106435,5574,2,dada2_only_not_confirmed
+Methylotenera,5565,2,dada2_only_not_confirmed
+Rheinheimera,5557,1,dada2_only_not_confirmed
+JG30a-KF-32,5511,2,dada2_only_not_confirmed
+Nitrobacter,5285,3,dada2_only_not_confirmed
+Clostridium sensu stricto 9,5172,4,dada2_only_not_confirmed
+Methylocystis,5168,7,dada2_only_not_confirmed
+Sulfuritalea,5168,2,dada2_only_not_confirmed
+[Cytophaga] xylanolytica group,5102,1,dada2_only_not_confirmed
+Pythium ultimum,5093,7,dada2_only_not_confirmed
+Azospirillum,5084,1,dada2_only_not_confirmed
+Clostridium sensu stricto 1,5071,6,dada2_only_not_confirmed
+Blautia,5041,3,dada2_only_not_confirmed
+1921-2,5035,2,dada2_only_not_confirmed
+Sinorhizobium sp. RAC02,5000,4,dada2_only_not_confirmed
+Gaiella,4980,8,dada2_only_not_confirmed
+Delftia,4931,2,dada2_only_not_confirmed
+Micromonospora,4868,4,dada2_only_not_confirmed
+Geodermatophilus,4856,3,dada2_only_not_confirmed
+Conexibacter,4823,7,dada2_only_not_confirmed
+FCPS473,4798,2,dada2_only_not_confirmed
+Methanosaeta,4688,1,dada2_only_not_confirmed
+Actinosynnema pretiosum,4673,3,dada2_only_not_confirmed
+Geothrix,4666,5,dada2_only_not_confirmed
+Curtobacterium,4589,2,dada2_only_not_confirmed
+Cellvibrio,4562,1,dada2_only_not_confirmed
+uncultured bacterium 5G12,4533,5,dada2_only_not_confirmed
+Subdoligranulum,4355,3,dada2_only_not_confirmed
+Salmonella,4326,2,dada2_only_not_confirmed
+uncultured Solirubrobacter sp.,4295,2,dada2_only_not_confirmed
+Rhodobacter,4275,3,dada2_only_not_confirmed
+Tabrizicola,4227,6,dada2_only_not_confirmed
+Candidatus Koribacter,4135,4,dada2_only_not_confirmed
+Actinoplanes,4067,5,dada2_only_not_confirmed
+Phytoactinopolyspora,3982,1,dada2_only_not_confirmed
+Erythrobacter,3931,1,dada2_only_not_confirmed
+Pseudorhodobacter,3910,1,dada2_only_not_confirmed
+Sideroxydans,3836,7,dada2_only_not_confirmed
+Oxalicibacterium,3830,6,dada2_only_not_confirmed
+Comamonas,3736,3,dada2_only_not_confirmed
+Rhodoplanes,3552,5,dada2_only_not_confirmed
+Paenarthrobacter,3539,5,dada2_only_not_confirmed
+Aquisphaera,3485,2,dada2_only_not_confirmed
+UTBCD1,3474,3,dada2_only_not_confirmed
+Deferrisoma,3435,2,dada2_only_not_confirmed
+Symbiobacterium,3418,1,dada2_only_not_confirmed
+Bordetella,3410,1,dada2_only_not_confirmed
+Pannonibacter,3360,2,dada2_only_not_confirmed
+uncultured Acidobacteriales bacterium,3323,5,dada2_only_not_confirmed
+Arcticibacter,3303,5,dada2_only_not_confirmed
+Rubrivivax,3296,3,dada2_only_not_confirmed
+Cryobacterium,3282,3,dada2_only_not_confirmed
+Clostridium sensu stricto 3,3248,3,dada2_only_not_confirmed
+Zoogloea,3214,1,dada2_only_not_confirmed
+Tolumonas,3192,2,dada2_only_not_confirmed
+Staphylococcus,3164,1,dada2_only_not_confirmed
+uncultured actinobacterium,3126,5,dada2_only_not_confirmed
+Lysinimonas,3118,1,dada2_only_not_confirmed
+Candidimonas,3077,1,dada2_only_not_confirmed
+Ruminiclostridium,3049,3,dada2_only_not_confirmed
+Catenulispora,3020,1,dada2_only_not_confirmed
+Bdellovibrio,2997,3,dada2_only_not_confirmed
+Denitratisoma,2990,3,dada2_only_not_confirmed
+Niastella,2986,2,dada2_only_not_confirmed
+Ferribacterium,2975,3,dada2_only_not_confirmed
+Aquabacterium,2933,1,dada2_only_not_confirmed
+Kocuria,2929,1,dada2_only_not_confirmed
+Propionivibrio,2905,1,dada2_only_not_confirmed
+HSB OF53-F07,2880,1,dada2_only_not_confirmed
+Leifsonia,2848,2,dada2_only_not_confirmed
+Chthoniobacter,2792,5,dada2_only_not_confirmed
+Desulfuromonas,2789,3,dada2_only_not_confirmed
+uncultured proteobacterium,2756,2,dada2_only_not_confirmed
+Terrabacter,2726,2,dada2_only_not_confirmed
+Achromobacter spanius,2664,3,dada2_only_not_confirmed
+Methylophilus,2643,3,dada2_only_not_confirmed
+Methylibium,2633,2,dada2_only_not_confirmed
+uncultured Conexibacter sp.,2583,3,dada2_only_not_confirmed
+Acidicaldus,2550,2,dada2_only_not_confirmed
+Longimycelium,2502,1,dada2_only_not_confirmed
+Pseudorhodoferax,2488,3,dada2_only_not_confirmed
+Quadrisphaera,2460,1,dada2_only_not_confirmed
+[Clostridium] innocuum group,2456,2,dada2_only_not_confirmed
+Acidipila-Silvibacterium,2403,2,dada2_only_not_confirmed
+Rivibacter,2393,2,dada2_only_not_confirmed
+Polaromonas,2379,2,dada2_only_not_confirmed
+uncultured Rubrobacteria bacterium,2365,4,dada2_only_not_confirmed
+Brevundimonas,2316,2,dada2_only_not_confirmed
+Pseudocitrobacter,2292,1,dada2_only_not_confirmed
+Luteibacter,2230,1,dada2_only_not_confirmed
+Chryseobacterium,2202,1,dada2_only_not_confirmed
+Pseudogymnoascus pannorum,2197,1,dada2_only_not_confirmed
+Mycobacterium,2194,5,dada2_only_not_confirmed
+Novosphingobium,2163,4,dada2_only_not_confirmed
+Candidatus Nitrososphaera,2157,1,dada2_only_not_confirmed
+Nonomuraea,2113,4,dada2_only_not_confirmed
+Pseudorhodoplanes,2074,2,dada2_only_not_confirmed
+OLB17,2064,5,dada2_only_not_confirmed
+Parafilimonas,2062,1,dada2_only_not_confirmed
+Candidatus Udaeobacter,2031,2,dada2_only_not_confirmed
+Blastomonas,2003,1,dada2_only_not_confirmed
+uncultured beta proteobacterium,2001,3,dada2_only_not_confirmed
+MM2,1968,2,dada2_only_not_confirmed
+Opitutus,1968,3,dada2_only_not_confirmed
+uncultured archaeon,1959,5,dada2_only_not_confirmed
+Humibacter,1940,1,dada2_only_not_confirmed
+Clavibacter,1927,2,dada2_only_not_confirmed
+Oxalophagus,1885,1,dada2_only_not_confirmed
+Edaphobaculum,1873,2,dada2_only_not_confirmed
+uncultured Gaiella sp.,1809,3,dada2_only_not_confirmed
+Tardiphaga,1807,3,dada2_only_not_confirmed
+Lactobacillus,1778,1,dada2_only_not_confirmed
+Pelomonas,1774,2,dada2_only_not_confirmed
+Fusicatenibacter,1769,1,dada2_only_not_confirmed
+Yangia,1758,1,dada2_only_not_confirmed
+Dinghuibacter,1749,1,dada2_only_not_confirmed
+Xanthobacter,1735,1,dada2_only_not_confirmed
+uncultured Holophaga sp.,1720,3,dada2_only_not_confirmed
+Kineosporia,1715,1,dada2_only_not_confirmed
+Lacibacter,1701,3,dada2_only_not_confirmed
+Mobilitalea,1667,3,dada2_only_not_confirmed
+Dechlorobacter,1660,2,dada2_only_not_confirmed
+Methanobacterium,1646,1,dada2_only_not_confirmed
+Dechlorosoma,1640,2,dada2_only_not_confirmed
+Raoultella,1633,1,dada2_only_not_confirmed
+Anaerostipes,1599,1,dada2_only_not_confirmed
+Kutzneria,1592,2,dada2_only_not_confirmed
+Halomonas,1587,1,dada2_only_not_confirmed
+Rugamonas,1547,3,dada2_only_not_confirmed
+Ciceribacter,1542,2,dada2_only_not_confirmed
+Simplicispira,1530,1,dada2_only_not_confirmed
+Lysinibacillus,1526,3,dada2_only_not_confirmed
+Yersinia,1513,2,dada2_only_not_confirmed
+Subgroup 10,1497,3,dada2_only_not_confirmed
+uncultured delta proteobacterium,1480,1,dada2_only_not_confirmed
+Agathobacter,1478,1,dada2_only_not_confirmed
+Rudaea,1456,1,dada2_only_not_confirmed
+Nitrospira,1453,1,dada2_only_not_confirmed
+Chryseoglobus,1432,1,dada2_only_not_confirmed
+hgcI clade,1422,1,dada2_only_not_confirmed
+Holophaga,1393,1,dada2_only_not_confirmed
+Planomicrobium,1382,1,dada2_only_not_confirmed
+Streptococcus,1373,2,dada2_only_not_confirmed
+Siccibacter,1372,1,dada2_only_not_confirmed
+BSV13,1360,1,dada2_only_not_confirmed
+Edaphobacter,1357,2,dada2_only_not_confirmed
+alphaI cluster,1353,2,dada2_only_not_confirmed
+uncultured Methanomicrobiales archaeon,1318,1,dada2_only_not_confirmed
+Falsibacillus,1301,1,dada2_only_not_confirmed
+Clostridium sensu stricto 5,1300,1,dada2_only_not_confirmed
+Rhizorhapis,1293,2,dada2_only_not_confirmed
+Chujaibacter,1288,1,dada2_only_not_confirmed
+ADurb.Bin118,1275,1,dada2_only_not_confirmed
+Georgenia,1269,1,dada2_only_not_confirmed
+Hyphomicrobium,1263,1,dada2_only_not_confirmed
+Methyloversatilis,1231,1,dada2_only_not_confirmed
+Asanoa,1218,1,dada2_only_not_confirmed
+Telmatospirillum,1196,1,dada2_only_not_confirmed
+P3OB-42,1195,1,dada2_only_not_confirmed
+Fluviicola,1191,2,dada2_only_not_confirmed
+Ohtaekwangia,1184,1,dada2_only_not_confirmed
+Confluentibacter,1183,1,dada2_only_not_confirmed
+Paracoccus,1182,1,dada2_only_not_confirmed
+Enterococcus,1173,1,dada2_only_not_confirmed
+Epulopiscium,1173,1,dada2_only_not_confirmed
+Azoarcus olearius,1164,1,dada2_only_not_confirmed
+Sporosarcina,1160,2,dada2_only_not_confirmed
+Streptacidiphilus,1140,2,dada2_only_not_confirmed
+uncultured Anaeromyxobacter sp.,1136,2,dada2_only_not_confirmed
+Pandoraea,1136,1,dada2_only_not_confirmed
+Pedomicrobium,1136,1,dada2_only_not_confirmed
+Couchioplanes,1129,1,dada2_only_not_confirmed
+Domibacillus,1127,1,dada2_only_not_confirmed
+Filimonas,1122,1,dada2_only_not_confirmed
+Ornithinimicrobium,1121,1,dada2_only_not_confirmed
+Geosporobacter,1109,1,dada2_only_not_confirmed
+Puia,1102,1,dada2_only_not_confirmed
+Rodentibacter,1100,1,dada2_only_not_confirmed
+Phyllobacterium,1077,2,dada2_only_not_confirmed
+Labrenzia,1057,1,dada2_only_not_confirmed
+Reyranella,1053,1,dada2_only_not_confirmed
+Leptothrix,1052,2,dada2_only_not_confirmed
+Pajaroellobacter,1032,1,dada2_only_not_confirmed
+uncultured planctomycete,1029,1,dada2_only_not_confirmed
+Alsobacter,1026,1,dada2_only_not_confirmed
+Plasticicumulans,1009,1,dada2_only_not_confirmed
+Ferruginibacter,980,1,dada2_only_not_confirmed
+mle1-7,977,1,dada2_only_not_confirmed
+Rhizomicrobium,968,1,dada2_only_not_confirmed
+Fimbriimonas,968,1,dada2_only_not_confirmed
+Bryocella,961,1,dada2_only_not_confirmed
+Granulicella,956,2,dada2_only_not_confirmed
+Imperialibacter,945,1,dada2_only_not_confirmed
+uncultured Chlorobiales bacterium,942,1,dada2_only_not_confirmed
+Oxobacter,922,1,dada2_only_not_confirmed
+Methylocella,911,2,dada2_only_not_confirmed
+Azospira,899,2,dada2_only_not_confirmed
+Cedecea,895,1,dada2_only_not_confirmed
+[Ruminococcus] gnavus group,891,2,dada2_only_not_confirmed
+Actinomadura,881,1,dada2_only_not_confirmed
+Syntrophomonas,843,1,dada2_only_not_confirmed
+Pseudofulvimonas,835,1,dada2_only_not_confirmed
+Giesbergeria,832,1,dada2_only_not_confirmed
+Phytohabitans,819,1,dada2_only_not_confirmed
+Anaerosporobacter,819,1,dada2_only_not_confirmed
+Chiayiivirga,814,1,dada2_only_not_confirmed
+SUP05 cluster,798,1,dada2_only_not_confirmed
+Pirellula,754,1,dada2_only_not_confirmed
+Kluyvera,751,1,dada2_only_not_confirmed
+Cellulosimicrobium,748,1,dada2_only_not_confirmed
+Pseudooceanicola,740,1,dada2_only_not_confirmed
+Actinoallomurus,737,1,dada2_only_not_confirmed
+Woeseia,737,1,dada2_only_not_confirmed
+Pseudochrobactrum,726,1,dada2_only_not_confirmed
+Spirogyra sp. CLP-2000,725,1,dada2_only_not_confirmed
+Bacteroides,723,1,dada2_only_not_confirmed
+BIyi10,674,1,dada2_only_not_confirmed
+Ga0074140,656,1,dada2_only_not_confirmed
+Martelella,650,1,dada2_only_not_confirmed
+Tahibacter,648,1,dada2_only_not_confirmed
+Hoeflea,646,1,dada2_only_not_confirmed
+Romboutsia,631,1,dada2_only_not_confirmed
+Cnuella,624,1,dada2_only_not_confirmed
+Curvibacter,615,1,dada2_only_not_confirmed
+[Ruminococcus] torques group,606,1,dada2_only_not_confirmed
+B276-D12,603,1,dada2_only_not_confirmed
+Aminobacter,596,3,dada2_only_not_confirmed
+Microvirga,595,1,dada2_only_not_confirmed
+Jatrophihabitans,576,1,dada2_only_not_confirmed
+Vicinamibacter,572,1,dada2_only_not_confirmed
+Chlorella pyrenoidosa,567,1,dada2_only_not_confirmed
+Psychroglaciecola,567,1,dada2_only_not_confirmed
+IheB3-7,554,1,dada2_only_not_confirmed
+Christensenellaceae R-7 group,539,1,dada2_only_not_confirmed
+Krasilnikovia,534,1,dada2_only_not_confirmed
+Paraclostridium,490,2,dada2_only_not_confirmed
+Microbispora,489,1,dada2_only_not_confirmed
+Microcoleus PCC-7113,482,1,dada2_only_not_confirmed
+Actimicrobium,477,1,dada2_only_not_confirmed
+Candidatus Protochlamydia,473,1,dada2_only_not_confirmed
+uncultured Conexibacteraceae bacterium,465,2,dada2_only_not_confirmed
+uncultured Chloroflexi bacterium,461,1,dada2_only_not_confirmed
+Sediminibacterium,457,2,dada2_only_not_confirmed
+Hamadaea,453,1,dada2_only_not_confirmed
+Psychrobacillus,450,1,dada2_only_not_confirmed
+Marisediminicola,447,1,dada2_only_not_confirmed
+Lautropia,441,1,dada2_only_not_confirmed
+[Desulfobacterium] catecholicum group,438,2,dada2_only_not_confirmed
+Pseudoflavitalea,434,1,dada2_only_not_confirmed
+Methylosinus,430,2,dada2_only_not_confirmed
+Sulfurisoma,417,1,dada2_only_not_confirmed
+Povalibacter,406,1,dada2_only_not_confirmed
+Aurantisolimonas,400,1,dada2_only_not_confirmed
+Arsenicitalea,393,1,dada2_only_not_confirmed
+uncultured microorganism,367,1,dada2_only_not_confirmed
+Candidatus Nostocoida,366,1,dada2_only_not_confirmed
+Geotalea,363,1,dada2_only_not_confirmed
+uncultured Rubrobacteraceae bacterium,362,1,dada2_only_not_confirmed
+AR15,360,1,dada2_only_not_confirmed
+Bordetella flabilis,358,1,dada2_only_not_confirmed
+Triticum aestivum (bread wheat),356,1,dada2_only_not_confirmed
+Hylemonella,355,1,dada2_only_not_confirmed
+Acanthamoeba sp.,339,1,dada2_only_not_confirmed
+Paucisalibacillus,333,1,dada2_only_not_confirmed
+Collimonas,332,1,dada2_only_not_confirmed
+Ilumatobacter,331,1,dada2_only_not_confirmed
+Desulfovirga,326,1,dada2_only_not_confirmed
+uncultured Rhodobiaceae bacterium,321,1,dada2_only_not_confirmed
+Candidatus Nitrotoga,321,1,dada2_only_not_confirmed
+Luteolibacter,318,2,dada2_only_not_confirmed
+Leptolyngbya ANT.L52.2,312,1,dada2_only_not_confirmed
+Treponema,304,1,dada2_only_not_confirmed
+uncultured bacterium 70,304,1,dada2_only_not_confirmed
+Rugosimonospora,294,1,dada2_only_not_confirmed
+Weissella,273,1,dada2_only_not_confirmed
+Candidatus Xiphinematobacter,264,1,dada2_only_not_confirmed
+WCHB1-32,262,2,dada2_only_not_confirmed
+Acidaminobacter,252,1,dada2_only_not_confirmed
+uncultured Candidatus Saccharibacteria bacterium,235,1,dada2_only_not_confirmed
+Micropepsis,219,1,dada2_only_not_confirmed
+Iamia,210,1,dada2_only_not_confirmed
+Fictibacillus,206,1,dada2_only_not_confirmed
+Rhodopseudomonas,202,1,dada2_only_not_confirmed
+Caulobacter,188,1,dada2_only_not_confirmed
+Rhodopila,180,1,dada2_only_not_confirmed
+Hephaestia,177,1,dada2_only_not_confirmed
+Conyzicola,176,1,dada2_only_not_confirmed
+Roseomonas,170,1,dada2_only_not_confirmed
+Zhizhongheella,166,1,dada2_only_not_confirmed
+Lelliottia,157,1,dada2_only_not_confirmed
+Ornithinibacter,156,1,dada2_only_not_confirmed
+MND1,155,1,dada2_only_not_confirmed
+Neochlamydia,150,1,dada2_only_not_confirmed
+Gemmobacter,142,1,dada2_only_not_confirmed
+Rhodopirellula,138,1,dada2_only_not_confirmed
+uncultured Verrucomicrobia subdivision 3 bacterium,130,1,dada2_only_not_confirmed
+Geoalkalibacter,130,1,dada2_only_not_confirmed
+Candidatus Nitrosoglobus,129,1,dada2_only_not_confirmed
+Anaerobacterium,128,1,dada2_only_not_confirmed
+Actinotalea,128,1,dada2_only_not_confirmed
+Kinneretia,122,1,dada2_only_not_confirmed
+Wangella,110,1,dada2_only_not_confirmed
+Desulfosporosinus,110,1,dada2_only_not_confirmed
+uncultured Mollicutes bacterium,93,1,dada2_only_not_confirmed
+Xanthomonas citri pv. mangiferaeindicae,91,1,dada2_only_not_confirmed
+Polycladomyces,85,1,dada2_only_not_confirmed

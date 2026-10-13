@@ -1,0 +1,5 @@
+suppressPackageStartupMessages(library(DECIPHER))
+cat("== LearnTaxa 签名 ==\n"); print(args(LearnTaxa))
+cat("== IdTaxa 签名 ==\n"); print(args(IdTaxa))
+cat("== DECIPHER 版本 ==\n"); print(packageVersion("DECIPHER"))
+cat("== 是否有 readDNAStringSet ==\n"); cat(exists("readDNAStringSet"), "\n")

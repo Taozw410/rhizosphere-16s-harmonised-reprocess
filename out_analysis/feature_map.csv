@@ -1,0 +1,2026 @@
+feature,level,total_reads,n_projects
+unassigned,unassigned,4318871,45
+g__Pseudomonas,genus,613165,44
+g__Sphingomonas,genus,494736,45
+g__Massilia,genus,475759,43
+g__Bacillus,genus,435521,45
+g__Flavobacterium,genus,398589,44
+g__Pseudarthrobacter,genus,348241,42
+f__Gemmatimonadaceae,family,330694,45
+f__Nitrososphaeraceae,family,280226,25
+f__Vicinamibacteraceae,family,249008,41
+g__Bryobacter,genus,248050,44
+g__Candidatus Udaeobacter,genus,246996,34
+g__Gemmatimonas,genus,246923,44
+g__Burkholderia-Caballeronia-Paraburkholderia,genus,242672,35
+g__Rhodanobacter,genus,242448,33
+g__Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium,genus,233021,42
+g__Streptomyces,genus,216777,42
+f__Xanthobacteraceae,family,213976,45
+g__Bradyrhizobium,genus,205395,44
+f__SC-I-84,family,190890,43
+g__Anaeromyxobacter,genus,184598,44
+f__Chitinophagaceae,family,183644,45
+g__Candidatus Solibacter,genus,174137,40
+g__Paenibacillus,genus,172069,39
+g__Nocardioides,genus,168641,45
+f__Comamonadaceae,family,161358,45
+g__Ramlibacter,genus,157334,44
+f__67-14,family,153082,45
+g__Devosia,genus,151452,43
+g__Pedobacter,genus,142923,40
+g__Sphingobium,genus,142323,32
+g__Haliangium,genus,141428,44
+g__Gaiella,genus,138480,41
+f__JG30-KF-AS9,family,136935,27
+g__Mucilaginibacter,genus,136277,38
+g__RB41,genus,135807,37
+f__Pedosphaeraceae,family,129811,43
+g__Ellin6067,genus,128453,43
+g__Dyella,genus,125584,26
+g__Hydrogenophaga,genus,124928,28
+f__Micropepsaceae,family,124169,42
+g__Acidibacter,genus,117302,42
+g__Flavisolibacter,genus,115800,42
+g__Pseudolabrys,genus,112668,44
+g__Acidothermus,genus,107651,32
+f__WD2101 soil group,family,106639,37
+g__Lysobacter,genus,106245,41
+g__Nitrospira,genus,102200,41
+f__Anaerolineaceae,family,100657,38
+g__Mycobacterium,genus,98335,44
+g__Conexibacter,genus,97408,41
+g__Marmoricola,genus,96601,41
+f__Geobacteraceae,family,95504,27
+g__Chitinophaga,genus,95491,33
+g__Cellvibrio,genus,94810,34
+g__Ralstonia,genus,92541,23
+g__Luteolibacter,genus,91358,35
+g__Acinetobacter,genus,85310,38
+f__Bacillaceae,family,84934,35
+f__Microscillaceae,family,81981,41
+g__Klebsiella,genus,80888,21
+g__Chryseobacterium,genus,79835,38
+f__Bacteroidetes vadinHA17,family,79644,24
+g__Solirubrobacter,genus,79264,36
+g__Phenylobacterium,genus,77119,43
+g__Limnohabitans,genus,76945,14
+g__Steroidobacter,genus,71853,33
+g__MND1,genus,71788,38
+g__Blastococcus,genus,71771,35
+g__Dyadobacter,genus,71013,33
+f__Planococcaceae,family,70734,33
+f__Rhizobiaceae,family,70224,38
+g__Brevundimonas,genus,69909,35
+g__Altererythrobacter,genus,68575,37
+f__Sphingomonadaceae,family,68127,39
+g__Anaerolinea,genus,66706,22
+g__Stenotrophomonas,genus,66495,34
+f__JG30-KF-CM45,family,66038,38
+g__Arenimonas,genus,64779,39
+f__LWQ8,family,64543,37
+g__Candidatus Koribacter,genus,63176,40
+f__BIrii41,family,62370,41
+g__Chthoniobacter,genus,62323,34
+g__Microvirga,genus,62208,37
+g__WCHB1-32,genus,61496,23
+g__Variovorax,genus,59206,26
+f__Blastocatellaceae,family,58316,40
+f__A4b,family,58228,38
+g__Caulobacter,genus,55827,38
+g__Bacteroides,genus,55240,20
+g__Citrifermentans,genus,53796,33
+g__Ensifer,genus,53475,15
+g__Noviherbaspirillum,genus,52773,41
+g__Ellin6055,genus,52177,32
+g__Reyranella,genus,51599,43
+g__ADurb.Bin063-1,genus,51015,36
+g__Dechloromonas,genus,50921,24
+g__Methanobacterium,genus,50651,9
+f__TRA3-20,family,50356,38
+g__Dongia,genus,50277,38
+g__Clostridium sensu stricto 1,genus,50024,34
+f__Roseiflexaceae,family,49860,39
+f__Methyloligellaceae,family,49181,40
+g__Mesorhizobium,genus,48945,40
+f__Oxalobacteraceae,family,48910,43
+g__Hyphomicrobium,genus,48656,42
+f__Devosiaceae,family,47888,34
+g__TM7a,genus,47593,35
+g__Pseudoxanthomonas,genus,47242,34
+g__Niastella,genus,47079,35
+g__Pantoea,genus,46819,16
+f__Gemmataceae,family,46011,39
+g__Ohtaekwangia,genus,45401,39
+f__Ktedonobacteraceae,family,45317,33
+g__Candidatus Nitrocosmicus,genus,45218,22
+g__Terrimonas,genus,45005,34
+g__Kitasatospora,genus,44233,19
+g__Fonticella,genus,44232,22
+g__Duganella,genus,44193,27
+g__Azospirillum,genus,43390,29
+g__Intrasporangium,genus,43340,25
+g__Thalassospira,genus,42986,3
+g__Paucibacter,genus,42362,18
+g__Rheinheimera,genus,41865,12
+g__Rahnella1,genus,41715,10
+g__Rhizobacter,genus,41285,30
+g__Opitutus,genus,40759,37
+f__env.OPS 17,family,40314,44
+g__Edaphobaculum,genus,40159,43
+f__Steroidobacteraceae,family,39864,36
+f__Saprospiraceae,family,39779,36
+g__Adhaeribacter,genus,39718,36
+g__Subgroup 10,genus,39657,39
+f__Acetobacteraceae,family,38514,41
+f__Sutterellaceae,family,38497,33
+g__Microbacterium,genus,38316,19
+g__Luteimonas,genus,38161,33
+g__Methanosarcina,genus,37997,10
+g__Piscinibacter,genus,37838,33
+g__Granulicella,genus,37624,21
+f__Intrasporangiaceae,family,37328,34
+f__Rhodocyclaceae,family,37225,35
+f__Caulobacteraceae,family,37224,38
+g__Geodermatophilus,genus,37039,27
+g__Pseudoduganella,genus,36686,26
+g__Xylophilus,genus,36627,26
+g__Ferruginibacter,genus,36613,28
+g__Clostridium sensu stricto 8,genus,35668,26
+g__Clostridium sensu stricto 10,genus,35246,22
+f__Micromonosporaceae,family,35183,41
+g__JG30a-KF-32,genus,34987,13
+g__Skermanella,genus,34546,31
+f__Myxococcaceae,family,34188,44
+g__Sphingobacterium,genus,34013,26
+g__Novosphingobium,genus,33799,40
+g__Chujaibacter,genus,33641,13
+g__Acidovorax,genus,33493,24
+g__Rhodoplanes,genus,32782,35
+g__Agromyces,genus,32512,31
+g__Paenisporosarcina,genus,32037,26
+f__Rhodanobacteraceae,family,31766,38
+g__Delftia,genus,31281,16
+g__Porphyrobacter,genus,30891,29
+g__Pirellula,genus,30736,29
+g__Asticcacaulis,genus,30496,38
+f__Longimicrobiaceae,family,30247,32
+g__Afipia,genus,30174,26
+g__Pajaroellobacter,genus,30114,44
+g__possible genus 04,genus,30094,41
+g__UTCFX1,genus,30034,26
+f__A21b,family,29877,35
+f__Sandaracinaceae,family,29441,41
+g__Enterobacter,genus,29302,21
+g__Frateuria,genus,29262,16
+g__Defluviicoccus,genus,28776,30
+g__Puia,genus,28735,32
+g__Bdellovibrio,genus,28488,40
+g__Marinimicrobium,genus,28462,2
+g__Rhodoferax,genus,28220,24
+g__Jatrophihabitans,genus,28206,29
+g__Chryseolinea,genus,27728,29
+g__Aeromonas,genus,27713,23
+f__Geminicoccaceae,family,27598,24
+g__Azoarcus,genus,27242,22
+g__Nitrosospira,genus,27027,35
+g__Methanosaeta,genus,26402,7
+g__Candidatus Xiphinematobacter,genus,26377,32
+f__Acidobacteriaceae (Subgroup 1),family,26372,30
+g__Occallatibacter,genus,26021,24
+g__Edaphobacter,genus,26004,22
+g__Kribbella,genus,25834,32
+g__mle1-7,genus,25784,37
+g__Pontibacter,genus,25632,25
+g__Oryzihumus,genus,24841,26
+g__Luedemannella,genus,24726,33
+g__Geobacter,genus,24636,23
+g__Terracidiphilus,genus,24536,21
+g__Rhodococcus,genus,24503,33
+g__Pseudonocardia,genus,24387,32
+g__Clostridium sensu stricto 12,genus,24302,29
+f__Cellvibrionaceae,family,24139,17
+g__Ruminiclostridium,genus,24118,29
+f__Micrococcaceae,family,24078,31
+g__1921-3,genus,24070,7
+g__Archangium,genus,23962,37
+g__Tumebacillus,genus,23436,42
+g__Terrabacter,genus,22898,29
+g__Exiguobacterium,genus,22811,18
+f__Caldilineaceae,family,22727,36
+f__Sphingobacteriaceae,family,22655,33
+g__Luteibacter,genus,22564,23
+g__Confluentibacter,genus,22541,5
+g__HSB OF53-F07,genus,22493,16
+g__Thermomonas,genus,22332,29
+f__Symbiobacteraceae,family,22284,18
+g__Pelagibius,genus,22242,3
+f__Paludibacteraceae,family,22138,17
+f__Isosphaeraceae,family,21952,30
+g__Fluviicola,genus,21825,35
+g__Neorhizobium,genus,21702,18
+g__Lentimicrobium,genus,21365,15
+g__Rugosimonospora,genus,21344,14
+f__Sporomusaceae,family,21262,23
+f__BSV40,family,21169,18
+g__Thiobacillus,genus,20964,20
+g__Muricauda,genus,20690,2
+g__Arcticibacter,genus,20664,24
+g__Actinoplanes,genus,20601,32
+g__Dokdonella,genus,20545,31
+g__Methylotenera,genus,20434,28
+g__Sideroxydans,genus,20212,17
+g__Marinobacter,genus,20069,3
+f__Streptomycetaceae,family,19849,26
+g__Peredibacter,genus,19782,35
+g__1921-2,genus,19695,7
+g__Arthrobacter,genus,19625,22
+g__Ammoniphilus,genus,19581,24
+g__FCPS473,genus,19581,17
+g__Thermoactinomyces,genus,19445,19
+g__Janthinobacterium,genus,19431,16
+f__Rhizobiales Incertae Sedis,family,19413,36
+f__Pirellulaceae,family,19390,30
+f__Gallionellaceae,family,19334,17
+g__Shinella,genus,19277,33
+g__Rubrobacter,genus,19221,24
+g__JGI 0001001-H03,genus,19138,33
+g__Sinomonas,genus,19053,7
+f__Microbacteriaceae,family,18773,34
+f__Enterobacteriaceae,family,18579,26
+f__Ilumatobacteraceae,family,18377,35
+g__Alicyclobacillus,genus,18366,11
+g__Sphingopyxis,genus,17978,25
+g__Bosea,genus,17931,33
+g__Algoriphagus,genus,17918,19
+g__Catenulispora,genus,17870,21
+g__Nordella,genus,17864,35
+g__Aquisphaera,genus,17843,22
+g__Ideonella,genus,17715,25
+g__Nodosilinea PCC-7104,genus,17417,10
+g__Iamia,genus,17405,33
+g__Paenarthrobacter,genus,17349,25
+g__Telmatospirillum,genus,17333,8
+g__Caenimonas,genus,17317,36
+f__BSV26,family,17229,26
+g__Pedomicrobium,genus,16746,35
+g__Flavitalea,genus,16722,31
+f__Sporichthyaceae,family,16720,30
+g__Desulfovibrio,genus,16657,19
+f__AKYH767,family,16571,35
+f__Fimbriimonadaceae,family,16552,40
+g__Geothrix,genus,16504,21
+g__Pedococcus-Phycicoccus,genus,16465,29
+g__Parasegetibacter,genus,16351,32
+g__BSV13,genus,16229,18
+f__Xanthomonadaceae,family,16103,39
+g__Azohydromonas,genus,15941,17
+g__Lechevalieria,genus,15924,19
+g__Candidatus Nitrososphaera,genus,15805,18
+g__CL500-29 marine group,genus,15766,34
+g__Gemmata,genus,15748,26
+g__Actinospica,genus,15699,16
+g__Methanocella,genus,15494,7
+g__Rice Cluster I,genus,15255,4
+f__Solirubrobacteraceae,family,15196,30
+g__Lacunisphaera,genus,15191,35
+g__Aurantisolimonas,genus,15011,29
+g__Amycolatopsis,genus,14946,23
+g__Arcicella,genus,14853,7
+g__Nostoc PCC-73102,genus,14798,8
+f__Heliobacteriaceae,family,14796,18
+g__Candidatus Nitrosotalea,genus,14796,6
+g__Rhodopseudomonas,genus,14781,34
+f__Clade III,family,14763,2
+g__Knoellia,genus,14684,24
+g__Nitrobacter,genus,14580,8
+g__Lacibacter,genus,14547,29
+g__Roseateles,genus,14343,10
+g__Lapillicoccus,genus,14331,20
+g__Sulfuritalea,genus,14203,17
+g__Achromobacter,genus,14196,20
+g__Magnetospirillum,genus,14191,17
+g__Galbitalea,genus,14180,22
+g__Herbaspirillum,genus,14179,22
+f__Verrucomicrobiaceae,family,14069,30
+g__Pseudaminobacter,genus,13939,27
+g__Labrys,genus,13752,32
+g__Aquicella,genus,13750,39
+g__Escherichia-Shigella,genus,13742,15
+g__Ilumatobacter,genus,13658,31
+g__BIyi10,genus,13556,28
+g__Qipengyuania,genus,13539,23
+g__Microlunatus,genus,13536,18
+g__[Rhizobium] sphaerophysae group,genus,13531,4
+f__Cyclobacteriaceae,family,13405,23
+f__Erwiniaceae,family,13345,14
+g__Clostridium sensu stricto 13,genus,13333,36
+g__Polaromonas,genus,13311,18
+g__Methyloversatilis,genus,13080,12
+g__Ellin517,genus,12950,28
+g__Faecalibacterium,genus,12744,10
+g__Bacteriovorax,genus,12724,28
+f__Hungateiclostridiaceae,family,12701,25
+g__Stenotrophobacter,genus,12685,28
+f__SB-5,family,12654,19
+f__KF-JG30-B3,family,12595,36
+g__Saccharospirillum,genus,12551,2
+f__Alcaligenaceae,family,12516,21
+g__Prevotella_9,genus,12498,12
+g__Emticicia,genus,12488,20
+f__Rhodothermaceae,family,12463,22
+g__Actinoallomurus,genus,12420,21
+g__Sediminibacterium,genus,12392,28
+g__Cellulomonas,genus,12266,29
+g__Oxobacter,genus,12162,14
+g__Clostridium sensu stricto 9,genus,12049,23
+f__AKYG1722,family,11956,27
+g__Kangiella,genus,11883,2
+g__Dinghuibacter,genus,11876,26
+g__Deinococcus,genus,11849,21
+f__Magnetospirillaceae,family,11808,28
+f__Lutispora,family,11703,20
+f__Beijerinckiaceae,family,11700,36
+g__Kosakonia,genus,11630,7
+g__Roseomonas,genus,11594,36
+f__Rhodobacteraceae,family,11573,22
+g__Parafilimonas,genus,11547,26
+g__Sporosarcina,genus,11492,23
+g__Methanoregula,genus,11479,7
+g__Taibaiella,genus,11406,27
+g__hgcI clade,genus,11268,2
+g__B276-D12,genus,11259,20
+g__Cupriavidus,genus,11244,23
+g__Aeromicrobium,genus,11161,26
+g__Phaselicystis,genus,11029,35
+g__Propionivibrio,genus,11010,13
+g__Azospira,genus,10991,19
+g__Methylobacterium-Methylorubrum,genus,10906,32
+g__Microbulbifer,genus,10728,3
+g__Micromonospora,genus,10710,26
+g__Streptacidiphilus sp. DSM 106435,genus,10662,12
+g__Methylocystis,genus,10594,13
+f__Latescibacteraceae,family,10538,29
+g__OM27 clade,genus,10397,37
+g__Methyloceanibacter,genus,10290,4
+g__Christensenellaceae R-7 group,genus,10282,16
+g__Modestobacter,genus,10222,17
+f__NS11-12 marine group,family,10178,38
+g__Pir4 lineage,genus,10129,24
+g__P3OB-42,genus,10074,41
+g__Serratia,genus,10038,12
+g__Chungangia,genus,9989,16
+g__Flaviaesturariibacter,genus,9947,26
+g__Limnobacter,genus,9876,16
+g__Sulfuricurvum,genus,9774,9
+g__Candidatus Alysiosphaera,genus,9765,27
+f__Polyangiaceae,family,9737,33
+g__alphaI cluster,genus,9727,32
+f__Christensenellaceae,family,9620,19
+g__Ahniella,genus,9597,30
+f__Diplorickettsiaceae,family,9473,41
+g__Mycoplana,genus,9461,6
+g__Acidipila-Silvibacterium,genus,9369,20
+f__Prolixibacteraceae,family,9347,15
+g__Oxalicibacterium,genus,9320,30
+g__YC-ZSS-LKJ147,genus,9320,28
+f__Entotheonellaceae,family,9203,24
+g__Fulvivirga,genus,9202,2
+g__Methylophilus,genus,9171,20
+f__B1-7BS,family,9163,30
+g__Fictibacillus,genus,9091,14
+g__Rhodobacter,genus,9065,23
+g__Rudaea,genus,9053,13
+g__Solibacillus,genus,9025,23
+g__Segetibacter,genus,9004,24
+g__Tabrizicola,genus,8933,23
+g__Ferribacterium,genus,8769,16
+g__Dactylosporangium,genus,8679,29
+f__Methylacidiphilaceae,family,8676,20
+g__Singulisphaera,genus,8599,25
+g__Comamonas,genus,8557,16
+g__Aridibacter,genus,8548,24
+f__Holophagaceae,family,8535,17
+g__Methanomassiliicoccus,genus,8509,7
+g__Prosthecobacter,genus,8435,26
+g__Pseudorhodoplanes,genus,8399,23
+g__Desulfobacca,genus,8345,13
+g__Sporacetigenium,genus,8333,21
+g__bacterium Ellin6527,genus,8331,3
+g__Abditibacterium,genus,8300,28
+f__Opitutaceae,family,8291,29
+g__Herpetosiphon,genus,8285,25
+g__Blautia,genus,8240,12
+g__Cohnella,genus,8231,21
+g__Nakamurella,genus,8200,27
+g__UTBCD1,genus,8177,20
+g__Leifsonia,genus,8169,20
+g__Rhodomicrobium,genus,8008,26
+g__Streptacidiphilus,genus,7983,13
+g__Niabella,genus,7977,10
+g__Acidicaldus,genus,7964,19
+g__Angustibacter,genus,7874,21
+g__Aetherobacter,genus,7871,23
+g__Roseiarcus,genus,7827,18
+f__Kineosporiaceae,family,7744,25
+g__Anaerosinus,genus,7742,13
+g__Curvibacter,genus,7682,16
+g__Halomonas,genus,7678,7
+g__Plot4-2H12,genus,7676,24
+g__Sumerlaea,genus,7652,38
+g__Aquabacterium,genus,7645,15
+g__Deferrisoma,genus,7624,12
+g__Ktedonobacter,genus,7577,11
+g__Glycomyces,genus,7492,20
+f__MWH-CFBk5,family,7486,7
+g__Desulfosporosinus,genus,7451,19
+g__Nonomuraea,genus,7404,29
+g__Alsobacter,genus,7396,27
+g__Sinorhizobium sp. RAC02,genus,7382,18
+g__Tahibacter,genus,7319,17
+f__Spirochaetaceae,family,7260,17
+g__Amaricoccus,genus,7162,20
+g__GOUTA6,genus,7122,15
+g__Humibacter,genus,7110,7
+g__Methylophaga,genus,7093,4
+g__Clostridium sensu stricto 5,genus,7025,18
+g__Hassallia,genus,6967,23
+g__OLB13,genus,6944,17
+g__Thermincola,genus,6934,19
+g__Alistipes,genus,6931,13
+g__Hamadaea,genus,6767,15
+g__Legionella,genus,6679,35
+g__Roseimicrobium,genus,6667,28
+f__Saccharimonadaceae,family,6636,7
+g__[Cytophaga] xylanolytica group,genus,6633,7
+g__Leptothrix,genus,6632,18
+g__Promicromonospora,genus,6602,17
+g__Roseisolibacter,genus,6572,25
+f__Lentimicrobiaceae,family,6477,18
+g__Sorangium,genus,6430,23
+g__Curtobacterium,genus,6381,12
+g__Geotalea,genus,6331,14
+g__Subdoligranulum,genus,6324,8
+g__Saccharothrix,genus,6302,12
+g__Allostreptomyces,genus,6288,11
+g__Longivirga,genus,6286,17
+g__Phyllobacterium,genus,6277,14
+g__bacterium Ellin6515,genus,6272,27
+f__Vermiphilaceae,family,6233,34
+g__Cyanobium PCC-6307,genus,6212,7
+g__Limibaculum,genus,6135,10
+g__Arenibacter,genus,6123,2
+g__Rhodopila,genus,6096,18
+g__SWB02,genus,6048,28
+f__Acidimicrobiaceae,family,6043,12
+g__Pleomorphomonas,genus,6020,13
+f__WX65,family,6000,25
+g__Lysinimonas,genus,5995,18
+f__YM_S32_TM7_50_20,family,5979,25
+g__Actinocorallia,genus,5975,26
+f__Fibrobacteraceae,family,5953,29
+g__Domibacillus,genus,5937,16
+f__KI89A clade,family,5883,24
+g__Nocardia,genus,5880,28
+g__Rubrivivax,genus,5851,14
+g__Ellin516,genus,5849,25
+g__Luteitalea,genus,5833,23
+g__Salmonella,genus,5813,6
+g__Actinosynnema pretiosum,genus,5783,9
+g__Hymenobacter,genus,5776,27
+f__Rhodospirillaceae,family,5768,30
+g__MM2,genus,5749,22
+g__Parabacteroides,genus,5739,10
+g__Bauldia,genus,5735,30
+g__Diplosphaera,genus,5735,20
+g__Pseudorhizobium,genus,5699,6
+g__Kaistia,genus,5645,23
+g__Nannocystis,genus,5630,32
+g__Aminobacter,genus,5578,26
+g__Mobilitalea,genus,5563,17
+g__Rhizomicrobium,genus,5522,9
+g__SH-PL14,genus,5521,26
+g__Kineosporia,genus,5514,18
+g__Catalinimonas,genus,5467,2
+g__Clostridium sensu stricto 3,genus,5457,15
+g__Treponema,genus,5454,14
+g__Blastomonas,genus,5451,7
+g__Kocuria,genus,5443,6
+g__Thioalkalispira-Sulfurivermis,genus,5386,8
+g__Pannonibacter,genus,5339,4
+f__211ds20,family,5333,26
+g__IS-44,genus,5326,25
+g__[Desulfobacterium] catecholicum group,genus,5311,13
+f__SM2D12,family,5310,30
+g__Gallionella,genus,5300,15
+g__Crossiella,genus,5244,7
+f__Desulfuromonadaceae,family,5219,6
+f__Clostridiaceae,family,5186,22
+g__Pseudoflavitalea,genus,5142,17
+g__Thalassobaculum,genus,5137,5
+g__Anaerovorax,genus,5136,18
+g__Quadrisphaera,genus,5116,20
+g__Streptococcus,genus,5086,13
+g__SZB85,genus,5048,8
+g__Rubellimicrobium,genus,5043,22
+g__Methylobacillus,genus,5040,15
+g__Erythrobacter,genus,5036,5
+g__Tardiphaga,genus,4956,11
+g__OLB17,genus,4939,23
+f__Pseudonocardiaceae,family,4904,21
+g__Chthonomonas,genus,4896,24
+g__Sulfurospirillum,genus,4895,9
+f__actinobacterium BGR 43,family,4892,8
+g__Syntrophobacter,genus,4854,16
+g__Zoogloea,genus,4845,10
+g__Hirschia,genus,4816,23
+g__Symbiobacterium,genus,4811,18
+g__Oligoflexus,genus,4790,30
+g__Spirochaeta 2,genus,4788,21
+g__Sandaracinus,genus,4786,36
+g__Pelomonas,genus,4782,16
+g__Filimonas,genus,4749,14
+f__Paenibacillaceae,family,4742,24
+g__Cryobacterium,genus,4725,14
+g__Formivibrio,genus,4713,6
+g__Flavihumibacter,genus,4713,21
+g__Lysinibacillus,genus,4656,27
+g__Paracoccus,genus,4642,14
+g__Methylibium,genus,4611,14
+g__Parviterribacter,genus,4585,24
+g__Actinomadura,genus,4584,25
+g__Salinimicrobium,genus,4572,4
+g__Mizugakiibacter,genus,4564,7
+g__Methylorosula,genus,4562,21
+g__Rhabdobacter,genus,4555,7
+g__Desulfovirga,genus,4551,14
+g__Streptosporangium,genus,4541,25
+f__Syntrophobacteraceae,family,4525,14
+g__Pseudorhodobacter,genus,4515,9
+g__Terriglobus,genus,4507,13
+g__Longimicrobium,genus,4505,13
+g__Sporomusa,genus,4492,18
+g__Pandoraea,genus,4481,15
+g__OLB12,genus,4480,27
+g__Verrucomicrobium,genus,4453,21
+g__Tolumonas,genus,4448,6
+g__SM1A02,genus,4362,34
+g__Ignavibacterium,genus,4307,15
+f__Desulfocapsaceae,family,4295,16
+f__Muribaculaceae,family,4292,13
+g__Polyangium,genus,4263,19
+g__Denitratisoma,genus,4251,13
+g__Candidimonas,genus,4236,6
+g__Methylosinus,genus,4235,7
+g__Virgisporangium,genus,4187,21
+g__Bordetella,genus,4164,4
+g__Alkanibacter,genus,4117,13
+g__G12-WMSP1,genus,4115,4
+g__Thermosporothrix,genus,4072,14
+f__Candidatus Magasanikbacteria bacterium RIFOXYD2_FULL_36_9,family,4069,7
+g__Staphylococcus,genus,4067,9
+g__Alloprevotella,genus,4059,11
+g__Syntrophorhabdus,genus,3982,15
+f__Holosporaceae,family,3961,29
+g__Acidaminobacter,genus,3946,8
+g__Methanospirillum,genus,3938,3
+f__URHD0088,family,3937,14
+f__Gracilibacter,family,3923,15
+f__Amb-16S-1323,family,3886,16
+g__Woeseia,genus,3883,13
+g__Desulfitobacterium,genus,3868,17
+f__Oligoflexaceae,family,3833,38
+g__Spirochaeta,genus,3829,16
+g__Rhodocytophaga,genus,3816,18
+f__Candidatus Adlerbacteria bacterium GW2011_GWC1_50_9,family,3816,21
+g__Pseudorhodoferax,genus,3816,13
+g__Nostoc PCC-7524,genus,3809,8
+g__Sh765B-TzT-35,genus,3808,12
+g__Sphingorhabdus,genus,3803,16
+g__Desulfuromonas,genus,3798,17
+f__Chthoniobacteraceae,family,3789,28
+f__GW2011_GWC1_47_15,family,3698,9
+g__Ciceribacter,genus,3697,6
+g__Polycyclovorans,genus,3686,28
+g__Fimbriiglobus,genus,3676,21
+g__Pelosinus,genus,3674,17
+g__Agathobacter,genus,3664,8
+g__Inquilinus,genus,3654,29
+g__Leptolinea,genus,3645,12
+g__Imperialibacter,genus,3617,5
+f__Ardenticatenaceae,family,3616,21
+g__Haloferula,genus,3581,2
+f__Rhodospirillaceae bacterium,family,3560,10
+g__Vicinamibacter,genus,3531,21
+f__Lachnospiraceae,family,3523,26
+g__Pseudomonas sp. K2W31S-8,genus,3516,4
+g__Bifidobacterium,genus,3481,9
+f__Reyranellaceae,family,3479,27
+g__OM60(NOR5) clade,genus,3432,16
+g__Belnapia,genus,3422,23
+g__Tychonema CCAP 1459-11B,genus,3401,17
+g__Oxalophagus,genus,3390,7
+f__Rikenellaceae,family,3373,9
+f__Rhodospirillaceae bacterium L34,family,3371,12
+g__Nitrolancea,genus,3370,25
+g__Herbinix,genus,3367,18
+f__BBMC-4,family,3367,15
+g__Ruminococcus,genus,3346,11
+g__Nitrosomonas,genus,3346,12
+g__Glutamicibacter,genus,3345,5
+g__Raoultella,genus,3325,6
+f__CPla-3 termite group,family,3320,23
+g__Romboutsia,genus,3313,27
+g__Planomicrobium,genus,3275,14
+g__Akkermansia,genus,3261,9
+g__Longimycelium,genus,3257,4
+g__Marinoscillum,genus,3251,3
+g__Candidatus Nitrotoga,genus,3233,13
+f__WWH38,family,3231,21
+f__KD3-93,family,3227,30
+g__Candidatus Accumulibacter,genus,3208,11
+g__Arsenicitalea,genus,3198,18
+g__Paraclostridium,genus,3181,20
+g__Ferrovibrio,genus,3142,16
+g__bacterium Ellin6517,genus,3142,23
+g__Lactobacillus,genus,3139,11
+g__Sporocytophaga,genus,3113,33
+g__Holophaga,genus,3098,11
+g__Solitalea,genus,3078,20
+g__Clostridium sensu stricto 6,genus,3076,13
+g__Anaerostipes,genus,3065,5
+g__Syntrophus,genus,3058,18
+g__Lactococcus,genus,3045,7
+g__Achromobacter spanius,genus,3023,6
+g__Sulfurifustis,genus,3011,22
+g__Vogesella,genus,3010,16
+g__IMCC26134,genus,2985,16
+g__Simplicispira,genus,2970,9
+g__Desulfobulbus,genus,2960,14
+f__D05-2,family,2959,13
+f__Hydrogenedensaceae,family,2954,23
+g__Rhodopirellula,genus,2953,14
+g__Arachidicoccus,genus,2951,4
+g__Brevifollis,genus,2936,13
+g__Thauera,genus,2915,8
+g__Micropepsis,genus,2911,9
+g__Nubsella,genus,2895,13
+f__Methylophilaceae,family,2889,30
+g__Rivibacter,genus,2879,8
+g__Lautropia,genus,2869,23
+f__Leptolyngbyaceae,family,2855,11
+f__NS9 marine group,family,2851,24
+g__LD29,genus,2845,23
+g__Demequina,genus,2841,12
+g__Sphingoaurantiacus,genus,2841,18
+f__Nannocystaceae,family,2840,27
+g__Candidatus Nucleicultrix,genus,2836,8
+f__AKIW781,family,2835,23
+g__Myxococcus,genus,2828,21
+g__Rhodoblastus,genus,2819,9
+f__Flavobacteriaceae,family,2810,19
+g__Anaerobacterium,genus,2792,14
+g__Dechlorobacter,genus,2769,7
+f__Euzebyaceae,family,2768,12
+g__Terrimicrobium,genus,2760,27
+g__Rugamonas,genus,2756,12
+f__MA-28-I98C,family,2730,9
+g__Methylobacter,genus,2723,15
+g__RBG-16-58-14,genus,2694,12
+g__Kutzneria,genus,2679,11
+g__Cnuella,genus,2671,13
+g__Fusicatenibacter,genus,2651,5
+g__Couchioplanes,genus,2649,8
+f__Geodermatophilaceae,family,2647,11
+g__Psychrobacillus,genus,2619,11
+g__Blastocatella,genus,2612,19
+f__Propionibacteriaceae,family,2605,13
+g__Candidatus Omnitrophus,genus,2600,21
+g__AKYG587,genus,2575,17
+g__Cytophaga,genus,2563,29
+g__Candidatus Chloroploca,genus,2560,11
+g__Elizabethkingia,genus,2518,5
+g__Paludibacter,genus,2516,15
+g__Chthonobacter,genus,2495,14
+g__[Clostridium] innocuum group,genus,2469,3
+g__Fusibacter,genus,2465,5
+f__Limnochordaceae,family,2448,18
+g__Yersinia,genus,2442,7
+f__bacterium Ellin6089,family,2441,10
+f__Obscuribacteraceae,family,2436,33
+g__uncultivated soil bacterium clone C028,genus,2430,9
+g__Sva0081 sediment group,genus,2419,14
+g__Rhizorhapis,genus,2417,14
+g__Zavarzinella,genus,2414,18
+g__Neochlamydia,genus,2413,31
+f__Vampirovibrionaceae,family,2399,23
+g__Geothermobacter,genus,2395,9
+f__Unknown Family,family,2394,31
+g__Achromobacter xylosoxidans,genus,2390,5
+g__Ochrobactrum,genus,2341,18
+f__Phycisphaeraceae,family,2339,30
+g__Povalibacter,genus,2330,8
+g__Rhodovastum,genus,2330,27
+f__Cryomorphaceae,family,2327,9
+g__Candidatus Ovatusbacter,genus,2325,31
+g__Shewanella,genus,2317,2
+f__Thermomonosporaceae,family,2317,14
+f__Nocardioidaceae,family,2295,18
+f__Elsteraceae,family,2283,14
+g__Cystobacter,genus,2281,19
+g__Candidatus Methanoperedens,genus,2274,2
+g__Pseudogulbenkiania,genus,2250,9
+g__beta proteobacterium WY25,genus,2228,6
+g__Enterococcus,genus,2200,8
+g__Phaeocystidibacter,genus,2197,3
+g__ADurb.Bin118,genus,2196,13
+g__Incertae Sedis,genus,2193,18
+f__Candidatus Iainarchaeum,family,2191,3
+g__Minicystis,genus,2180,24
+g__Pelagibacterium,genus,2166,4
+g__Brevibacillus,genus,2138,20
+g__Dialister,genus,2131,4
+g__Leptonema,genus,2105,7
+g__Falsibacillus,genus,2104,10
+g__Methylomicrobium,genus,2096,15
+g__Actinomycetospora,genus,2088,18
+g__Spirosoma,genus,2079,17
+f__Azospirillaceae,family,2064,16
+g__Derxia,genus,2063,3
+g__Actinotalea,genus,2063,9
+g__Cephaloticoccus,genus,2054,16
+g__Flavisolibacter sp.,genus,2030,16
+f__type III,family,2028,24
+g__Xanthobacter,genus,2023,4
+g__JTB255 marine benthic group,genus,1990,13
+g__Clavibacter,genus,1988,3
+f__37-13,family,1984,28
+f__Moraxellaceae,family,1975,26
+g__Shimazuella,genus,1974,18
+g__Terrisporobacter,genus,1973,7
+g__Salinispira,genus,1971,13
+g__HN-HF0106,genus,1971,12
+g__Chloronema,genus,1953,18
+g__Olivibacter,genus,1929,5
+g__Candidatus Paracaedibacter,genus,1928,28
+g__Psychroglaciecola,genus,1911,15
+g__Geobacillus,genus,1900,6
+f__Pleomorphomonadaceae,family,1898,10
+f__Hydrogenophilaceae,family,1894,8
+g__Castellaniella,genus,1883,7
+g__1959-1,genus,1879,19
+g__Paucisalibacillus,genus,1875,2
+g__Effusibacillus,genus,1870,8
+g__SH3-11,genus,1870,13
+g__Pelotomaculum,genus,1848,13
+f__Caloramatoraceae,family,1847,5
+g__Azoarcus olearius,genus,1843,3
+g__Klenkia,genus,1842,4
+f__Deinococcaceae,family,1834,11
+g__Anaerocolumna,genus,1827,12
+g__Lelliottia,genus,1823,6
+g__Salinarimonas,genus,1821,2
+g__Rhizocola,genus,1812,15
+g__Alishewanella,genus,1809,2
+g__Dechlorosoma,genus,1808,4
+g__Aliihoeflea,genus,1801,8
+g__[Polyangium] brachysporum group,genus,1798,8
+g__Heliimonas,genus,1779,11
+f__Peptococcaceae,family,1775,17
+g__C1-B045,genus,1774,3
+g__Cellulosimicrobium,genus,1773,15
+g__Phascolarctobacterium,genus,1769,5
+f__Marinifilaceae,family,1767,4
+g__Georgenia,genus,1761,10
+g__Fimbriimonas,genus,1756,10
+f__[Eubacterium] coprostanoligenes group,family,1749,14
+f__AKAU3564 sediment group,family,1746,14
+g__Sanguibacter-Flavimobilis,genus,1746,3
+g__Anaerosporobacter,genus,1739,10
+g__Acetivibrio,genus,1733,8
+g__Candidatus Altiarchaeum,genus,1732,2
+f__Neisseriaceae,family,1731,26
+g__Phytohabitans,genus,1730,6
+g__Schlesneria,genus,1703,12
+g__Gemmobacter,genus,1703,8
+g__Siphonobacter,genus,1689,8
+g__Rummeliibacillus,genus,1686,7
+g__Alcanivorax,genus,1686,4
+g__Acidisoma,genus,1679,11
+g__Acidisphaera,genus,1676,5
+f__SCGC AAA011-D5,family,1676,7
+g__Epulopiscium,genus,1669,5
+g__Pseudochrobactrum,genus,1667,8
+g__Candidatus Planktophila,genus,1659,4
+f__ML635J-40 aquatic group,family,1657,2
+f__Yersiniaceae,family,1649,6
+g__Cloacibacterium,genus,1648,8
+g__beta proteobacterium JGI 0001003-N18,genus,1647,15
+f__Spirosomaceae,family,1641,17
+g__Candidatus Nostocoida,genus,1626,9
+g__Bacteroidetes bacterium UKL13-3,genus,1623,13
+g__Hylemonella,genus,1617,12
+g__AR15,genus,1611,4
+g__Sedimentibacter,genus,1610,16
+f__Microtrichaceae,family,1606,21
+g__Chryseoglobus,genus,1602,4
+f__Candidatus Wolfebacteria bacterium RIFCSPHIGHO2_01_FULL_48_22,family,1597,5
+g__Ignavibacteria bacterium RIFCSPLOWO2_12_FULL_56_21,genus,1596,12
+g__Xanthomonas citri pv. mangiferaeindicae,genus,1594,7
+g__Clostridium sensu stricto 11,genus,1592,11
+g__Pseudarcicella,genus,1591,3
+g__Krasilnikovia,genus,1588,6
+g__Planosporangium,genus,1580,9
+g__Candidatus Protochlamydia,genus,1579,18
+g__beta proteobacterium WX53,genus,1571,3
+g__Asanoa,genus,1571,8
+g__Turneriella,genus,1570,18
+g__Terribacillus,genus,1566,7
+g__Umezawaea,genus,1566,12
+f__S15-21,family,1564,7
+f__Magnetospiraceae,family,1562,20
+f__PHOS-HE36,family,1559,10
+g__Hephaestia,genus,1548,8
+g__Pantalinema,genus,1545,7
+g__Endomicrobium,genus,1542,14
+g__Leptolyngbya ANT.L52.2,genus,1528,10
+g__Lachnoclostridium,genus,1527,9
+f__Phormidiaceae,family,1523,6
+g__Gemmatirosa,genus,1512,19
+g__Blvii28 wastewater-sludge group,genus,1509,11
+g__Sphaerotilus,genus,1507,10
+f__bacterium enrichment culture clone auto73_4W,family,1507,9
+g__Inhella,genus,1501,9
+g__[Ruminococcus] torques group,genus,1494,8
+g__Azotobacter,genus,1486,12
+g__Methylocella,genus,1481,12
+f__Dysgonomonadaceae,family,1481,8
+g__Ornithinimicrobium,genus,1476,3
+g__Citrobacter,genus,1474,7
+g__Candidatus Diapherotrites archaeon ADurb.Bin253,genus,1469,3
+f__Thermoactinomycetaceae,family,1455,13
+g__Barnesiella,genus,1453,4
+f__Nitrosomonadaceae,family,1449,23
+g__Craurococcus-Caldovatus,genus,1447,15
+f__Tepidisphaeraceae,family,1446,14
+g__Empedobacter,genus,1445,2
+g__Vampirovibrio,genus,1443,24
+g__Litorilinea,genus,1442,19
+g__Sulfuricella,genus,1439,6
+g__Acetobacter,genus,1422,2
+g__Pullulanibacillus,genus,1417,6
+f__Alicyclobacillaceae,family,1415,3
+g__Pseudohongiella,genus,1405,11
+g__Planifilum,genus,1405,11
+g__Lachnospiraceae NK4A136 group,genus,1404,10
+f__A0839,family,1404,23
+g__Methylomonas,genus,1401,11
+g__Undibacterium,genus,1395,10
+g__Bryocella,genus,1387,3
+g__Candidatus Limnoluna,genus,1384,3
+g__Megamonas,genus,1382,4
+g__Candidatus Berkiella,genus,1379,31
+g__Syntrophomonas,genus,1375,13
+g__Levilinea,genus,1367,5
+g__Rurimicrobium,genus,1366,11
+g__Uliginosibacterium,genus,1359,14
+g__Coxiella,genus,1355,30
+f__Halobacteroidaceae,family,1342,10
+f__MSB-3C8,family,1336,14
+f__Solimonadaceae,family,1332,23
+g__DEV008,genus,1319,18
+g__Salimesophilobacter,genus,1315,2
+g__Phreatobacter,genus,1315,14
+g__Herminiimonas,genus,1314,9
+g__Sporobacter,genus,1314,13
+g__Roseococcus,genus,1305,7
+g__Longispora,genus,1305,12
+g__Pedosphaera,genus,1300,14
+g__UBA6140,genus,1299,10
+g__Acidobacteria bacterium SCN 69-37,genus,1289,10
+f__UA-50,family,1288,6
+g__Neo-b11,genus,1282,14
+g__FFCH7168,genus,1276,20
+g__KD3-10,genus,1275,28
+f__Arcobacteraceae,family,1272,3
+g__Roseburia,genus,1266,5
+f__Candidatus Yanofskybacteria bacterium GW2011_GWF1_44_227,family,1264,8
+g__Croceicoccus,genus,1263,5
+g__Tellurimicrobium,genus,1244,17
+g__Alterococcus,genus,1242,15
+g__marine bacterium JK1007,genus,1240,2
+g__Leeia,genus,1239,4
+g__Polynucleobacter,genus,1238,4
+g__Planotetraspora,genus,1236,6
+f__Frankiaceae,family,1234,7
+f__bacterium 3-7_YC-ZSS-LKJ-1723,family,1214,2
+g__Halobacillus,genus,1211,5
+g__Methanobrevibacter,genus,1202,4
+g__Chelativorans,genus,1202,4
+g__Pelagicoccus,genus,1200,3
+g__Tundrisphaera,genus,1187,12
+f__Parachlamydiaceae,family,1185,27
+f__Hyphomicrobiaceae,family,1183,12
+g__Giesbergeria,genus,1179,2
+g__Pseudobacteroides,genus,1169,9
+g__bacterium Ellin6537,genus,1167,10
+g__Martelella,genus,1159,3
+g__[Ruminococcus] gnavus group,genus,1143,5
+g__Flexivirga,genus,1141,3
+g__Geosporobacter,genus,1135,2
+g__Sulfurisoma,genus,1134,5
+f__Simkaniaceae,family,1132,24
+f__Candidatus Zambryskibacteria bacterium RIFCSPLOWO2_12_FULL_39_16,family,1126,5
+g__Kluyvera,genus,1126,4
+g__Prevotellaceae UCG-001,genus,1126,4
+g__Salinibacterium,genus,1122,9
+g__Geoalkalibacter,genus,1116,3
+g__Microcoleus PCC-7113,genus,1115,12
+g__Catellatospora,genus,1112,12
+f__Candidatus Amesbacteria bacterium GW2011_GWC1_47_15,family,1109,3
+g__bacterium Ellin7530,genus,1107,10
+g__[Aquaspirillum] arcticum group,genus,1106,17
+g__Rodentibacter,genus,1103,2
+g__Malikia,genus,1097,3
+f__Candidatus Melainabacteria bacterium GWA2_34_9,family,1094,5
+g__RS25G,genus,1089,14
+g__CENA518,genus,1089,9
+f__Nostocaceae,family,1078,9
+g__Planococcus,genus,1078,7
+g__Leucobacter,genus,1078,7
+f__bacterium enrichment culture clone auto112_4W,family,1071,8
+f__cvE6,family,1059,26
+g__Candidatus Pacearchaeota archaeon RBG_19FT_COMBO_34_9,genus,1058,4
+g__Saccharopolyspora,genus,1053,6
+g__Dorea,genus,1045,7
+f__Alteromonadaceae,family,1043,2
+g__Chiayiivirga,genus,1043,8
+g__Owenweeksia,genus,1043,3
+g__Desulfurispora,genus,1040,5
+g__Actimicrobium,genus,1038,8
+g__Plasticicumulans,genus,1031,4
+f__Anaerovoracaceae,family,1019,3
+f__bacterium enrichment culture clone Anammox_49,family,1017,16
+g__Vulgatibacter,genus,1015,18
+g__BD1-7 clade,genus,1012,11
+f__Micavibrionaceae,family,1012,24
+f__SG8-4,family,1012,9
+g__Phormidium IAM M-71,genus,1006,4
+g__[Eubacterium] hallii group,genus,1006,5
+g__Desulfatiglans,genus,1004,13
+g__Crenothrix,genus,999,10
+g__Desulfomicrobium,genus,998,6
+g__UCG-002,genus,994,6
+g__Anaerospora,genus,993,9
+g__Actinophytocola,genus,989,19
+g__Pseudofulvimonas,genus,987,6
+g__Hoeflea,genus,985,5
+g__Frondihabitans,genus,979,5
+g__Brucella,genus,973,8
+g__Odoribacter,genus,969,8
+g__Parafrigoribacterium,genus,965,8
+g__Microbispora,genus,964,6
+g__Smithella,genus,958,6
+g__Cellulosilyticum,genus,953,8
+g__Verrucosispora,genus,946,8
+g__Subsaxibacter,genus,945,2
+g__Methylovirgula,genus,943,9
+f__LiUU-11-161,family,939,8
+g__Leptolyngbya EcFYyyy-00,genus,933,13
+g__Tolypothrix,genus,932,6
+g__Oceanicella,genus,931,9
+g__Candidatus Pacearchaeota archaeon CG1_02_32_21,genus,929,2
+g__Parapedobacter,genus,924,6
+f__Clostridium sp. 6-31,family,924,7
+g__Panacagrimonas,genus,922,12
+g__Aureimonas,genus,918,15
+g__Planctomycetales bacterium Ellin6207,genus,917,5
+g__Roseimarinus,genus,914,7
+g__Truepera,genus,904,18
+f__Alkaliphilus,family,900,4
+g__Gaiella sp. EBR4-RS1,genus,895,17
+g__Azovibrio,genus,886,9
+g__Allokutzneria,genus,883,4
+f__Burkholderiaceae,family,876,17
+g__Vicingus,genus,873,4
+g__MM1,genus,868,8
+g__Oceanobacillus,genus,868,9
+g__Ligilactobacillus,genus,859,10
+g__Erysipelatoclostridium,genus,854,9
+g__Desulfoprunum,genus,848,4
+f__Methylomonadaceae,family,846,13
+f__KD1-131,family,845,6
+g__SUP05 cluster,genus,835,3
+g__Acidisphaera sp.,genus,833,2
+g__JdFR-76,genus,828,5
+g__Candidatus Bacilloplasma,genus,826,2
+g__Buchnera,genus,824,8
+g__Turicibacter,genus,823,18
+f__Legionellaceae,family,821,8
+g__Sandarakinorhabdus,genus,819,5
+g__Candidatus Entotheonella,genus,815,12
+g__Coprococcus,genus,798,5
+g__Planctopirus,genus,790,16
+g__Ancylothrix 8PC,genus,787,5
+f__Rickettsiaceae,family,787,23
+g__Cavicella,genus,786,12
+g__Cesiribacter,genus,786,3
+g__Gracilimonas,genus,786,2
+g__Jahnella,genus,785,13
+g__Georgfuchsia,genus,773,14
+g__Antarcticibacterium,genus,772,2
+g__Jeotgalibacillus,genus,772,5
+g__Desulfomonile,genus,770,10
+g__Flexibacter,genus,768,9
+g__Erysipelotrichaceae UCG-003,genus,768,6
+g__Candidatus Latescibacter,genus,768,9
+g__Filomicrobium,genus,765,3
+g__Salipaludibacillus,genus,759,4
+g__Geminicoccus,genus,756,17
+g__JCM 18997,genus,748,16
+g__Alicycliphilus,genus,746,2
+g__Silanimonas mangrovi AK13,genus,745,2
+g__Xanthomonas,genus,743,9
+g__Gryllotalpicola,genus,742,4
+g__Acidovorax sp. T1,genus,735,7
+g__Gramella,genus,733,2
+g__Veillonella,genus,732,5
+g__Fermentimonas,genus,730,2
+g__Salinispora,genus,729,7
+g__Ga0074140,genus,727,9
+g__Desulfotomaculum,genus,724,8
+f__UCG-010,family,721,15
+f__Ruminococcaceae,family,719,16
+g__MSBL7,genus,718,5
+g__Sphaerisporangium,genus,714,17
+g__Laceyella,genus,712,8
+g__IMCC26207,genus,712,18
+g__alpha proteobacterium MTB-KTN92,genus,710,2
+g__Catenibacterium,genus,709,5
+g__Paramesorhizobium,genus,708,4
+g__Hydrocarboniphaga,genus,702,4
+g__Spirillospora,genus,700,6
+g__Longilinea,genus,699,6
+g__Moheibacter,genus,695,8
+f__Peptostreptococcaceae,family,694,14
+f__Paracaedibacteraceae,family,692,21
+g__Ferritrophicum,genus,692,7
+g__Corallococcus,genus,692,9
+g__Conyzicola,genus,690,3
+g__Leuconostoc,genus,689,5
+g__Weissella,genus,686,3
+g__Williamsia,genus,684,8
+g__Oscillochloris,genus,682,11
+g__iron-reducing bacterium enrichment culture clone HN-HFO16,genus,680,4
+g__Filibacter,genus,671,13
+g__Sandaracinobacter,genus,666,6
+g__Blastopirellula,genus,663,12
+g__Pseudopelobacter,genus,661,4
+g__Oikopleura,genus,656,10
+g__TX1A-55,genus,654,2
+g__Permianibacter,genus,651,7
+g__Paludisphaera,genus,642,9
+g__Rhodonellum,genus,640,3
+g__Orrella,genus,639,2
+g__PMMR1,genus,638,5
+g__Acidiphilium,genus,636,7
+g__Frankia,genus,635,10
+g__IheB3-7,genus,635,6
+g__Solimonas,genus,633,5
+g__Collimonas,genus,633,3
+g__Pir2 lineage,genus,632,7
+f__Amb-16S-1034,family,632,13
+f__Rubinisphaeraceae,family,632,11
+g__bacterium enrichment culture clone SRAO_28,genus,631,11
+g__Constrictibacter,genus,627,2
+g__Nitratireductor,genus,626,8
+f__Chlorobi bacterium OLB5,family,626,10
+g__Nevskia,genus,626,15
+g__Prevotella,genus,617,7
+g__Melghirimyces,genus,617,3
+g__Methylovorus,genus,614,6
+g__Larkinella,genus,613,16
+g__Chroococcidiopsis PCC 7203,genus,609,2
+g__Tunicatimonas,genus,609,2
+g__Planomonospora,genus,608,3
+g__Nocardiopsis,genus,608,6
+g__Telluria,genus,608,11
+g__Brachybacterium,genus,607,2
+g__Bordetella flabilis,genus,607,7
+f__Babeliaceae,family,606,22
+g__Helicobacter,genus,604,5
+f__Terasakiellaceae,family,598,2
+g__Novispirillum,genus,597,2
+g__Collinsella,genus,593,4
+g__Acetobacteroides,genus,593,7
+f__Bdellovibrionales bacterium GWC1_52_8,family,587,4
+g__Tepidisphaera,genus,584,13
+g__Planktothrix NIVA-CYA 15,genus,578,8
+g__Fontimonas,genus,577,11
+g__Lachnotalea,genus,572,4
+f__Sporolactobacillaceae,family,569,5
+g__Chloroflexi bacterium Ellin7237,genus,567,11
+g__Haloplasma,genus,564,9
+g__Oxalobacter,genus,557,3
+f__DEV007,family,552,14
+f__Fodinicurvataceae,family,549,7
+g__FFCH5858,genus,548,5
+g__Thermoanaerobaculum,genus,547,10
+g__Plantactinospora,genus,541,12
+g__Marisediminicola,genus,541,2
+g__Leptolyngbya PCC-6306,genus,540,8
+g__Geobacteraceae bacterium JN18_V95_J,genus,539,5
+g__Paralcaligenes,genus,538,6
+g__Synechococcus IR11,genus,538,5
+g__CL500-3,genus,527,14
+g__Silvanigrella,genus,525,14
+g__Parasutterella,genus,523,6
+g__Alkanindiges,genus,520,7
+f__uncultivated soil bacterium clone S111,family,515,8
+g__Leptospirillum,genus,513,5
+g__RBG-16-49-21,genus,512,7
+f__Desulfobulbaceae,family,512,9
+g__Anaerolineaceae UCG-001,genus,510,4
+g__Propionicimonas,genus,507,8
+f__Bacteriovoracaceae,family,507,16
+g__Methylocaldum,genus,504,11
+f__Nitrosotaleaceae,family,504,5
+g__DEV114,genus,502,11
+g__Kroppenstedtia,genus,498,3
+g__Ancalomicrobium,genus,493,9
+g__Amnibacterium,genus,491,8
+g__Wangella,genus,490,4
+g__Bacteroidetes bacterium GWF2_49_14,genus,487,6
+g__Sporichthya,genus,483,14
+g__Saccharibacillus,genus,482,5
+g__Agarilytica,genus,482,3
+g__Lachnospira,genus,481,4
+g__Stella,genus,478,5
+g__Arsenicitalea sp.,genus,474,10
+g__Kinneretia,genus,473,5
+g__Afifella,genus,468,3
+g__Candidatus Methylopumilus,genus,466,2
+g__Crocinitomix,genus,466,19
+g__UCG-005,genus,462,7
+g__Nostoc PCC-7107,genus,458,4
+g__Faecalitalea,genus,457,2
+g__Fusobacterium,genus,448,8
+f__UBA12409,family,448,20
+g__Kouleothrix,genus,447,8
+g__Trabulsiella,genus,447,2
+g__Intestinibacter,genus,446,5
+g__Deltaproteobacteria bacterium RBG_13_43_22,genus,445,6
+g__Cutibacterium,genus,441,5
+g__[Eubacterium] brachy group,genus,440,4
+g__Pseudoclavibacter,genus,440,3
+g__Psychrobacter,genus,439,3
+g__Pseudanabaena NgrPSln22,genus,435,3
+g__Actinomadura sp.,genus,435,2
+g__Sphaerospermopsis BCCUSP55,genus,433,5
+g__Ercella,genus,431,10
+g__Sphaerobacter,genus,431,7
+g__Cylindrospermum PCC-7417,genus,430,4
+g__Niveispirillum,genus,430,5
+g__Brevinema,genus,423,8
+f__Rhodospirillaceae bacterium HEG_-6_10,family,423,11
+g__Haloactinopolyspora,genus,422,7
+g__Yoonia-Loktanella,genus,421,2
+f__soil bacterium WF55,family,416,5
+g__Aurantimonas,genus,412,2
+f__Puniceicoccaceae,family,411,12
+g__Candidatus Planktoluna,genus,408,2
+g__Byssovorax,genus,404,5
+g__bacterium WX65,genus,402,7
+g__Chryseomicrobium,genus,401,4
+f__Anaeromyxobacter dehalogenans,family,400,11
+g__Gordonia,genus,397,4
+g__Propionicicella,genus,397,6
+g__Papillibacter,genus,394,7
+g__Sulfurovum,genus,389,3
+f__Leptospiraceae,family,387,11
+g__Rathayibacter,genus,383,4
+g__bacterium enrichment culture clone ecb9,genus,382,2
+f__SR-FBR-L83,family,381,9
+g__Pseudarcobacter,genus,380,5
+g__Mitsuaria,genus,378,5
+f__Taonella,family,375,5
+f__Candidatus Yanofskybacteria bacterium RIFCSPLOWO2_02_FULL_45_18,family,373,5
+g__Haemophilus,genus,372,6
+f__Silvanigrellaceae,family,372,10
+g__Desulforhabdus,genus,370,5
+f__Candidatus Kaiserbacteria bacterium RIFOXYB1_FULL_46_14,family,369,2
+f__AB1,family,367,19
+g__Butyricimonas,genus,361,5
+g__Parablastomonas,genus,360,9
+g__Defluviimonas,genus,360,3
+f__CG1-02-57-44,family,359,4
+f__Desulfovibrionaceae,family,359,9
+g__Paeniclostridium,genus,357,7
+g__Ketobacter,genus,355,4
+g__Ureibacillus,genus,354,6
+f__Acidaminococcaceae,family,353,3
+f__Chromobacteriaceae,family,352,3
+g__Aestuariimicrobium,genus,350,6
+g__UBA1819,genus,349,6
+g__Labilithrix,genus,349,6
+g__Aneurinibacillus,genus,349,7
+f__bacterium enrichment culture clone B126(2011),family,347,18
+f__Oscillospiraceae,family,347,9
+g__Thermobacillus,genus,347,8
+g__Virgibacillus,genus,347,9
+g__Desulfurivibrio,genus,346,6
+g__Eggerthella,genus,344,2
+g__Caldicoprobacter,genus,342,9
+f__Barnesiellaceae,family,341,8
+g__Salinicola,genus,340,2
+g__Tropicimonas,genus,339,5
+g__Falsochrobactrum,genus,337,4
+g__Bellilinea,genus,335,2
+g__Microcoleus SAG 1449-1a,genus,334,4
+g__Telmatobacter,genus,332,6
+g__Novibacillus,genus,331,6
+g__Fulvimonas,genus,330,4
+g__Tuberibacillus,genus,328,4
+g__Oligotropha,genus,328,6
+g__oc32,genus,326,4
+g__Dubosiella,genus,322,4
+f__Cytophagaceae,family,318,11
+g__NK4A214 group,genus,318,7
+g__Seohaeicola,genus,317,3
+g__Synechococcus CC9902,genus,317,3
+g__UCG-012,genus,316,5
+g__[Eubacterium] eligens group,genus,314,3
+g__Camelimonas,genus,313,6
+g__Allocatelliglobosispora,genus,312,9
+g__Salegentibacter,genus,311,2
+g__Cetobacterium,genus,311,4
+f__Eel-36e1D6,family,310,14
+g__Hungatella,genus,310,3
+g__Prosthecomicrobium,genus,309,6
+g__Azospirillum sp. 47_25,genus,309,2
+g__Fibrella,genus,309,6
+g__Pediococcus,genus,308,2
+g__Lacihabitans,genus,307,5
+g__Trichlorobacter,genus,306,4
+g__Haliscomenobacter,genus,304,10
+f__Parcubacteria group bacterium CG1_02_50_68,family,304,6
+g__Candidatus Amoebophilus,genus,301,14
+g__Rhodovarius,genus,301,11
+g__Chitinimonas,genus,300,4
+g__Cryptanaerobacter,genus,299,6
+g__Litorivivens,genus,298,2
+g__Phaeodactylibacter,genus,297,14
+g__GWE2-42-42,genus,297,2
+g__Wandonia,genus,296,2
+g__Anaerosporomusa,genus,292,6
+f__Candidatus Jorgensenbacteria bacterium GW2011_GWA1_48_11,family,291,2
+g__Perlucidibaca,genus,290,3
+g__Anoxybacillus,genus,289,3
+g__Oscillibacter,genus,289,5
+g__Hypnocyclicus,genus,288,4
+f__27F-1492R,family,286,18
+g__1174-901-12,genus,286,5
+g__Flavihumibacter sp.,genus,285,7
+f__Bacteroidetes BD2-2,family,285,10
+f__S15A-MN91,family,283,2
+g__Saccharomonospora,genus,278,7
+g__Propionispira,genus,278,3
+g__Leptospira,genus,276,9
+g__Candidatus Lumbricincola,genus,276,7
+g__Limosilactobacillus,genus,274,5
+g__Viridibacillus arenosi,genus,274,5
+g__Actinomycetales bacterium,genus,273,6
+g__Parvibaculum,genus,272,9
+f__Nitriliruptoraceae,family,271,3
+g__Massilia sp.,genus,270,10
+g__Sphingosinicella sp.,genus,269,8
+g__Thermopolyspora,genus,268,4
+g__Granulicatella,genus,267,2
+f__Candidatus Zambryskibacteria bacterium RIFCSPLOWO2_02_FULL_51_21,family,267,2
+g__GKS98 freshwater group,genus,265,4
+g__Ottowia,genus,265,5
+g__Youhaiella,genus,264,2
+f__M2PB4-65 termite group,family,263,4
+f__Cellulomonadaceae,family,262,8
+g__Candidatus Aquiluna,genus,262,2
+g__Monoglobus,genus,261,7
+g__Proteiniphilum,genus,260,3
+g__Sutterella,genus,260,4
+g__Desmonostoc PCC-7422,genus,259,4
+g__Dysgonomonas,genus,257,9
+g__Trichococcus,genus,256,3
+g__Armatimonas,genus,255,6
+g__Catenuloplanes,genus,255,4
+g__beta proteobacterium WWH154,genus,254,3
+f__FFCH9454,family,254,6
+g__Nibribacter,genus,253,6
+g__Lactiplantibacillus,genus,251,4
+g__Diaminobutyricimonas,genus,251,2
+f__Candidatus Kerfeldbacteria bacterium RIFCSPLOWO2_01_FULL_48_11,family,251,2
+g__Tetrasphaera,genus,247,3
+g__Sorangiineae bacterium NIC37A_2,genus,246,2
+f__Weeksellaceae,family,245,7
+g__Leptolyngbya SAG 2411,genus,245,2
+g__Arcobacter,genus,244,3
+g__Arthrobacter sp. BA34(2011),genus,244,10
+g__Erwinia,genus,243,5
+g__bacterium enrichment culture,genus,242,3
+g__HT002,genus,241,5
+g__Halocella,genus,239,5
+g__Rickettsiella,genus,239,8
+f__Z4MB62,family,238,7
+g__Candidatus Gigarickettsia,genus,238,3
+g__denitrifying bacterium enrichment culture clone NOB_2_A7,genus,234,5
+f__Myxococcales bacterium Gsoil 473,family,233,9
+f__Rice Cluster II,family,233,5
+f__Verrucomicrobia bacterium ADurb.Bin070,family,232,4
+f__Paludibaculum fermentans,family,231,4
+g__Tepidimicrobium,genus,231,8
+g__Kineococcus,genus,230,6
+g__Robertkochia,genus,228,2
+g__Draconibacterium,genus,226,5
+g__Anaerobacillus,genus,225,3
+g__Herbiconiux,genus,225,3
+g__Chlorobaculum,genus,225,4
+g__Actinocatenispora,genus,222,5
+g__Erysipelothrix,genus,221,6
+f__Arenicellaceae,family,219,3
+g__EcFYyy-200,genus,219,3
+g__Isosphaera,genus,218,2
+g__Porphyromonas,genus,217,5
+f__CWT CU03-E12,family,217,6
+g__Acidobacteria bacterium WX27,genus,216,8
+g__Lawsonella,genus,216,5
+g__Rhizobiales bacterium GAS113,genus,215,8
+g__Candidatus Aquirestis,genus,215,2
+g__Tuber borchii symbiont b-17BO,genus,215,2
+g__bacterium YC-ZSS-LKJ66,genus,214,2
+f__Candidatus Raymondbacteria,family,214,8
+g__Nitriliruptor,genus,214,2
+f__UBA12411,family,213,12
+g__Zhizhongheella,genus,212,4
+g__Flavonifractor,genus,211,4
+f__Candidatus Falkowbacteria bacterium GW2011_GWA2_41_14,family,211,5
+g__[Aquaspirillum] polymorphum group,genus,211,2
+g__Aggregicoccus,genus,210,8
+g__Corynebacterium,genus,205,11
+g__Estrella,genus,203,4
+g__Prevotellaceae NK3B31 group,genus,203,2
+g__Rubritepida,genus,201,5
+g__Solirubrobacterales bacterium 67-14,genus,201,9
+f__Erysipelotrichaceae,family,201,3
+g__Kibdelosporangium,genus,200,7
+g__Sulfuriferula,genus,199,8
+f__Family XI,family,199,6
+g__Acidobacteria bacterium LWQ13,genus,196,6
+g__Enhydrobacter,genus,196,5
+g__Tissierella,genus,192,10
+g__Flectobacillus,genus,191,5
+g__Candidatus Riegeria,genus,190,3
+g__Fervidicella,genus,190,6
+g__Citricoccus,genus,190,2
+g__Colidextribacter,genus,190,5
+g__Desulfallas-Sporotomaculum,genus,189,7
+g__iron-reducing bacterium enrichment culture clone FeC_1_D2,genus,188,2
+f__Syntrophomonadaceae,family,187,8
+f__Desulfitobacteriaceae,family,186,3
+f__bacterium YC-LK-LKJ27,family,184,2
+g__Ileibacterium,genus,184,2
+f__Candidatus Jidaibacter,family,183,15
+g__Ascidiaceihabitans,genus,182,2
+g__Pseudanabaena PCC-7429,genus,182,3
+f__Streptosporangiaceae,family,181,9
+g__Rudanella,genus,181,6
+f__Thioalkalispiraceae,family,181,2
+g__Family XIII AD3011 group,genus,181,3
+g__28-YEA-48,genus,180,3
+g__Thermoflavimicrobium,genus,179,10
+g__Dehalogenimonas,genus,178,8
+g__Azonexus,genus,177,2
+g__[Eubacterium] ruminantium group,genus,177,4
+g__Cereibacter,genus,177,4
+g__Starkeya,genus,177,7
+g__Microseira Carmichael-Alabama,genus,175,5
+g__Quatrionicoccus,genus,174,2
+g__Arboricoccus,genus,174,5
+g__Deefgea,genus,173,3
+g__Methylocapsa,genus,172,3
+g__Megasphaera,genus,171,4
+g__Lachnospiraceae ND3007 group,genus,169,2
+g__Verticiella,genus,169,7
+g__Cryptosporangium,genus,169,6
+f__Candidatus Yanofskybacteria bacterium GW2011_GWA2_41_22,family,168,5
+g__Pseudacidovorax,genus,168,4
+g__Humibacillus,genus,167,4
+g__Frigoribacterium,genus,166,3
+g__Erythrobacter sp. HME6855,genus,165,6
+g__Candidatus Megaira,genus,165,17
+g__Marinococcus,genus,164,2
+g__Niveibacterium,genus,162,5
+g__gamma proteobacterium OR-113,genus,161,5
+g__Candidatus Caldatribacterium,genus,161,3
+f__Balneolaceae,family,160,4
+g__Geitlerinema,genus,160,4
+g__Herbidospora,genus,160,6
+g__Micrococcus,genus,159,2
+g__Aquamicrobium,genus,159,2
+g__Bounagaea,genus,158,2
+g__Leptolyngbya Es-Yyy1000,genus,157,6
+f__Parcubacteria group bacterium GW2011_GWA2_47_8b,family,156,3
+g__Micavibrio,genus,156,2
+g__Roseimaritima,genus,155,3
+g__Anaerotruncus,genus,154,5
+g__[Eubacterium] nodatum group,genus,153,4
+g__Stakelama,genus,152,4
+g__Beutenbergia,genus,152,4
+g__Haematococcus lacustris,genus,152,6
+g__Yonghaparkia,genus,150,6
+g__wb1-P19,genus,149,6
+g__Runella,genus,148,8
+g__Patulibacter,genus,147,9
+f__Candidatus Komeilibacteria bacterium RIFCSPHIGHO2_01_FULL_52_14,family,147,2
+f__candidate division TM7 bacterium JGI 0001002-L20,family,146,6
+f__Candidatus Melainabacteria bacterium RIFOXYA2_FULL_32_9,family,146,7
+f__Candidatus Liptonbacteria bacterium RIFOXYB1_FULL_36_10,family,145,4
+g__Microcoleus Es-Yyy1400,genus,144,4
+f__Gimesiaceae,family,142,9
+f__WCHB1-02,family,142,2
+g__Tagaea,genus,142,3
+g__Lachnospiraceae UCG-004,genus,142,3
+g__Pseudoxanthobacter,genus,142,2
+g__Thermobifida,genus,140,2
+g__Butyricicoccus,genus,140,4
+g__Thermoactinomycetaceae bacterium,genus,140,3
+g__Pseudenhygromyxa,genus,139,8
+g__denitrifying bacterium enrichment culture clone NOA_1_E9,genus,139,5
+g__Thermobispora,genus,139,5
+g__Candidatus Staskawiczbacteria bacterium RIFOXYA2_FULL_32_7,genus,138,2
+g__Macellibacteroides,genus,138,7
+g__Sterolibacterium,genus,138,4
+g__Gemella,genus,137,2
+g__Williamwhitmania,genus,137,2
+g__Adlercreutzia,genus,137,2
+g__Candidatus Staskawiczbacteria bacterium RIFCSPHIGHO2_01_FULL_34_27,genus,136,2
+g__Tuwongella,genus,136,9
+g__Aphanizomenon NIES81,genus,134,3
+g__Intestinimonas,genus,134,4
+g__Anabaena HBU1,genus,134,3
+g__Dethiobacter,genus,133,6
+g__beta proteobacterium WF17,genus,133,6
+g__uncultivated soil bacterium clone C112,genus,133,7
+f__Lactobacillaceae,family,133,3
+f__Candidatus Moranbacteria bacterium GW2011_GWE1_49_15,family,132,6
+g__Bythopirellula,genus,132,4
+f__B5-096,family,132,2
+f__Parcubacteria group bacterium GW2011_GWA1_60_11,family,131,4
+f__Parcubacteria group bacterium GW2011_GWE2_42_14,family,130,3
+g__Methylosarcina,genus,129,4
+g__Clostridioides,genus,129,3
+g__Persicitalea,genus,129,6
+g__Clostridium sp. JC3,genus,128,4
+g__Fluviimonas,genus,128,2
+f__LD-RB-34,family,128,5
+g__Sva0996 marine group,genus,128,5
+g__Xylanimonas,genus,127,2
+f__Ammonificaceae,family,127,6
+g__Candidatus Endoecteinascidia,genus,127,6
+g__Muribaculum,genus,127,3
+g__Algoriphagus sp. AK58,genus,127,2
+f__Cyanobacteriales Incertae Sedis,family,127,3
+g__[Ruminococcus] gauvreauii group,genus,127,5
+f__Coleofasciculaceae,family,127,8
+g__Nostoc PCC-8976,genus,126,5
+f__Tannerellaceae,family,126,2
+f__Methanocellaceae,family,126,3
+g__Mycoavidus,genus,126,4
+f__Rubritaleaceae,family,125,11
+g__Armatimonadetes bacterium 55-13,genus,124,7
+f__Leptotrichiaceae,family,124,3
+g__Pigmentiphaga,genus,124,4
+f__Elusimicrobia bacterium RIFCSPHIGHO2_02_FULL_61_10,family,124,6
+f__Microcystaceae,family,123,5
+g__Mycetocola,genus,123,3
+f__Halieaceae,family,122,5
+g__Thermostaphylospora,genus,122,4
+g__Janibacter,genus,120,2
+g__Syntrophotalea,genus,119,2
+g__Wolbachia,genus,118,6
+g__Myroides,genus,118,5
+g__bacterium QTYC46b,genus,118,4
+g__Candidatus Captivus,genus,117,13
+g__Bilophila,genus,115,3
+g__AAP99,genus,115,5
+f__Chloroflexaceae,family,115,7
+f__Pseudomonadaceae,family,115,6
+g__Stomatobaculum,genus,113,2
+g__Caproiciproducens,genus,113,8
+f__anaerobic bacterium MO-CFX2,family,113,4
+g__Nibrella,genus,113,5
+f__Chlamydiaceae,family,112,9
+g__M2PT2-76 termite group,genus,112,5
+f__PBS-18,family,110,7
+g__Keratinibaculum,genus,109,3
+f__Methanomicrobiaceae,family,109,3
+g__Mariniradius,genus,108,3
+g__Faecalibaculum,genus,108,3
+g__Hansschlegelia,genus,108,2
+g__Enhygromyxa,genus,108,5
+g__Variovorax sp.,genus,108,9
+g__Polymorphobacter,genus,107,4
+f__actinobacterium YJF2-33,family,107,5
+g__Hyphomonas,genus,107,4
+g__Acetobacterium,genus,106,3
+f__Staphylococcaceae,family,105,2
+g__Xanthomonadaceae bacterium JCM 28254,genus,105,3
+g__Anaerobacter,genus,104,3
+g__Variibacter,genus,104,3
+f__Elusimicrobia bacterium GWA2_69_24,family,102,5
+g__Ammoniibacillus,genus,102,5
+g__Anaerosolibacter,genus,102,2
+g__pLW-20,genus,101,4
+g__Coprobacter,genus,100,2
+g__Desulfatitalea,genus,99,4
+f__Candidatus Nomurabacteria bacterium GW2011_GWB1_35_20,family,99,4
+g__alpha proteobacterium CRIB-04,genus,99,8
+g__Rickettsia,genus,99,3
+f__Desulfosarcinaceae,family,99,6
+g__Methanoculleus,genus,99,2
+f__Actinobacteria bacterium CG2_30_50_142,family,98,4
+g__Friedmanniella,genus,98,5
+g__Actinokineospora,genus,96,3
+g__Lutibacter,genus,96,2
+g__GWD2-49-16,genus,95,3
+g__low G+C Gram-positive bacterium TR1,genus,95,2
+g__Desulfopila,genus,95,4
+f__Candidatus Kapabacteria sp. 59-99,family,95,6
+g__Mitsuaria sp. 7,genus,95,5
+g__Oscillatoria PCC-6304,genus,94,3
+f__Demequinaceae,family,94,4
+g__Microbacter,genus,94,3
+g__Okibacterium,genus,94,3
+f__4572-13,family,93,4
+g__Pilimelia,genus,93,3
+g__Polycladomyces,genus,93,2
+f__Nitrosococcaceae,family,92,2
+f__Parcubacteria group bacterium GW2011_GWD2_43_10,family,91,4
+g__Atopobium,genus,91,2
+g__Cerasicoccus,genus,90,4
+g__Capnocytophaga,genus,90,3
+g__Holdemania,genus,89,3
+g__Xenophilus,genus,89,3
+g__Caldimonas,genus,89,2
+g__Sphingosinicella,genus,88,6
+g__Microcystis PCC-7914,genus,88,2
+g__DSSD61,genus,87,3
+g__Paenibacillus sp.,genus,86,8
+g__Lacticaseibacillus,genus,85,2
+f__Candidatus Spiroplasma,family,85,3
+g__Amycolatopsis sp.,genus,84,3
+f__Parcubacteria bacterium C7867-005,family,84,3
+g__bacterium Ellin5299,genus,83,2
+g__Cucumibacter,genus,83,2
+f__Candidatus Roizmanbacteria bacterium RIFOXYD1_FULL_41_24,family,83,4
+g__Pedobacter sp.,genus,83,4
+f__bac2nit3,family,83,4
+g__Rikenellaceae RC9 gut group,genus,82,5
+g__Coprobacillus,genus,82,2
+f__01D2Z36,family,82,6
+g__Crenobacter,genus,81,5
+g__Desulfonatronobacter,genus,81,2
+g__Sphingomonas sp.,genus,81,5
+g__Pseudoclostridium,genus,81,3
+f__Prevotellaceae,family,81,4
+g__Candidatus Methylomirabilis,genus,80,2
+g__Oerskovia,genus,80,2
+g__Angiococcus,genus,80,3
+g__Methylovulum,genus,80,3
+g__Caryophanon,genus,79,5
+g__Tuzzerella,genus,79,2
+g__Stigmatella,genus,78,3
+g__Halioglobus,genus,77,2
+g__Immundisolibacter,genus,77,3
+g__[Eubacterium] siraeum group,genus,76,5
+g__Luteimonas sp. FCS-9,genus,76,5
+g__TPD-58,genus,76,6
+g__Fibrisoma,genus,76,6
+g__I-8,genus,75,11
+f__Caldinitratiruptor,family,74,2
+g__Levilactobacillus,genus,73,2
+g__Salirhabdus,genus,73,2
+g__Candidatus Obscuribacter,genus,73,8
+g__Eisenbergiella,genus,73,2
+g__Anseongella,genus,73,2
+g__Aquipuribacter,genus,72,2
+f__Candidatus Falkowbacteria bacterium GW2011_GWF2_39_8,family,71,3
+g__Methylococcus,genus,71,2
+g__Nanoarchaeota archaeon SCGC AAA011-D5,genus,70,3
+g__Pusillimonas,genus,70,4
+g__Candidatus Soleaferrea,genus,70,5
+g__Rubrivirga,genus,70,2
+g__Naasia,genus,70,3
+f__anaerobic bacterium KX,family,70,2
+g__Cylindrospermum PMC238.04,genus,69,2
+g__Phycisphaera,genus,69,5
+f__Candidatus Jorgensenbacteria bacterium GW2011_GWB1_50_10,family,69,3
+g__Paraprevotella,genus,69,2
+g__Nocardia farcinica,genus,68,5
+g__E1B-B3-114,genus,68,2
+g__Candidatus Brocadia,genus,68,2
+f__Candidatus Woesebacteria bacterium GW2011_GWA1_40_43,family,68,5
+g__Planctomycetales bacterium Ellin7244,genus,68,3
+g__Clostridium sensu stricto 19,genus,68,4
+g__Antricoccus,genus,67,4
+g__Magnetovibrio,genus,66,2
+f__Desulfobacteraceae,family,66,3
+f__bacterium Ellin7509,family,66,2
+g__Methylomagnum,genus,66,5
+g__gamma proteobacterium EHK-1,genus,66,2
+g__Neorhizobium sp.,genus,66,7
+g__Lacibacterium,genus,66,4
+g__Thermocatellispora,genus,65,3
+g__Rufibacter,genus,65,5
+g__s3t2d-1089,genus,64,3
+g__Ancylobacter,genus,64,3
+g__Marinilutecoccus,genus,64,2
+g__Shinella kummerowiae,genus,64,6
+g__BacC-u-018,genus,63,4
+g__P3OB-51,genus,63,5
+g__Paracraurococcus,genus,63,4
+f__Parcubacteria group bacterium GW2011_GWA2_40_14,family,62,6
+g__GWE2-31-10,genus,62,8
+g__Peptoclostridium,genus,62,4
+g__Propioniciclava,genus,62,3
+g__Chitinibacter,genus,62,2
+g__Desulfatirhabdium,genus,61,4
+g__Smaragdicoccus,genus,61,5
+f__Candidatus Doudnabacteria bacterium RIFCSPLOWO2_02_FULL_48_13,family,61,4
+g__Candidatus Tenderia,genus,60,4
+g__Clostridium,genus,60,3
+f__Acidobacteria bacterium Ellin7246,family,60,3
+g__Aureispira,genus,60,4
+g__Mucispirillum,genus,60,3
+f__Marinilabiliaceae,family,60,4
+g__CAG-352,genus,59,4
+g__Defluviitaleaceae UCG-011,genus,59,5
+g__iron-reducing bacterium enrichment culture clone FeC_1_B2,genus,59,4
+g__Alkaliphilus oremlandii OhILAs,genus,59,3
+g__FukuN18 freshwater group,genus,59,6
+g__Geminocystis PCC-6308,genus,59,3
+f__Thermomicrobiaceae,family,58,2
+g__Fluviicoccus,genus,58,2
+f__Dermacoccaceae,family,57,2
+f__SM1B06,family,57,3
+g__Syntrophaceticus,genus,56,6
+g__Alphaproteobacteria bacterium RIFCSPHIGHO2_01_FULL_41_14,genus,56,4
+f__B122,family,56,6
+g__Aquaspirillum,genus,55,2
+g__Lachnospiraceae UCG-010,genus,55,3
+f__Nocardiaceae,family,55,8
+g__Schumannella,genus,54,3
+g__GTL1,genus,54,5
+f__Sulfuricellaceae,family,53,5
+g__Dehalobacter,genus,53,2
+f__Methanobacteriaceae,family,53,2
+g__Ktedonobacterales bacterium Uno3,genus,53,4
+g__Fontibacillus,genus,53,4
+g__Candidatus Odyssella,genus,53,6
+g__Marinobacterium,genus,52,2
+f__Parvibaculaceae,family,52,2
+g__Candidatus Glomeribacter,genus,52,3
+g__Geothermomicrobium,genus,52,3
+g__possible genus 06,genus,51,2
+g__Cyanothece PCC 7425,genus,51,2
+g__Oscillatoria PCC-10802,genus,51,2
+g__Verrucomicrobia bacterium LX181,genus,51,6
+g__Porticoccus,genus,51,6
+f__ST-12K33,family,51,2
+g__Candidatus Symbiobacter,genus,50,4
+g__Alteromonas,genus,50,2
+g__Jiangella,genus,50,2
+f__Geobacter sp. enrichment culture clone VanCtr1,family,49,4
+g__Tepidibacter,genus,49,2
+g__Scopulibacillus,genus,49,2
+g__Pandoraea pulmonicola,genus,49,7
+g__Kurthia,genus,49,2
+g__Actinomyces,genus,49,2
+g__Ornithinicoccus,genus,49,2
+g__Clade Ia,genus,48,2
+f__Methylococcaceae,family,48,4
+g__Caedibacter,genus,48,4
+g__Gordonibacter,genus,48,2
+f__Zavarziniaceae,family,48,3
+f__Beggiatoaceae,family,47,4
+g__Agreia,genus,47,2
+g__Planctomicrobium,genus,47,8
+f__Sneathiellaceae,family,46,4
+f__Microgenomates bacterium SCGC AAA011-B20,family,46,3
+f__JI49D030,family,46,2
+g__Ekhidna,genus,46,3
+g__Natranaerovirga,genus,46,3
+g__Ensifer adhaerens,genus,46,2
+g__Tyzzerella,genus,46,6
+g__Phaeospirillum,genus,45,2
+g__Brevibacterium,genus,45,3
+f__Dermatophilaceae,family,45,2
+g__Lachnospiraceae UCG-006,genus,45,2
+g__Aquincola,genus,45,3
+g__Chitinivorax,genus,45,4
+g__agricultural soil bacterium SC-I-39,genus,44,5
+f__Candidatus Peribacter riflensis,family,44,4
+g__HdN1,genus,44,4
+f__candidate division TM7 bacterium LY2,family,44,4
+g__Hymenobacter sp. 9PNM-21,genus,44,4
+g__Paenibacillus sp. P117,genus,44,3
+g__Crinalium SAG 22.89,genus,44,3
+g__[Eubacterium] xylanophilum group,genus,44,4
+g__Cerasibacillus,genus,43,2
+g__Asinibacterium,genus,43,2
+g__Telmatocola,genus,43,4
+g__Methylopila,genus,43,2
+g__Geobacter sp. AOG2,genus,42,2
+g__Garciella,genus,42,5
+g__Oscillospira,genus,42,2
+g__Desulfohalotomaculum,genus,42,4
+f__Candidatus Woesebacteria bacterium GW2011_GWF1_31_35,family,42,5
+g__Pir3 lineage,genus,42,2
+g__Sphaerimonospora,genus,41,3
+f__Candidatus Woesebacteria bacterium GW2011_GWA2_40_7b,family,41,2
+g__Methanosphaerula,genus,41,2
+g__Algoriphagus sp. N3,genus,41,2
+f__EF100-94H03,family,41,3
+f__Candidatus Woesebacteria bacterium GW2011_GWA1_39_21,family,41,2
+g__Candidatus Methylospira,genus,40,4
+g__Aquabacterium sp. H7,genus,40,4
+f__SRB2,family,40,5
+f__Dethiobacteraceae,family,40,2
+g__Raineya,genus,40,4
+f__PRD18C08,family,39,3
+g__Elioraea,genus,39,4
+g__Diapherotrites archaeon SCGC AAA011-K09,genus,39,2
+g__Martelella sp.,genus,39,3
+g__bacterium LWQ8,genus,38,3
+g__Arsenicibacter,genus,38,2
+g__Rhodospirillaceae bacterium NAU-10,genus,38,3
+g__Planctomycetales bacterium Ellin7224,genus,38,5
+f__Dehalococcoidia bacterium SCGC AB-540-C11,family,38,5
+f__symbiont of Cochliopodium minus,family,38,2
+g__Limnochorda,genus,38,3
+g__Scytonema UTEX 2349,genus,38,2
+f__Candidatus Nomurabacteria bacterium GW2011_GWC2_42_20,family,38,3
+g__Hungateiclostridium,genus,38,4
+g__Subgroup 23,genus,38,4
+g__966-1,genus,38,2
+f__Corynebacteriaceae,family,37,2
+g__endosymbiont of Acanthamoeba sp. UWC8,genus,37,2
+g__bacterium Ellin5257,genus,37,2
+g__Dyella sp.,genus,37,7
+g__Methyloparacoccus,genus,37,3
+g__Paludicola,genus,37,3
+g__Alkalibacter,genus,37,4
+g__GCA-900066575,genus,37,2
+f__Lenti-02,family,36,4
+f__Selenomonadaceae,family,36,2
+g__Candidatus Saccharimonas,genus,36,4
+g__Prevotella_7,genus,35,4
+g__Clostridium sensu stricto 2,genus,35,2
+g__Defluviitalea,genus,35,3
+f__Acidiferrobacteraceae,family,35,3
+g__Campylobacter,genus,35,4
+g__Sinomicrobium,genus,34,2
+f__Calditrichaceae,family,34,6
+g__Procabacter,genus,34,4
+g__Candidatus Trichorickettsia,genus,33,5
+g__Pseudoalteromonas,genus,33,2
+f__Crocinitomicaceae,family,32,4
+g__Magnetospira,genus,32,2
+g__Tsukamurella,genus,31,2
+g__Acidicapsa,genus,31,3
+g__bacterium YC-ZSS-LKJ159,genus,31,3
+g__UCG-003,genus,30,3
+g__Latilactobacillus,genus,30,3
+f__Acidobacteria bacterium enrichment culture clone CV-04,family,30,2
+g__Meiothermus,genus,30,2
+g__Magnetococcus,genus,30,2
+g__Nesterenkonia,genus,30,2
+f__Moduliflexaceae,family,30,2
+g__Caldalkalibacillus,genus,30,3
+g__Pseudanabaena PCC-6802,genus,30,2
+f__bacterium SH4-10,family,30,5
+g__Vibrio,genus,30,2
+g__Magnetospirillum sp. enrichment culture clone Van25,genus,30,2
+f__Coriobacteriales Incertae Sedis,family,30,3
+g__Candidatus Metachlamydia,genus,29,2
+g__Gloeocapsa,genus,29,2
+g__Methylogaea,genus,29,2
+g__Amphiplicatus,genus,28,4
+g__Holdemanella,genus,28,2
+g__Risungbinella,genus,28,3
+g__Marinomonas,genus,28,2
+g__Gluconobacter,genus,28,2
+g__Pelagibacterium sp.,genus,28,3
+g__Rhabdanaerobium,genus,27,2
+f__Candidatus Wolfebacteria bacterium GW2011_GWA2_42_10,family,27,3
+f__Chloroflexi bacterium ADurb.Bin180,family,27,6
+g__Clostridium sensu stricto 18,genus,27,2
+g__Negativibacillus,genus,27,4
+f__TG3,family,26,2
+g__Anaerococcus,genus,25,3
+g__Thermus,genus,25,2
+g__JSC-12,genus,25,2
+g__Segniliparus,genus,25,2
+g__Niveitalea,genus,25,5
+g__Roseobacter clade CHAB-I-5 lineage,genus,25,2
+g__Eoetvoesia,genus,25,2
+g__Pseudogracilibacillus,genus,25,3
+g__Nostoc SAG 60.79,genus,24,2
+g__alpha proteobacterium LM-1,genus,24,2
+g__Clostridium sensu stricto 7,genus,24,3
+f__MWH-UniP1 aquatic group,family,24,2
+g__Curvibacter sp. AEP1-3,genus,24,4
+f__Sulfobacillaceae,family,24,2
+g__wb1-A12,genus,23,2
+g__Chlamydiales bacterium CRIB 32,genus,23,4
+g__CAG-56,genus,23,2
+f__SAR86 clade,family,23,2
+g__Promicromonospora sp. PDD-67b-16,genus,23,5
+f__LF045,family,23,2
+g__Ereboglobus,genus,23,3
+g__Candidatus Mesochlamydia,genus,22,3
+g__Catelliglobosispora,genus,22,3
+g__Spelaeicoccus,genus,22,2
+g__Lachnospiraceae AC2044 group,genus,22,3
+f__Nitrincolaceae,family,22,2
+g__Desulfitibacter,genus,22,4
+f__Spongiibacteraceae,family,22,2
+g__Anaerosalibacter,genus,21,4
+g__Citreitalea,genus,21,3
+g__Rhodospirillaceae bacterium AW97,genus,21,3
+g__Fournierella,genus,21,3
+g__Homoserinibacter sp.,genus,21,2
+f__Candidatus Woesebacteria bacterium RIFOXYA1_FULL_43_16,family,21,2
+g__Candidatus Kuenenia,genus,21,2
+g__Oscillatoria SAG 1459-8,genus,21,2
+g__Synechocystis PCC-6803,genus,20,3
+g__Mycoplasma,genus,20,3
+g__Aliidongia,genus,20,3
+g__Paenochrobactrum sp.,genus,20,3
+g__[Eubacterium] ventriosum group,genus,20,2
+f__Candidatus Harrisonbacteria bacterium RIFCSPHIGHO2_02_FULL_40_20,family,20,2
+f__Ethanoligenenaceae,family,20,2
+f__Parcubacteria group bacterium ADurb.Bin326,family,20,3
+g__Desulfofarcimen,genus,20,2
+g__Greenland-10,genus,20,2
+g__Proteiniborus,genus,19,2
+g__Thiothrix,genus,19,2
+g__Acuticoccus,genus,19,2
+g__Parasediminibacterium,genus,19,3
+g__Z-35,genus,19,2
+g__Peptoniphilus,genus,19,2
+g__DSSF69,genus,19,2
+g__Tetragenococcus,genus,19,2
+f__Criblamydiaceae,family,19,3
+f__Fokiniaceae,family,19,3
+g__Phormidesmis ANT.L52.6,genus,19,2
+g__Bacteroidetes bacterium RIFCSPLOWO2_12_FULL_35_15,genus,18,3
+g__Seinonella,genus,18,3
+g__candidate division TM6 bacterium GW2011_GWE2_41_16,genus,18,2
+g__Formosa,genus,18,2
+f__Tepidanaerobacter,family,18,4
+g__Aliterella,genus,18,4
+f__Chroococcidiopsaceae,family,18,2
+g__ASF356,genus,18,2
+f__Mycobacteriaceae,family,18,2
+g__Clostridium sensu stricto 16,genus,18,2
+g__Rhodocista sp. SCSIO 13435,genus,18,2
+g__Hyalangium,genus,18,2
+g__Candidatus Endonucleariobacter,genus,18,2
+f__MAT-CR-H6-H10,family,17,2
+f__koll11,family,17,4
+g__bacterium 2RO1,genus,17,2
+g__bacterium YC-ZSS-LKJ199,genus,17,3
+g__SN8,genus,17,2
+g__Thermaerobacter,genus,17,3
+g__Huakuichenia,genus,17,3
+g__Snowella 0TU37S04,genus,17,3
+g__Olsenella,genus,17,2
+g__Lachnospiraceae FCS020 group,genus,16,2
+g__Virgisporangium sp.,genus,16,2
+g__Eubacterium,genus,16,2
+g__Candidatus Finniella,genus,16,6
+f__T34,family,16,3
+g__OLB8,genus,16,2
+f__candidate division SR1 bacterium Aalborg_AAW-1,family,16,3
+f__Methanoperedenaceae,family,16,2
+g__Chelatococcus,genus,16,2
+g__Rikenella,genus,15,2
+f__Candidatus Abawacabacteria bacterium RBG_16_42_10,family,15,2
+g__Spiroplasma,genus,15,4
+g__Melittangium,genus,15,2
+g__Chryseobacterium sp.,genus,14,4
+g__Schlegelella,genus,14,2
+g__Phytomonospora,genus,14,2
+g__Lewinella,genus,14,3
+g__Motilibacter,genus,14,3
+g__Pasteuria,genus,14,2
+f__GWC2-45-44,family,14,2
+g__Fabibacter,genus,14,2
+g__HIMB11,genus,14,2
+g__Clostridium sp. BMD1,genus,13,2
+g__Parasporobacterium,genus,13,3
+g__Chamaesiphon PCC-7430,genus,13,2
+g__Marimicrobium,genus,13,3
+f__Hydrogenoanaerobacterium,family,13,3
+g__Pyxidicoccus,genus,13,2
+g__Achromobacter sp. AONIH1,genus,13,2
+f__Candidatus Magasanikbacteria bacterium RIFOXYD1_FULL_40_23,family,12,2
+f__Candidatus Uhrbacteria bacterium RIFOXYB12_FULL_58_10,family,12,2
+f__Hyphomonadaceae,family,12,2
+g__Urania-1B-19 marine sediment group,genus,12,4
+f__Candidatus Collierbacteria bacterium RIFOXYB1_FULL_49_13,family,12,2
+g__DTU089,genus,12,3
+f__Glycomycetaceae,family,12,2
+f__Amoebophilaceae,family,12,4
+g__bacterium enrichment culture clone heteroA59_4W,genus,12,2
+f__Parcubacteria group bacterium ADurb.Bin316,family,12,2
+f__Candidatus Uhrbacteria bacterium RIFCSPHIGHO2_12_FULL_60_25,family,11,2
+g__Millisia,genus,11,3
+f__Cyanobiaceae,family,11,2
+g__ZOR0006,genus,11,4
+g__planctomycete WWH14,genus,11,2
+g__Chlamydiales bacterium NS11,genus,11,5
+f__Desulfarculaceae,family,11,2
+g__Comamonadaceae bacterium BFE5D,genus,11,4
+g__Rubinisphaera,genus,11,4
+f__Candidatus Peregrinibacteria bacterium RIFCSPLOWO2_02_FULL_48_14,family,10,3
+f__Eggerthellaceae,family,10,3
+f__PS1 clade,family,10,2
+g__Arthrobacter sp. J3.49,genus,10,2
+g__beta proteobacterium MBIC3293,genus,10,2
+g__Xanthomonas sp.,genus,10,3
+g__Dapisostemonum CCIBt 3536,genus,10,2
+g__Leptotrichia,genus,10,2
+g__Vitiosangium,genus,10,4
+f__Parcubacteria group bacterium GW2011_GWB1_42_6,family,10,2
+f__Candidatus Moranbacteria bacterium GW2011_GWC2_40_12,family,10,2
+f__TC1,family,9,2
+g__Roseiflexus,genus,9,2
+g__Azomonas,genus,9,2
+f__Candidatus Nomurabacteria bacterium GW2011_GWE1_32_28,family,9,2
+g__Rhizobacter sp.,genus,9,2
+g__Pseudorhodobacter sp.,genus,9,3
+g__Cuspidothrix LMECYA 163,genus,9,3
+f__Chloroflexi bacterium RBG_13_46_9,family,9,2
+g__Paucimonas,genus,9,2
+f__Hymenobacteraceae,family,8,3
+g__Enterorhabdus,genus,8,2
+g__SCGC AAA164-E04,genus,8,2
+g__Graminella nigrifrons,genus,8,2
+f__bacterium enrichment culture clone M624,family,8,3
+g__Candidatus Saccharibacteria bacterium YM_S32_TM7_50_20,genus,8,3
+g__Allobaculum,genus,8,2
+g__Halothiobacillus,genus,8,2
+g__Pricia,genus,7,2
+g__Blastococcus sp.,genus,7,2
+g__Mesorhizobium thiogangeticum,genus,7,2
+f__Desulfatiferula,family,7,2
+f__Nocardiopsaceae,family,7,3
+g__Pseudanabaena PCC-7403,genus,7,2
+g__Planococcaceae bacterium,genus,7,2
+f__AEGEAN-169 marine group,family,7,2
+g__Acetanaerobacterium,genus,7,3
+f__bacterium endosymbiont of Onthophagus Taurus,family,7,2
+g__Pir1 lineage,genus,7,2
+g__planctomycete WY108,genus,7,2
+g__Candidatus Anammoximicrobium,genus,7,3
+f__Candidatus Lloydbacteria bacterium RIFCSPHIGHO2_02_FULL_50_18,family,6,2
+f__[Clostridium] methylpentosum group,family,6,2
+g__Euzebya,genus,6,2
+f__Cellulosimicrobium funkei,family,6,2
+f__Bifidobacteriaceae,family,6,2
+g__MSBL3,genus,6,2
+f__Candidatus Magasanikbacteria bacterium RIFCSPHIGHO2_02_FULL_50_9b,family,6,3
+g__Chryseomicrobium palamuruense,genus,6,2
+f__Veillonellaceae,family,6,2
+g__Ac37b,genus,6,2
+g__Actinomadura nitritigenes,genus,6,2
+f__Bradymonadaceae,family,5,2
+g__Chitinophagaceae bacterium,genus,5,2
+g__UCG-009,genus,5,2
+g__Cystobacter sp. NR-2,genus,5,2
+g__Candidatus Moduliflexus,genus,5,2
+g__Collimonas sp.,genus,5,3
+g__Micromonospora sp. 2675OA2,genus,5,2
+g__Candidatus Hepatoplasma,genus,5,2
+g__Desertibacter,genus,5,2
+g__Candidatus Desulforudis,genus,5,2
+g__Apibacter,genus,5,2
+g__Jiangella sp. DSM 45060,genus,5,2
+g__Coralloluteibacterium stylophorae,genus,4,2
+g__NS10 marine group,genus,4,2
+g__Candidatus Bealeia,genus,4,2
+g__iron-reducing bacterium enrichment culture clone HN-HFO75,genus,4,2
+g__actinomycete R-5,genus,4,2
+f__Caedibacteraceae,family,4,2
+g__Aurantimonas sp. USBA 369,genus,4,2
+g__Geodermatophilus sp.,genus,4,2
+g__denitrifying bacterium enrichment culture clone NOB_2_H7,genus,4,2

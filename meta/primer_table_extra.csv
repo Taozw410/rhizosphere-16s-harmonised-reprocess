@@ -1,0 +1,4 @@
+project,primer_f,primer_r,truncLen_f,truncLen_r,note
+PRJNA607209,,,0,0,extra_queue_no_primer_detected_longread_single
+PRJNA554261,GTGYCAGCMGCCGCGGTAA,GGACTACNVGGGTWTCTAAT,0,0,extra_queue_515F_806R_mixed_library_use_keepall
+PRJNA578725,AGAGTTTGATCMTGGCTCAG,ATTACCGCGGCTGCTGG,271,271,extra_queue_27F_534R_posttrim_overlap60

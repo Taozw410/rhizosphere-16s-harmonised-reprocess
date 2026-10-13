@@ -1,0 +1,28 @@
+# Beta diversity (final 45 projects; pre-registration section 11)
+
+Samples: 1192 (depth >= 1000 bacteria reads; 27 dropped). Features: 2025.
+Distances: Bray-Curtis and Aitchison (CLR after multiplicative zero replacement, delta = 0.65 * row-wise min positive).
+PERMANOVA = vegan::adonis2, 999 permutations.
+
+## 1. PERMANOVA
+
+| distance | level | R2 | F | p |
+| --- | --- | --- | --- | --- |
+| Bray-Curtis | sample | 0.0777 | 50.11 | <0.001 |
+| Bray-Curtis | project (1 point each) | 0.1329 | 3.22 | <0.001 |
+| Aitchison | sample | 0.0696 | 44.47 | <0.001 |
+| Aitchison | project (1 point each) | 0.1371 | 3.34 | <0.001 |
+
+## 2. Dispersion check (betadisper; required by section 11)
+
+| distance | permutest p | mean distance to centroid (maize / rice / wheat) |
+| --- | --- | --- |
+| Bray-Curtis | NA | 0.5060 / 0.5070 / 0.5356 |
+| Aitchison | NA | 36.0579 / 34.5939 / 34.6509 |
+
+## 3. Leave-one-project-out sensitivity (sample level)
+
+| distance | R2 range | runs with p<0.05 | runs |
+| --- | --- | --- | --- |
+| Bray-Curtis | 0.0748 - 0.0855 | 45 / 45 | 45 |
+| Aitchison | 0.0665 - 0.0785 | 45 / 45 | 45 |

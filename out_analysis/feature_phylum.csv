@@ -1,0 +1,2026 @@
+feature,phylum,reads_in_dominant,reads_total
+unassigned,Acidobacteriota,1097473,4318871
+g__Pseudomonas,Proteobacteria,613165,613165
+g__Sphingomonas,Proteobacteria,494736,494736
+g__Massilia,Proteobacteria,475759,475759
+g__Bacillus,Firmicutes,435521,435521
+g__Flavobacterium,Bacteroidota,398589,398589
+g__Pseudarthrobacter,Actinobacteriota,348241,348241
+f__Gemmatimonadaceae,Gemmatimonadota,330694,330694
+f__Nitrososphaeraceae,Crenarchaeota,280226,280226
+f__Vicinamibacteraceae,Acidobacteriota,249008,249008
+g__Bryobacter,Acidobacteriota,248050,248050
+g__Candidatus Udaeobacter,Verrucomicrobiota,246996,246996
+g__Gemmatimonas,Gemmatimonadota,246923,246923
+g__Burkholderia-Caballeronia-Paraburkholderia,Proteobacteria,242672,242672
+g__Rhodanobacter,Proteobacteria,242448,242448
+g__Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium,Proteobacteria,233021,233021
+g__Streptomyces,Actinobacteriota,216777,216777
+f__Xanthobacteraceae,Proteobacteria,213976,213976
+g__Bradyrhizobium,Proteobacteria,205395,205395
+f__SC-I-84,Proteobacteria,190890,190890
+g__Anaeromyxobacter,Myxococcota,184598,184598
+f__Chitinophagaceae,Bacteroidota,183644,183644
+g__Candidatus Solibacter,Acidobacteriota,174137,174137
+g__Paenibacillus,Firmicutes,172069,172069
+g__Nocardioides,Actinobacteriota,168641,168641
+f__Comamonadaceae,Proteobacteria,161358,161358
+g__Ramlibacter,Proteobacteria,157334,157334
+f__67-14,Actinobacteriota,153082,153082
+g__Devosia,Proteobacteria,151452,151452
+g__Pedobacter,Bacteroidota,142923,142923
+g__Sphingobium,Proteobacteria,142323,142323
+g__Haliangium,Myxococcota,141428,141428
+g__Gaiella,Actinobacteriota,138480,138480
+f__JG30-KF-AS9,Chloroflexi,136935,136935
+g__Mucilaginibacter,Bacteroidota,136277,136277
+g__RB41,Acidobacteriota,135807,135807
+f__Pedosphaeraceae,Verrucomicrobiota,129811,129811
+g__Ellin6067,Proteobacteria,128453,128453
+g__Dyella,Proteobacteria,125584,125584
+g__Hydrogenophaga,Proteobacteria,124928,124928
+f__Micropepsaceae,Proteobacteria,124169,124169
+g__Acidibacter,Proteobacteria,117302,117302
+g__Flavisolibacter,Bacteroidota,115800,115800
+g__Pseudolabrys,Proteobacteria,112668,112668
+g__Acidothermus,Actinobacteriota,107651,107651
+f__WD2101 soil group,Planctomycetota,106639,106639
+g__Lysobacter,Proteobacteria,106245,106245
+g__Nitrospira,Nitrospirota,102200,102200
+f__Anaerolineaceae,Chloroflexi,100657,100657
+g__Mycobacterium,Actinobacteriota,98335,98335
+g__Conexibacter,Actinobacteriota,97408,97408
+g__Marmoricola,Actinobacteriota,96601,96601
+f__Geobacteraceae,Desulfobacterota,95504,95504
+g__Chitinophaga,Bacteroidota,95491,95491
+g__Cellvibrio,Proteobacteria,94810,94810
+g__Ralstonia,Proteobacteria,92541,92541
+g__Luteolibacter,Verrucomicrobiota,91358,91358
+g__Acinetobacter,Proteobacteria,85310,85310
+f__Bacillaceae,Firmicutes,84934,84934
+f__Microscillaceae,Bacteroidota,81981,81981
+g__Klebsiella,Proteobacteria,80888,80888
+g__Chryseobacterium,Bacteroidota,79835,79835
+f__Bacteroidetes vadinHA17,Bacteroidota,79644,79644
+g__Solirubrobacter,Actinobacteriota,79264,79264
+g__Phenylobacterium,Proteobacteria,77119,77119
+g__Limnohabitans,Proteobacteria,76945,76945
+g__Steroidobacter,Proteobacteria,71853,71853
+g__MND1,Proteobacteria,71788,71788
+g__Blastococcus,Actinobacteriota,71771,71771
+g__Dyadobacter,Bacteroidota,71013,71013
+f__Planococcaceae,Firmicutes,70734,70734
+f__Rhizobiaceae,Proteobacteria,70224,70224
+g__Brevundimonas,Proteobacteria,69909,69909
+g__Altererythrobacter,Proteobacteria,68575,68575
+f__Sphingomonadaceae,Proteobacteria,68127,68127
+g__Anaerolinea,Chloroflexi,66706,66706
+g__Stenotrophomonas,Proteobacteria,66495,66495
+f__JG30-KF-CM45,Chloroflexi,66038,66038
+g__Arenimonas,Proteobacteria,64779,64779
+f__LWQ8,Patescibacteria,64543,64543
+g__Candidatus Koribacter,Acidobacteriota,63176,63176
+f__BIrii41,Myxococcota,62370,62370
+g__Chthoniobacter,Verrucomicrobiota,62323,62323
+g__Microvirga,Proteobacteria,62208,62208
+g__WCHB1-32,Bacteroidota,61496,61496
+g__Variovorax,Proteobacteria,59206,59206
+f__Blastocatellaceae,Acidobacteriota,58316,58316
+f__A4b,Chloroflexi,58228,58228
+g__Caulobacter,Proteobacteria,55827,55827
+g__Bacteroides,Bacteroidota,55240,55240
+g__Citrifermentans,Desulfobacterota,53796,53796
+g__Ensifer,Proteobacteria,53475,53475
+g__Noviherbaspirillum,Proteobacteria,52773,52773
+g__Ellin6055,Proteobacteria,52177,52177
+g__Reyranella,Proteobacteria,51599,51599
+g__ADurb.Bin063-1,Verrucomicrobiota,51015,51015
+g__Dechloromonas,Proteobacteria,50921,50921
+g__Methanobacterium,Euryarchaeota,50651,50651
+f__TRA3-20,Proteobacteria,50356,50356
+g__Dongia,Proteobacteria,50277,50277
+g__Clostridium sensu stricto 1,Firmicutes,50024,50024
+f__Roseiflexaceae,Chloroflexi,49860,49860
+f__Methyloligellaceae,Proteobacteria,49181,49181
+g__Mesorhizobium,Proteobacteria,48945,48945
+f__Oxalobacteraceae,Proteobacteria,48910,48910
+g__Hyphomicrobium,Proteobacteria,48656,48656
+f__Devosiaceae,Proteobacteria,47888,47888
+g__TM7a,Patescibacteria,47593,47593
+g__Pseudoxanthomonas,Proteobacteria,47242,47242
+g__Niastella,Bacteroidota,47079,47079
+g__Pantoea,Proteobacteria,46819,46819
+f__Gemmataceae,Planctomycetota,46011,46011
+g__Ohtaekwangia,Bacteroidota,45401,45401
+f__Ktedonobacteraceae,Chloroflexi,45317,45317
+g__Candidatus Nitrocosmicus,Crenarchaeota,45218,45218
+g__Terrimonas,Bacteroidota,45005,45005
+g__Kitasatospora,Actinobacteriota,44233,44233
+g__Fonticella,Firmicutes,44232,44232
+g__Duganella,Proteobacteria,44193,44193
+g__Azospirillum,Proteobacteria,43390,43390
+g__Intrasporangium,Actinobacteriota,43340,43340
+g__Thalassospira,Proteobacteria,42986,42986
+g__Paucibacter,Proteobacteria,42362,42362
+g__Rheinheimera,Proteobacteria,41865,41865
+g__Rahnella1,Proteobacteria,41715,41715
+g__Rhizobacter,Proteobacteria,41285,41285
+g__Opitutus,Verrucomicrobiota,40759,40759
+f__env.OPS 17,Bacteroidota,40314,40314
+g__Edaphobaculum,Bacteroidota,40159,40159
+f__Steroidobacteraceae,Proteobacteria,39864,39864
+f__Saprospiraceae,Bacteroidota,39779,39779
+g__Adhaeribacter,Bacteroidota,39718,39718
+g__Subgroup 10,Acidobacteriota,39657,39657
+f__Acetobacteraceae,Proteobacteria,38514,38514
+f__Sutterellaceae,Proteobacteria,38497,38497
+g__Microbacterium,Actinobacteriota,38316,38316
+g__Luteimonas,Proteobacteria,38161,38161
+g__Methanosarcina,Halobacterota,37997,37997
+g__Piscinibacter,Proteobacteria,37838,37838
+g__Granulicella,Acidobacteriota,37624,37624
+f__Intrasporangiaceae,Actinobacteriota,37328,37328
+f__Rhodocyclaceae,Proteobacteria,37225,37225
+f__Caulobacteraceae,Proteobacteria,37224,37224
+g__Geodermatophilus,Actinobacteriota,37039,37039
+g__Pseudoduganella,Proteobacteria,36686,36686
+g__Xylophilus,Proteobacteria,36627,36627
+g__Ferruginibacter,Bacteroidota,36613,36613
+g__Clostridium sensu stricto 8,Firmicutes,35668,35668
+g__Clostridium sensu stricto 10,Firmicutes,35246,35246
+f__Micromonosporaceae,Actinobacteriota,35183,35183
+g__JG30a-KF-32,Chloroflexi,34987,34987
+g__Skermanella,Proteobacteria,34546,34546
+f__Myxococcaceae,Myxococcota,34188,34188
+g__Sphingobacterium,Bacteroidota,34013,34013
+g__Novosphingobium,Proteobacteria,33799,33799
+g__Chujaibacter,Proteobacteria,33641,33641
+g__Acidovorax,Proteobacteria,33493,33493
+g__Rhodoplanes,Proteobacteria,32782,32782
+g__Agromyces,Actinobacteriota,32512,32512
+g__Paenisporosarcina,Firmicutes,32037,32037
+f__Rhodanobacteraceae,Proteobacteria,31766,31766
+g__Delftia,Proteobacteria,31281,31281
+g__Porphyrobacter,Proteobacteria,30891,30891
+g__Pirellula,Planctomycetota,30736,30736
+g__Asticcacaulis,Proteobacteria,30496,30496
+f__Longimicrobiaceae,Gemmatimonadota,30247,30247
+g__Afipia,Proteobacteria,30174,30174
+g__Pajaroellobacter,Myxococcota,30114,30114
+g__possible genus 04,Fibrobacterota,30094,30094
+g__UTCFX1,Chloroflexi,30034,30034
+f__A21b,Proteobacteria,29877,29877
+f__Sandaracinaceae,Myxococcota,29441,29441
+g__Enterobacter,Proteobacteria,29302,29302
+g__Frateuria,Proteobacteria,29262,29262
+g__Defluviicoccus,Proteobacteria,28776,28776
+g__Puia,Bacteroidota,28735,28735
+g__Bdellovibrio,Bdellovibrionota,28488,28488
+g__Marinimicrobium,Proteobacteria,28462,28462
+g__Rhodoferax,Proteobacteria,28220,28220
+g__Jatrophihabitans,Actinobacteriota,28206,28206
+g__Chryseolinea,Bacteroidota,27728,27728
+g__Aeromonas,Proteobacteria,27713,27713
+f__Geminicoccaceae,Proteobacteria,27598,27598
+g__Azoarcus,Proteobacteria,27242,27242
+g__Nitrosospira,Proteobacteria,27027,27027
+g__Methanosaeta,Halobacterota,26402,26402
+g__Candidatus Xiphinematobacter,Verrucomicrobiota,26377,26377
+f__Acidobacteriaceae (Subgroup 1),Acidobacteriota,26372,26372
+g__Occallatibacter,Acidobacteriota,26021,26021
+g__Edaphobacter,Acidobacteriota,26004,26004
+g__Kribbella,Actinobacteriota,25834,25834
+g__mle1-7,Proteobacteria,25784,25784
+g__Pontibacter,Bacteroidota,25632,25632
+g__Oryzihumus,Actinobacteriota,24841,24841
+g__Luedemannella,Actinobacteriota,24726,24726
+g__Geobacter,Desulfobacterota,24636,24636
+g__Terracidiphilus,Acidobacteriota,24536,24536
+g__Rhodococcus,Actinobacteriota,24503,24503
+g__Pseudonocardia,Actinobacteriota,24387,24387
+g__Clostridium sensu stricto 12,Firmicutes,24302,24302
+f__Cellvibrionaceae,Proteobacteria,24139,24139
+g__Ruminiclostridium,Firmicutes,24118,24118
+f__Micrococcaceae,Actinobacteriota,24078,24078
+g__1921-3,Chloroflexi,24070,24070
+g__Archangium,Myxococcota,23962,23962
+g__Tumebacillus,Firmicutes,23436,23436
+g__Terrabacter,Actinobacteriota,22898,22898
+g__Exiguobacterium,Firmicutes,22811,22811
+f__Caldilineaceae,Chloroflexi,22727,22727
+f__Sphingobacteriaceae,Bacteroidota,22655,22655
+g__Luteibacter,Proteobacteria,22564,22564
+g__Confluentibacter,Bacteroidota,22541,22541
+g__HSB OF53-F07,Chloroflexi,22493,22493
+g__Thermomonas,Proteobacteria,22332,22332
+f__Symbiobacteraceae,Firmicutes,22284,22284
+g__Pelagibius,Proteobacteria,22242,22242
+f__Paludibacteraceae,Bacteroidota,22138,22138
+f__Isosphaeraceae,Planctomycetota,21952,21952
+g__Fluviicola,Bacteroidota,21825,21825
+g__Neorhizobium,Proteobacteria,21702,21702
+g__Lentimicrobium,Bacteroidota,21365,21365
+g__Rugosimonospora,Actinobacteriota,21344,21344
+f__Sporomusaceae,Firmicutes,21262,21262
+f__BSV40,Bacteroidota,21169,21169
+g__Thiobacillus,Proteobacteria,20964,20964
+g__Muricauda,Bacteroidota,20690,20690
+g__Arcticibacter,Bacteroidota,20664,20664
+g__Actinoplanes,Actinobacteriota,20601,20601
+g__Dokdonella,Proteobacteria,20545,20545
+g__Methylotenera,Proteobacteria,20434,20434
+g__Sideroxydans,Proteobacteria,20212,20212
+g__Marinobacter,Proteobacteria,20069,20069
+f__Streptomycetaceae,Actinobacteriota,19849,19849
+g__Peredibacter,Bdellovibrionota,19782,19782
+g__1921-2,Chloroflexi,19695,19695
+g__Arthrobacter,Actinobacteriota,19625,19625
+g__Ammoniphilus,Firmicutes,19581,19581
+g__FCPS473,Chloroflexi,19581,19581
+g__Thermoactinomyces,Firmicutes,19445,19445
+g__Janthinobacterium,Proteobacteria,19431,19431
+f__Rhizobiales Incertae Sedis,Proteobacteria,19413,19413
+f__Pirellulaceae,Planctomycetota,19390,19390
+f__Gallionellaceae,Proteobacteria,19334,19334
+g__Shinella,Proteobacteria,19277,19277
+g__Rubrobacter,Actinobacteriota,19221,19221
+g__JGI 0001001-H03,Acidobacteriota,19138,19138
+g__Sinomonas,Actinobacteriota,19053,19053
+f__Microbacteriaceae,Actinobacteriota,18773,18773
+f__Enterobacteriaceae,Proteobacteria,18579,18579
+f__Ilumatobacteraceae,Actinobacteriota,18377,18377
+g__Alicyclobacillus,Firmicutes,18366,18366
+g__Sphingopyxis,Proteobacteria,17978,17978
+g__Bosea,Proteobacteria,17931,17931
+g__Algoriphagus,Bacteroidota,17918,17918
+g__Catenulispora,Actinobacteriota,17870,17870
+g__Nordella,Proteobacteria,17864,17864
+g__Aquisphaera,Planctomycetota,17843,17843
+g__Ideonella,Proteobacteria,17715,17715
+g__Nodosilinea PCC-7104,Cyanobacteria,17417,17417
+g__Iamia,Actinobacteriota,17405,17405
+g__Paenarthrobacter,Actinobacteriota,17349,17349
+g__Telmatospirillum,Proteobacteria,17333,17333
+g__Caenimonas,Proteobacteria,17317,17317
+f__BSV26,Bacteroidota,17229,17229
+g__Pedomicrobium,Proteobacteria,16746,16746
+g__Flavitalea,Bacteroidota,16722,16722
+f__Sporichthyaceae,Actinobacteriota,16720,16720
+g__Desulfovibrio,Desulfobacterota,16657,16657
+f__AKYH767,Bacteroidota,16571,16571
+f__Fimbriimonadaceae,Armatimonadota,16552,16552
+g__Geothrix,Acidobacteriota,16504,16504
+g__Pedococcus-Phycicoccus,Actinobacteriota,16465,16465
+g__Parasegetibacter,Bacteroidota,16351,16351
+g__BSV13,Bacteroidota,16229,16229
+f__Xanthomonadaceae,Proteobacteria,16103,16103
+g__Azohydromonas,Proteobacteria,15941,15941
+g__Lechevalieria,Actinobacteriota,15924,15924
+g__Candidatus Nitrososphaera,Crenarchaeota,15805,15805
+g__CL500-29 marine group,Actinobacteriota,15766,15766
+g__Gemmata,Planctomycetota,15748,15748
+g__Actinospica,Actinobacteriota,15699,15699
+g__Methanocella,Halobacterota,15494,15494
+g__Rice Cluster I,Halobacterota,15255,15255
+f__Solirubrobacteraceae,Actinobacteriota,15196,15196
+g__Lacunisphaera,Verrucomicrobiota,15191,15191
+g__Aurantisolimonas,Bacteroidota,15011,15011
+g__Amycolatopsis,Actinobacteriota,14946,14946
+g__Arcicella,Bacteroidota,14853,14853
+g__Nostoc PCC-73102,Cyanobacteria,14798,14798
+f__Heliobacteriaceae,Firmicutes,14796,14796
+g__Candidatus Nitrosotalea,Crenarchaeota,14796,14796
+g__Rhodopseudomonas,Proteobacteria,14781,14781
+f__Clade III,Proteobacteria,14763,14763
+g__Knoellia,Actinobacteriota,14684,14684
+g__Nitrobacter,Proteobacteria,14580,14580
+g__Lacibacter,Bacteroidota,14547,14547
+g__Roseateles,Proteobacteria,14343,14343
+g__Lapillicoccus,Actinobacteriota,14331,14331
+g__Sulfuritalea,Proteobacteria,14203,14203
+g__Achromobacter,Proteobacteria,14196,14196
+g__Magnetospirillum,Proteobacteria,14191,14191
+g__Galbitalea,Actinobacteriota,14180,14180
+g__Herbaspirillum,Proteobacteria,14179,14179
+f__Verrucomicrobiaceae,Verrucomicrobiota,14069,14069
+g__Pseudaminobacter,Proteobacteria,13939,13939
+g__Labrys,Proteobacteria,13752,13752
+g__Aquicella,Proteobacteria,13750,13750
+g__Escherichia-Shigella,Proteobacteria,13742,13742
+g__Ilumatobacter,Actinobacteriota,13658,13658
+g__BIyi10,Proteobacteria,13556,13556
+g__Qipengyuania,Proteobacteria,13539,13539
+g__Microlunatus,Actinobacteriota,13536,13536
+g__[Rhizobium] sphaerophysae group,Proteobacteria,13531,13531
+f__Cyclobacteriaceae,Bacteroidota,13405,13405
+f__Erwiniaceae,Proteobacteria,13345,13345
+g__Clostridium sensu stricto 13,Firmicutes,13333,13333
+g__Polaromonas,Proteobacteria,13311,13311
+g__Methyloversatilis,Proteobacteria,13080,13080
+g__Ellin517,Verrucomicrobiota,12950,12950
+g__Faecalibacterium,Firmicutes,12744,12744
+g__Bacteriovorax,Bdellovibrionota,12724,12724
+f__Hungateiclostridiaceae,Firmicutes,12701,12701
+g__Stenotrophobacter,Acidobacteriota,12685,12685
+f__SB-5,Bacteroidota,12654,12654
+f__KF-JG30-B3,Proteobacteria,12595,12595
+g__Saccharospirillum,Proteobacteria,12551,12551
+f__Alcaligenaceae,Proteobacteria,12516,12516
+g__Prevotella_9,Bacteroidota,12498,12498
+g__Emticicia,Bacteroidota,12488,12488
+f__Rhodothermaceae,Bacteroidota,12463,12463
+g__Actinoallomurus,Actinobacteriota,12420,12420
+g__Sediminibacterium,Bacteroidota,12392,12392
+g__Cellulomonas,Actinobacteriota,12266,12266
+g__Oxobacter,Firmicutes,12162,12162
+g__Clostridium sensu stricto 9,Firmicutes,12049,12049
+f__AKYG1722,Chloroflexi,11956,11956
+g__Kangiella,Proteobacteria,11883,11883
+g__Dinghuibacter,Bacteroidota,11876,11876
+g__Deinococcus,Deinococcota,11849,11849
+f__Magnetospirillaceae,Proteobacteria,11808,11808
+f__Lutispora,Firmicutes,11703,11703
+f__Beijerinckiaceae,Proteobacteria,11700,11700
+g__Kosakonia,Proteobacteria,11630,11630
+g__Roseomonas,Proteobacteria,11594,11594
+f__Rhodobacteraceae,Proteobacteria,11573,11573
+g__Parafilimonas,Bacteroidota,11547,11547
+g__Sporosarcina,Firmicutes,11492,11492
+g__Methanoregula,Halobacterota,11479,11479
+g__Taibaiella,Bacteroidota,11406,11406
+g__hgcI clade,Actinobacteriota,11268,11268
+g__B276-D12,Acidobacteriota,11259,11259
+g__Cupriavidus,Proteobacteria,11244,11244
+g__Aeromicrobium,Actinobacteriota,11161,11161
+g__Phaselicystis,Myxococcota,11029,11029
+g__Propionivibrio,Proteobacteria,11010,11010
+g__Azospira,Proteobacteria,10991,10991
+g__Methylobacterium-Methylorubrum,Proteobacteria,10906,10906
+g__Microbulbifer,Proteobacteria,10728,10728
+g__Micromonospora,Actinobacteriota,10710,10710
+g__Streptacidiphilus sp. DSM 106435,Actinobacteriota,10662,10662
+g__Methylocystis,Proteobacteria,10594,10594
+f__Latescibacteraceae,Latescibacterota,10538,10538
+g__OM27 clade,Bdellovibrionota,10397,10397
+g__Methyloceanibacter,Proteobacteria,10290,10290
+g__Christensenellaceae R-7 group,Firmicutes,10282,10282
+g__Modestobacter,Actinobacteriota,10222,10222
+f__NS11-12 marine group,Bacteroidota,10178,10178
+g__Pir4 lineage,Planctomycetota,10129,10129
+g__P3OB-42,Myxococcota,10074,10074
+g__Serratia,Proteobacteria,10038,10038
+g__Chungangia,Firmicutes,9989,9989
+g__Flaviaesturariibacter,Bacteroidota,9947,9947
+g__Limnobacter,Proteobacteria,9876,9876
+g__Sulfuricurvum,Campylobacterota,9774,9774
+g__Candidatus Alysiosphaera,Proteobacteria,9765,9765
+f__Polyangiaceae,Myxococcota,9737,9737
+g__alphaI cluster,Proteobacteria,9727,9727
+f__Christensenellaceae,Firmicutes,9620,9620
+g__Ahniella,Proteobacteria,9597,9597
+f__Diplorickettsiaceae,Proteobacteria,9473,9473
+g__Mycoplana,Proteobacteria,9461,9461
+g__Acidipila-Silvibacterium,Acidobacteriota,9369,9369
+f__Prolixibacteraceae,Bacteroidota,9347,9347
+g__Oxalicibacterium,Proteobacteria,9320,9320
+g__YC-ZSS-LKJ147,Gemmatimonadota,9320,9320
+f__Entotheonellaceae,Entotheonellaeota,9203,9203
+g__Fulvivirga,Bacteroidota,9202,9202
+g__Methylophilus,Proteobacteria,9171,9171
+f__B1-7BS,Proteobacteria,9163,9163
+g__Fictibacillus,Firmicutes,9091,9091
+g__Rhodobacter,Proteobacteria,9065,9065
+g__Rudaea,Proteobacteria,9053,9053
+g__Solibacillus,Firmicutes,9025,9025
+g__Segetibacter,Bacteroidota,9004,9004
+g__Tabrizicola,Proteobacteria,8933,8933
+g__Ferribacterium,Proteobacteria,8769,8769
+g__Dactylosporangium,Actinobacteriota,8679,8679
+f__Methylacidiphilaceae,Verrucomicrobiota,8676,8676
+g__Singulisphaera,Planctomycetota,8599,8599
+g__Comamonas,Proteobacteria,8557,8557
+g__Aridibacter,Acidobacteriota,8548,8548
+f__Holophagaceae,Acidobacteriota,8535,8535
+g__Methanomassiliicoccus,Thermoplasmatota,8509,8509
+g__Prosthecobacter,Verrucomicrobiota,8435,8435
+g__Pseudorhodoplanes,Proteobacteria,8399,8399
+g__Desulfobacca,Desulfobacterota,8345,8345
+g__Sporacetigenium,Firmicutes,8333,8333
+g__bacterium Ellin6527,Acidobacteriota,8331,8331
+g__Abditibacterium,Abditibacteriota,8300,8300
+f__Opitutaceae,Verrucomicrobiota,8291,8291
+g__Herpetosiphon,Chloroflexi,8285,8285
+g__Blautia,Firmicutes,8240,8240
+g__Cohnella,Firmicutes,8231,8231
+g__Nakamurella,Actinobacteriota,8200,8200
+g__UTBCD1,Bacteroidota,8177,8177
+g__Leifsonia,Actinobacteriota,8169,8169
+g__Rhodomicrobium,Proteobacteria,8008,8008
+g__Streptacidiphilus,Actinobacteriota,7983,7983
+g__Niabella,Bacteroidota,7977,7977
+g__Acidicaldus,Proteobacteria,7964,7964
+g__Angustibacter,Actinobacteriota,7874,7874
+g__Aetherobacter,Myxococcota,7871,7871
+g__Roseiarcus,Proteobacteria,7827,7827
+f__Kineosporiaceae,Actinobacteriota,7744,7744
+g__Anaerosinus,Firmicutes,7742,7742
+g__Curvibacter,Proteobacteria,7682,7682
+g__Halomonas,Proteobacteria,7678,7678
+g__Plot4-2H12,Proteobacteria,7676,7676
+g__Sumerlaea,Sumerlaeota,7652,7652
+g__Aquabacterium,Proteobacteria,7645,7645
+g__Deferrisoma,Deferrisomatota,7624,7624
+g__Ktedonobacter,Chloroflexi,7577,7577
+g__Glycomyces,Actinobacteriota,7492,7492
+f__MWH-CFBk5,Bacteroidota,7486,7486
+g__Desulfosporosinus,Firmicutes,7451,7451
+g__Nonomuraea,Actinobacteriota,7404,7404
+g__Alsobacter,Proteobacteria,7396,7396
+g__Sinorhizobium sp. RAC02,Proteobacteria,7382,7382
+g__Tahibacter,Proteobacteria,7319,7319
+f__Spirochaetaceae,Spirochaetota,7260,7260
+g__Amaricoccus,Proteobacteria,7162,7162
+g__GOUTA6,Proteobacteria,7122,7122
+g__Humibacter,Actinobacteriota,7110,7110
+g__Methylophaga,Proteobacteria,7093,7093
+g__Clostridium sensu stricto 5,Firmicutes,7025,7025
+g__Hassallia,Bacteroidota,6967,6967
+g__OLB13,Chloroflexi,6944,6944
+g__Thermincola,Firmicutes,6934,6934
+g__Alistipes,Bacteroidota,6931,6931
+g__Hamadaea,Actinobacteriota,6767,6767
+g__Legionella,Proteobacteria,6679,6679
+g__Roseimicrobium,Verrucomicrobiota,6667,6667
+f__Saccharimonadaceae,Patescibacteria,6636,6636
+g__[Cytophaga] xylanolytica group,Bacteroidota,6633,6633
+g__Leptothrix,Proteobacteria,6632,6632
+g__Promicromonospora,Actinobacteriota,6602,6602
+g__Roseisolibacter,Gemmatimonadota,6572,6572
+f__Lentimicrobiaceae,Bacteroidota,6477,6477
+g__Sorangium,Myxococcota,6430,6430
+g__Curtobacterium,Actinobacteriota,6381,6381
+g__Geotalea,Desulfobacterota,6331,6331
+g__Subdoligranulum,Firmicutes,6324,6324
+g__Saccharothrix,Actinobacteriota,6302,6302
+g__Allostreptomyces,Actinobacteriota,6288,6288
+g__Longivirga,Actinobacteriota,6286,6286
+g__Phyllobacterium,Proteobacteria,6277,6277
+g__bacterium Ellin6515,Actinobacteriota,6272,6272
+f__Vermiphilaceae,Dependentiae,6233,6233
+g__Cyanobium PCC-6307,Cyanobacteria,6212,6212
+g__Limibaculum,Proteobacteria,6135,6135
+g__Arenibacter,Bacteroidota,6123,6123
+g__Rhodopila,Proteobacteria,6096,6096
+g__SWB02,Proteobacteria,6048,6048
+f__Acidimicrobiaceae,Actinobacteriota,6043,6043
+g__Pleomorphomonas,Proteobacteria,6020,6020
+f__WX65,Methylomirabilota,6000,6000
+g__Lysinimonas,Actinobacteriota,5995,5995
+f__YM_S32_TM7_50_20,Patescibacteria,5979,5979
+g__Actinocorallia,Actinobacteriota,5975,5975
+f__Fibrobacteraceae,Fibrobacterota,5953,5953
+g__Domibacillus,Firmicutes,5937,5937
+f__KI89A clade,Proteobacteria,5883,5883
+g__Nocardia,Actinobacteriota,5880,5880
+g__Rubrivivax,Proteobacteria,5851,5851
+g__Ellin516,Verrucomicrobiota,5849,5849
+g__Luteitalea,Acidobacteriota,5833,5833
+g__Salmonella,Proteobacteria,5813,5813
+g__Actinosynnema pretiosum,Actinobacteriota,5783,5783
+g__Hymenobacter,Bacteroidota,5776,5776
+f__Rhodospirillaceae,Proteobacteria,5768,5768
+g__MM2,Proteobacteria,5749,5749
+g__Parabacteroides,Bacteroidota,5739,5739
+g__Bauldia,Proteobacteria,5735,5735
+g__Diplosphaera,Verrucomicrobiota,5735,5735
+g__Pseudorhizobium,Proteobacteria,5699,5699
+g__Kaistia,Proteobacteria,5645,5645
+g__Nannocystis,Myxococcota,5630,5630
+g__Aminobacter,Proteobacteria,5578,5578
+g__Mobilitalea,Firmicutes,5563,5563
+g__Rhizomicrobium,Proteobacteria,5522,5522
+g__SH-PL14,Planctomycetota,5521,5521
+g__Kineosporia,Actinobacteriota,5514,5514
+g__Catalinimonas,Bacteroidota,5467,5467
+g__Clostridium sensu stricto 3,Firmicutes,5457,5457
+g__Treponema,Spirochaetota,5454,5454
+g__Blastomonas,Proteobacteria,5451,5451
+g__Kocuria,Actinobacteriota,5443,5443
+g__Thioalkalispira-Sulfurivermis,Proteobacteria,5386,5386
+g__Pannonibacter,Proteobacteria,5339,5339
+f__211ds20,Proteobacteria,5333,5333
+g__IS-44,Proteobacteria,5326,5326
+g__[Desulfobacterium] catecholicum group,Desulfobacterota,5311,5311
+f__SM2D12,Proteobacteria,5310,5310
+g__Gallionella,Proteobacteria,5300,5300
+g__Crossiella,Actinobacteriota,5244,5244
+f__Desulfuromonadaceae,Desulfobacterota,5219,5219
+f__Clostridiaceae,Firmicutes,5186,5186
+g__Pseudoflavitalea,Bacteroidota,5142,5142
+g__Thalassobaculum,Proteobacteria,5137,5137
+g__Anaerovorax,Firmicutes,5136,5136
+g__Quadrisphaera,Actinobacteriota,5116,5116
+g__Streptococcus,Firmicutes,5086,5086
+g__SZB85,Proteobacteria,5048,5048
+g__Rubellimicrobium,Proteobacteria,5043,5043
+g__Methylobacillus,Proteobacteria,5040,5040
+g__Erythrobacter,Proteobacteria,5036,5036
+g__Tardiphaga,Proteobacteria,4956,4956
+g__OLB17,Acidobacteriota,4939,4939
+f__Pseudonocardiaceae,Actinobacteriota,4904,4904
+g__Chthonomonas,Armatimonadota,4896,4896
+g__Sulfurospirillum,Campylobacterota,4895,4895
+f__actinobacterium BGR 43,Actinobacteriota,4892,4892
+g__Syntrophobacter,Desulfobacterota,4854,4854
+g__Zoogloea,Proteobacteria,4845,4845
+g__Hirschia,Proteobacteria,4816,4816
+g__Symbiobacterium,Firmicutes,4811,4811
+g__Oligoflexus,Bdellovibrionota,4790,4790
+g__Spirochaeta 2,Spirochaetota,4788,4788
+g__Sandaracinus,Myxococcota,4786,4786
+g__Pelomonas,Proteobacteria,4782,4782
+g__Filimonas,Bacteroidota,4749,4749
+f__Paenibacillaceae,Firmicutes,4742,4742
+g__Cryobacterium,Actinobacteriota,4725,4725
+g__Formivibrio,Proteobacteria,4713,4713
+g__Flavihumibacter,Bacteroidota,4713,4713
+g__Lysinibacillus,Firmicutes,4656,4656
+g__Paracoccus,Proteobacteria,4642,4642
+g__Methylibium,Proteobacteria,4611,4611
+g__Parviterribacter,Actinobacteriota,4585,4585
+g__Actinomadura,Actinobacteriota,4584,4584
+g__Salinimicrobium,Bacteroidota,4572,4572
+g__Mizugakiibacter,Proteobacteria,4564,4564
+g__Methylorosula,Proteobacteria,4562,4562
+g__Rhabdobacter,Bacteroidota,4555,4555
+g__Desulfovirga,Desulfobacterota,4551,4551
+g__Streptosporangium,Actinobacteriota,4541,4541
+f__Syntrophobacteraceae,Desulfobacterota,4525,4525
+g__Pseudorhodobacter,Proteobacteria,4515,4515
+g__Terriglobus,Acidobacteriota,4507,4507
+g__Longimicrobium,Gemmatimonadota,4505,4505
+g__Sporomusa,Firmicutes,4492,4492
+g__Pandoraea,Proteobacteria,4481,4481
+g__OLB12,Bacteroidota,4480,4480
+g__Verrucomicrobium,Verrucomicrobiota,4453,4453
+g__Tolumonas,Proteobacteria,4448,4448
+g__SM1A02,Planctomycetota,4362,4362
+g__Ignavibacterium,Bacteroidota,4307,4307
+f__Desulfocapsaceae,Desulfobacterota,4295,4295
+f__Muribaculaceae,Bacteroidota,4292,4292
+g__Polyangium,Myxococcota,4263,4263
+g__Denitratisoma,Proteobacteria,4251,4251
+g__Candidimonas,Proteobacteria,4236,4236
+g__Methylosinus,Proteobacteria,4235,4235
+g__Virgisporangium,Actinobacteriota,4187,4187
+g__Bordetella,Proteobacteria,4164,4164
+g__Alkanibacter,Proteobacteria,4117,4117
+g__G12-WMSP1,Chloroflexi,4115,4115
+g__Thermosporothrix,Chloroflexi,4072,4072
+f__Candidatus Magasanikbacteria bacterium RIFOXYD2_FULL_36_9,Patescibacteria,4069,4069
+g__Staphylococcus,Firmicutes,4067,4067
+g__Alloprevotella,Bacteroidota,4059,4059
+g__Syntrophorhabdus,Desulfobacterota,3982,3982
+f__Holosporaceae,Proteobacteria,3961,3961
+g__Acidaminobacter,Firmicutes,3946,3946
+g__Methanospirillum,Halobacterota,3938,3938
+f__URHD0088,Proteobacteria,3937,3937
+f__Gracilibacter,Firmicutes,3923,3923
+f__Amb-16S-1323,Proteobacteria,3886,3886
+g__Woeseia,Proteobacteria,3883,3883
+g__Desulfitobacterium,Firmicutes,3868,3868
+f__Oligoflexaceae,Bdellovibrionota,3833,3833
+g__Spirochaeta,Spirochaetota,3829,3829
+g__Rhodocytophaga,Bacteroidota,3816,3816
+f__Candidatus Adlerbacteria bacterium GW2011_GWC1_50_9,Patescibacteria,3816,3816
+g__Pseudorhodoferax,Proteobacteria,3816,3816
+g__Nostoc PCC-7524,Cyanobacteria,3809,3809
+g__Sh765B-TzT-35,Methylomirabilota,3808,3808
+g__Sphingorhabdus,Proteobacteria,3803,3803
+g__Desulfuromonas,Desulfobacterota,3798,3798
+f__Chthoniobacteraceae,Verrucomicrobiota,3789,3789
+f__GW2011_GWC1_47_15,Nanoarchaeota,3698,3698
+g__Ciceribacter,Proteobacteria,3697,3697
+g__Polycyclovorans,Proteobacteria,3686,3686
+g__Fimbriiglobus,Planctomycetota,3676,3676
+g__Pelosinus,Firmicutes,3674,3674
+g__Agathobacter,Firmicutes,3664,3664
+g__Inquilinus,Proteobacteria,3654,3654
+g__Leptolinea,Chloroflexi,3645,3645
+g__Imperialibacter,Bacteroidota,3617,3617
+f__Ardenticatenaceae,Chloroflexi,3616,3616
+g__Haloferula,Verrucomicrobiota,3581,3581
+f__Rhodospirillaceae bacterium,Proteobacteria,3560,3560
+g__Vicinamibacter,Acidobacteriota,3531,3531
+f__Lachnospiraceae,Firmicutes,3523,3523
+g__Pseudomonas sp. K2W31S-8,Proteobacteria,3516,3516
+g__Bifidobacterium,Actinobacteriota,3481,3481
+f__Reyranellaceae,Proteobacteria,3479,3479
+g__OM60(NOR5) clade,Proteobacteria,3432,3432
+g__Belnapia,Proteobacteria,3422,3422
+g__Tychonema CCAP 1459-11B,Cyanobacteria,3401,3401
+g__Oxalophagus,Firmicutes,3390,3390
+f__Rikenellaceae,Bacteroidota,3373,3373
+f__Rhodospirillaceae bacterium L34,Proteobacteria,3371,3371
+g__Nitrolancea,Chloroflexi,3370,3370
+g__Herbinix,Firmicutes,3367,3367
+f__BBMC-4,Fibrobacterota,3367,3367
+g__Ruminococcus,Firmicutes,3346,3346
+g__Nitrosomonas,Proteobacteria,3346,3346
+g__Glutamicibacter,Actinobacteriota,3345,3345
+g__Raoultella,Proteobacteria,3325,3325
+f__CPla-3 termite group,Planctomycetota,3320,3320
+g__Romboutsia,Firmicutes,3313,3313
+g__Planomicrobium,Firmicutes,3275,3275
+g__Akkermansia,Verrucomicrobiota,3261,3261
+g__Longimycelium,Actinobacteriota,3257,3257
+g__Marinoscillum,Bacteroidota,3251,3251
+g__Candidatus Nitrotoga,Proteobacteria,3233,3233
+f__WWH38,Patescibacteria,3231,3231
+f__KD3-93,Bacteroidota,3227,3227
+g__Candidatus Accumulibacter,Proteobacteria,3208,3208
+g__Arsenicitalea,Proteobacteria,3198,3198
+g__Paraclostridium,Firmicutes,3181,3181
+g__Ferrovibrio,Proteobacteria,3142,3142
+g__bacterium Ellin6517,Actinobacteriota,3142,3142
+g__Lactobacillus,Firmicutes,3139,3139
+g__Sporocytophaga,Bacteroidota,3113,3113
+g__Holophaga,Acidobacteriota,3098,3098
+g__Solitalea,Bacteroidota,3078,3078
+g__Clostridium sensu stricto 6,Firmicutes,3076,3076
+g__Anaerostipes,Firmicutes,3065,3065
+g__Syntrophus,Desulfobacterota,3058,3058
+g__Lactococcus,Firmicutes,3045,3045
+g__Achromobacter spanius,Proteobacteria,3023,3023
+g__Sulfurifustis,Proteobacteria,3011,3011
+g__Vogesella,Proteobacteria,3010,3010
+g__IMCC26134,Verrucomicrobiota,2985,2985
+g__Simplicispira,Proteobacteria,2970,2970
+g__Desulfobulbus,Desulfobacterota,2960,2960
+f__D05-2,Proteobacteria,2959,2959
+f__Hydrogenedensaceae,Hydrogenedentes,2954,2954
+g__Rhodopirellula,Planctomycetota,2953,2953
+g__Arachidicoccus,Bacteroidota,2951,2951
+g__Brevifollis,Verrucomicrobiota,2936,2936
+g__Thauera,Proteobacteria,2915,2915
+g__Micropepsis,Proteobacteria,2911,2911
+g__Nubsella,Bacteroidota,2895,2895
+f__Methylophilaceae,Proteobacteria,2889,2889
+g__Rivibacter,Proteobacteria,2879,2879
+g__Lautropia,Proteobacteria,2869,2869
+f__Leptolyngbyaceae,Cyanobacteria,2855,2855
+f__NS9 marine group,Bacteroidota,2851,2851
+g__LD29,Verrucomicrobiota,2845,2845
+g__Demequina,Actinobacteriota,2841,2841
+g__Sphingoaurantiacus,Proteobacteria,2841,2841
+f__Nannocystaceae,Myxococcota,2840,2840
+g__Candidatus Nucleicultrix,Proteobacteria,2836,2836
+f__AKIW781,Chloroflexi,2835,2835
+g__Myxococcus,Myxococcota,2828,2828
+g__Rhodoblastus,Proteobacteria,2819,2819
+f__Flavobacteriaceae,Bacteroidota,2810,2810
+g__Anaerobacterium,Firmicutes,2792,2792
+g__Dechlorobacter,Proteobacteria,2769,2769
+f__Euzebyaceae,Actinobacteriota,2768,2768
+g__Terrimicrobium,Verrucomicrobiota,2760,2760
+g__Rugamonas,Proteobacteria,2756,2756
+f__MA-28-I98C,Desulfobacterota,2730,2730
+g__Methylobacter,Proteobacteria,2723,2723
+g__RBG-16-58-14,Chloroflexi,2694,2694
+g__Kutzneria,Actinobacteriota,2679,2679
+g__Cnuella,Bacteroidota,2671,2671
+g__Fusicatenibacter,Firmicutes,2651,2651
+g__Couchioplanes,Actinobacteriota,2649,2649
+f__Geodermatophilaceae,Actinobacteriota,2647,2647
+g__Psychrobacillus,Firmicutes,2619,2619
+g__Blastocatella,Acidobacteriota,2612,2612
+f__Propionibacteriaceae,Actinobacteriota,2605,2605
+g__Candidatus Omnitrophus,Verrucomicrobiota,2600,2600
+g__AKYG587,Planctomycetota,2575,2575
+g__Cytophaga,Bacteroidota,2563,2563
+g__Candidatus Chloroploca,Chloroflexi,2560,2560
+g__Elizabethkingia,Bacteroidota,2518,2518
+g__Paludibacter,Bacteroidota,2516,2516
+g__Chthonobacter,Proteobacteria,2495,2495
+g__[Clostridium] innocuum group,Firmicutes,2469,2469
+g__Fusibacter,Firmicutes,2465,2465
+f__Limnochordaceae,Firmicutes,2448,2448
+g__Yersinia,Proteobacteria,2442,2442
+f__bacterium Ellin6089,Proteobacteria,2441,2441
+f__Obscuribacteraceae,Cyanobacteria,2436,2436
+g__uncultivated soil bacterium clone C028,Acidobacteriota,2430,2430
+g__Sva0081 sediment group,Desulfobacterota,2419,2419
+g__Rhizorhapis,Proteobacteria,2417,2417
+g__Zavarzinella,Planctomycetota,2414,2414
+g__Neochlamydia,Verrucomicrobiota,2413,2413
+f__Vampirovibrionaceae,Cyanobacteria,2399,2399
+g__Geothermobacter,Desulfobacterota,2395,2395
+f__Unknown Family,Proteobacteria,2394,2394
+g__Achromobacter xylosoxidans,Proteobacteria,2390,2390
+g__Ochrobactrum,Proteobacteria,2341,2341
+f__Phycisphaeraceae,Planctomycetota,2339,2339
+g__Povalibacter,Proteobacteria,2330,2330
+g__Rhodovastum,Proteobacteria,2330,2330
+f__Cryomorphaceae,Bacteroidota,2327,2327
+g__Candidatus Ovatusbacter,Proteobacteria,2325,2325
+g__Shewanella,Proteobacteria,2317,2317
+f__Thermomonosporaceae,Actinobacteriota,2317,2317
+f__Nocardioidaceae,Actinobacteriota,2295,2295
+f__Elsteraceae,Proteobacteria,2283,2283
+g__Cystobacter,Myxococcota,2281,2281
+g__Candidatus Methanoperedens,Halobacterota,2274,2274
+g__Pseudogulbenkiania,Proteobacteria,2250,2250
+g__beta proteobacterium WY25,Proteobacteria,2228,2228
+g__Enterococcus,Firmicutes,2200,2200
+g__Phaeocystidibacter,Bacteroidota,2197,2197
+g__ADurb.Bin118,Verrucomicrobiota,2196,2196
+g__Incertae Sedis,Firmicutes,2031,2193
+f__Candidatus Iainarchaeum,Iainarchaeota,2191,2191
+g__Minicystis,Myxococcota,2180,2180
+g__Pelagibacterium,Proteobacteria,2166,2166
+g__Brevibacillus,Firmicutes,2138,2138
+g__Dialister,Firmicutes,2131,2131
+g__Leptonema,Spirochaetota,2105,2105
+g__Falsibacillus,Firmicutes,2104,2104
+g__Methylomicrobium,Proteobacteria,2096,2096
+g__Actinomycetospora,Actinobacteriota,2088,2088
+g__Spirosoma,Bacteroidota,2079,2079
+f__Azospirillaceae,Proteobacteria,2064,2064
+g__Derxia,Proteobacteria,2063,2063
+g__Actinotalea,Actinobacteriota,2063,2063
+g__Cephaloticoccus,Verrucomicrobiota,2054,2054
+g__Flavisolibacter sp.,Bacteroidota,2030,2030
+f__type III,Firmicutes,2028,2028
+g__Xanthobacter,Proteobacteria,2023,2023
+g__JTB255 marine benthic group,Proteobacteria,1990,1990
+g__Clavibacter,Actinobacteriota,1988,1988
+f__37-13,Bacteroidota,1984,1984
+f__Moraxellaceae,Proteobacteria,1975,1975
+g__Shimazuella,Firmicutes,1974,1974
+g__Terrisporobacter,Firmicutes,1973,1973
+g__Salinispira,Spirochaetota,1971,1971
+g__HN-HF0106,Firmicutes,1971,1971
+g__Chloronema,Chloroflexi,1953,1953
+g__Olivibacter,Bacteroidota,1929,1929
+g__Candidatus Paracaedibacter,Proteobacteria,1928,1928
+g__Psychroglaciecola,Proteobacteria,1911,1911
+g__Geobacillus,Firmicutes,1900,1900
+f__Pleomorphomonadaceae,Proteobacteria,1898,1898
+f__Hydrogenophilaceae,Proteobacteria,1894,1894
+g__Castellaniella,Proteobacteria,1883,1883
+g__1959-1,Chloroflexi,1879,1879
+g__Paucisalibacillus,Firmicutes,1875,1875
+g__Effusibacillus,Firmicutes,1870,1870
+g__SH3-11,Verrucomicrobiota,1870,1870
+g__Pelotomaculum,Firmicutes,1848,1848
+f__Caloramatoraceae,Firmicutes,1847,1847
+g__Azoarcus olearius,Proteobacteria,1843,1843
+g__Klenkia,Actinobacteriota,1842,1842
+f__Deinococcaceae,Deinococcota,1834,1834
+g__Anaerocolumna,Firmicutes,1827,1827
+g__Lelliottia,Proteobacteria,1823,1823
+g__Salinarimonas,Proteobacteria,1821,1821
+g__Rhizocola,Actinobacteriota,1812,1812
+g__Alishewanella,Proteobacteria,1809,1809
+g__Dechlorosoma,Proteobacteria,1808,1808
+g__Aliihoeflea,Proteobacteria,1801,1801
+g__[Polyangium] brachysporum group,Proteobacteria,1798,1798
+g__Heliimonas,Bacteroidota,1779,1779
+f__Peptococcaceae,Firmicutes,1775,1775
+g__C1-B045,Proteobacteria,1774,1774
+g__Cellulosimicrobium,Actinobacteriota,1773,1773
+g__Phascolarctobacterium,Firmicutes,1769,1769
+f__Marinifilaceae,Bacteroidota,1767,1767
+g__Georgenia,Actinobacteriota,1761,1761
+g__Fimbriimonas,Armatimonadota,1756,1756
+f__[Eubacterium] coprostanoligenes group,Firmicutes,1749,1749
+f__AKAU3564 sediment group,Planctomycetota,1746,1746
+g__Sanguibacter-Flavimobilis,Actinobacteriota,1746,1746
+g__Anaerosporobacter,Firmicutes,1739,1739
+g__Acetivibrio,Firmicutes,1733,1733
+g__Candidatus Altiarchaeum,Altiarchaeota,1732,1732
+f__Neisseriaceae,Proteobacteria,1731,1731
+g__Phytohabitans,Actinobacteriota,1730,1730
+g__Schlesneria,Planctomycetota,1703,1703
+g__Gemmobacter,Proteobacteria,1703,1703
+g__Siphonobacter,Bacteroidota,1689,1689
+g__Rummeliibacillus,Firmicutes,1686,1686
+g__Alcanivorax,Proteobacteria,1686,1686
+g__Acidisoma,Proteobacteria,1679,1679
+g__Acidisphaera,Proteobacteria,1676,1676
+f__SCGC AAA011-D5,Nanoarchaeota,1676,1676
+g__Epulopiscium,Firmicutes,1669,1669
+g__Pseudochrobactrum,Proteobacteria,1667,1667
+g__Candidatus Planktophila,Actinobacteriota,1659,1659
+f__ML635J-40 aquatic group,Bacteroidota,1657,1657
+f__Yersiniaceae,Proteobacteria,1649,1649
+g__Cloacibacterium,Bacteroidota,1648,1648
+g__beta proteobacterium JGI 0001003-N18,Proteobacteria,1647,1647
+f__Spirosomaceae,Bacteroidota,1641,1641
+g__Candidatus Nostocoida,Planctomycetota,1626,1626
+g__Bacteroidetes bacterium UKL13-3,Bacteroidota,1623,1623
+g__Hylemonella,Proteobacteria,1617,1617
+g__AR15,Nanoarchaeota,1611,1611
+g__Sedimentibacter,Firmicutes,1610,1610
+f__Microtrichaceae,Actinobacteriota,1606,1606
+g__Chryseoglobus,Actinobacteriota,1602,1602
+f__Candidatus Wolfebacteria bacterium RIFCSPHIGHO2_01_FULL_48_22,Patescibacteria,1597,1597
+g__Ignavibacteria bacterium RIFCSPLOWO2_12_FULL_56_21,Bacteroidota,1596,1596
+g__Xanthomonas citri pv. mangiferaeindicae,Proteobacteria,1594,1594
+g__Clostridium sensu stricto 11,Firmicutes,1592,1592
+g__Pseudarcicella,Bacteroidota,1591,1591
+g__Krasilnikovia,Actinobacteriota,1588,1588
+g__Planosporangium,Actinobacteriota,1580,1580
+g__Candidatus Protochlamydia,Verrucomicrobiota,1579,1579
+g__beta proteobacterium WX53,Proteobacteria,1571,1571
+g__Asanoa,Actinobacteriota,1571,1571
+g__Turneriella,Spirochaetota,1570,1570
+g__Terribacillus,Firmicutes,1566,1566
+g__Umezawaea,Actinobacteriota,1566,1566
+f__S15-21,Bacteroidota,1564,1564
+f__Magnetospiraceae,Proteobacteria,1562,1562
+f__PHOS-HE36,Bacteroidota,1559,1559
+g__Hephaestia,Proteobacteria,1548,1548
+g__Pantalinema,Cyanobacteria,1545,1545
+g__Endomicrobium,Elusimicrobiota,1542,1542
+g__Leptolyngbya ANT.L52.2,Cyanobacteria,1528,1528
+g__Lachnoclostridium,Firmicutes,1527,1527
+f__Phormidiaceae,Cyanobacteria,1523,1523
+g__Gemmatirosa,Gemmatimonadota,1512,1512
+g__Blvii28 wastewater-sludge group,Bacteroidota,1509,1509
+g__Sphaerotilus,Proteobacteria,1507,1507
+f__bacterium enrichment culture clone auto73_4W,Actinobacteriota,1507,1507
+g__Inhella,Proteobacteria,1501,1501
+g__[Ruminococcus] torques group,Firmicutes,1494,1494
+g__Azotobacter,Proteobacteria,1486,1486
+g__Methylocella,Proteobacteria,1481,1481
+f__Dysgonomonadaceae,Bacteroidota,1481,1481
+g__Ornithinimicrobium,Actinobacteriota,1476,1476
+g__Citrobacter,Proteobacteria,1474,1474
+g__Candidatus Diapherotrites archaeon ADurb.Bin253,Nanoarchaeota,1469,1469
+f__Thermoactinomycetaceae,Firmicutes,1455,1455
+g__Barnesiella,Bacteroidota,1453,1453
+f__Nitrosomonadaceae,Proteobacteria,1449,1449
+g__Craurococcus-Caldovatus,Proteobacteria,1447,1447
+f__Tepidisphaeraceae,Planctomycetota,1446,1446
+g__Empedobacter,Bacteroidota,1445,1445
+g__Vampirovibrio,Cyanobacteria,1443,1443
+g__Litorilinea,Chloroflexi,1442,1442
+g__Sulfuricella,Proteobacteria,1439,1439
+g__Acetobacter,Proteobacteria,1422,1422
+g__Pullulanibacillus,Firmicutes,1417,1417
+f__Alicyclobacillaceae,Firmicutes,1415,1415
+g__Pseudohongiella,Proteobacteria,1405,1405
+g__Planifilum,Firmicutes,1405,1405
+g__Lachnospiraceae NK4A136 group,Firmicutes,1404,1404
+f__A0839,Proteobacteria,1404,1404
+g__Methylomonas,Proteobacteria,1401,1401
+g__Undibacterium,Proteobacteria,1395,1395
+g__Bryocella,Acidobacteriota,1387,1387
+g__Candidatus Limnoluna,Actinobacteriota,1384,1384
+g__Megamonas,Firmicutes,1382,1382
+g__Candidatus Berkiella,Proteobacteria,1379,1379
+g__Syntrophomonas,Firmicutes,1375,1375
+g__Levilinea,Chloroflexi,1367,1367
+g__Rurimicrobium,Bacteroidota,1366,1366
+g__Uliginosibacterium,Proteobacteria,1359,1359
+g__Coxiella,Proteobacteria,1355,1355
+f__Halobacteroidaceae,Halanaerobiaeota,1342,1342
+f__MSB-3C8,Bacteroidota,1336,1336
+f__Solimonadaceae,Proteobacteria,1332,1332
+g__DEV008,Verrucomicrobiota,1319,1319
+g__Salimesophilobacter,Firmicutes,1315,1315
+g__Phreatobacter,Proteobacteria,1315,1315
+g__Herminiimonas,Proteobacteria,1314,1314
+g__Sporobacter,Firmicutes,1314,1314
+g__Roseococcus,Proteobacteria,1305,1305
+g__Longispora,Actinobacteriota,1305,1305
+g__Pedosphaera,Verrucomicrobiota,1300,1300
+g__UBA6140,Proteobacteria,1299,1299
+g__Acidobacteria bacterium SCN 69-37,Acidobacteriota,1289,1289
+f__UA-50,Bacteroidota,1288,1288
+g__Neo-b11,Proteobacteria,1282,1282
+g__FFCH7168,Chloroflexi,1276,1276
+g__KD3-10,Myxococcota,1275,1275
+f__Arcobacteraceae,Campylobacterota,1272,1272
+g__Roseburia,Firmicutes,1266,1266
+f__Candidatus Yanofskybacteria bacterium GW2011_GWF1_44_227,Patescibacteria,1264,1264
+g__Croceicoccus,Proteobacteria,1263,1263
+g__Tellurimicrobium,Acidobacteriota,1244,1244
+g__Alterococcus,Verrucomicrobiota,1242,1242
+g__marine bacterium JK1007,Bacteroidota,1240,1240
+g__Leeia,Proteobacteria,1239,1239
+g__Polynucleobacter,Proteobacteria,1238,1238
+g__Planotetraspora,Actinobacteriota,1236,1236
+f__Frankiaceae,Actinobacteriota,1234,1234
+f__bacterium 3-7_YC-ZSS-LKJ-1723,Proteobacteria,1214,1214
+g__Halobacillus,Firmicutes,1211,1211
+g__Methanobrevibacter,Euryarchaeota,1202,1202
+g__Chelativorans,Proteobacteria,1202,1202
+g__Pelagicoccus,Verrucomicrobiota,1200,1200
+g__Tundrisphaera,Planctomycetota,1187,1187
+f__Parachlamydiaceae,Verrucomicrobiota,1185,1185
+f__Hyphomicrobiaceae,Proteobacteria,1183,1183
+g__Giesbergeria,Proteobacteria,1179,1179
+g__Pseudobacteroides,Firmicutes,1169,1169
+g__bacterium Ellin6537,Chloroflexi,1167,1167
+g__Martelella,Proteobacteria,1159,1159
+g__[Ruminococcus] gnavus group,Firmicutes,1143,1143
+g__Flexivirga,Actinobacteriota,1141,1141
+g__Geosporobacter,Firmicutes,1135,1135
+g__Sulfurisoma,Proteobacteria,1134,1134
+f__Simkaniaceae,Verrucomicrobiota,1132,1132
+f__Candidatus Zambryskibacteria bacterium RIFCSPLOWO2_12_FULL_39_16,Patescibacteria,1126,1126
+g__Kluyvera,Proteobacteria,1126,1126
+g__Prevotellaceae UCG-001,Bacteroidota,1126,1126
+g__Salinibacterium,Actinobacteriota,1122,1122
+g__Geoalkalibacter,Desulfobacterota,1116,1116
+g__Microcoleus PCC-7113,Cyanobacteria,1115,1115
+g__Catellatospora,Actinobacteriota,1112,1112
+f__Candidatus Amesbacteria bacterium GW2011_GWC1_47_15,Thermoplasmatota,1109,1109
+g__bacterium Ellin7530,Actinobacteriota,1107,1107
+g__[Aquaspirillum] arcticum group,Proteobacteria,1106,1106
+g__Rodentibacter,Proteobacteria,1103,1103
+g__Malikia,Proteobacteria,1097,1097
+f__Candidatus Melainabacteria bacterium GWA2_34_9,Cyanobacteria,1094,1094
+g__RS25G,Verrucomicrobiota,1089,1089
+g__CENA518,Cyanobacteria,1089,1089
+f__Nostocaceae,Cyanobacteria,1078,1078
+g__Planococcus,Firmicutes,1078,1078
+g__Leucobacter,Actinobacteriota,1078,1078
+f__bacterium enrichment culture clone auto112_4W,Bdellovibrionota,1071,1071
+f__cvE6,Verrucomicrobiota,1059,1059
+g__Candidatus Pacearchaeota archaeon RBG_19FT_COMBO_34_9,Nanoarchaeota,1058,1058
+g__Saccharopolyspora,Actinobacteriota,1053,1053
+g__Dorea,Firmicutes,1045,1045
+f__Alteromonadaceae,Proteobacteria,1043,1043
+g__Chiayiivirga,Proteobacteria,1043,1043
+g__Owenweeksia,Bacteroidota,1043,1043
+g__Desulfurispora,Firmicutes,1040,1040
+g__Actimicrobium,Proteobacteria,1038,1038
+g__Plasticicumulans,Proteobacteria,1031,1031
+f__Anaerovoracaceae,Firmicutes,1019,1019
+f__bacterium enrichment culture clone Anammox_49,Proteobacteria,1017,1017
+g__Vulgatibacter,Myxococcota,1015,1015
+g__BD1-7 clade,Proteobacteria,1012,1012
+f__Micavibrionaceae,Proteobacteria,1012,1012
+f__SG8-4,Planctomycetota,1012,1012
+g__Phormidium IAM M-71,Cyanobacteria,1006,1006
+g__[Eubacterium] hallii group,Firmicutes,1006,1006
+g__Desulfatiglans,Desulfobacterota,1004,1004
+g__Crenothrix,Proteobacteria,999,999
+g__Desulfomicrobium,Desulfobacterota,998,998
+g__UCG-002,Firmicutes,994,994
+g__Anaerospora,Firmicutes,993,993
+g__Actinophytocola,Actinobacteriota,989,989
+g__Pseudofulvimonas,Proteobacteria,987,987
+g__Hoeflea,Proteobacteria,985,985
+g__Frondihabitans,Actinobacteriota,979,979
+g__Brucella,Proteobacteria,973,973
+g__Odoribacter,Bacteroidota,969,969
+g__Parafrigoribacterium,Actinobacteriota,965,965
+g__Microbispora,Actinobacteriota,964,964
+g__Smithella,Desulfobacterota,958,958
+g__Cellulosilyticum,Firmicutes,953,953
+g__Verrucosispora,Actinobacteriota,946,946
+g__Subsaxibacter,Bacteroidota,945,945
+g__Methylovirgula,Proteobacteria,943,943
+f__LiUU-11-161,Bacteroidota,939,939
+g__Leptolyngbya EcFYyyy-00,Cyanobacteria,933,933
+g__Tolypothrix,Cyanobacteria,932,932
+g__Oceanicella,Proteobacteria,931,931
+g__Candidatus Pacearchaeota archaeon CG1_02_32_21,Nanoarchaeota,929,929
+g__Parapedobacter,Bacteroidota,924,924
+f__Clostridium sp. 6-31,Firmicutes,924,924
+g__Panacagrimonas,Proteobacteria,922,922
+g__Aureimonas,Proteobacteria,918,918
+g__Planctomycetales bacterium Ellin6207,Planctomycetota,917,917
+g__Roseimarinus,Bacteroidota,914,914
+g__Truepera,Deinococcota,904,904
+f__Alkaliphilus,Firmicutes,900,900
+g__Gaiella sp. EBR4-RS1,Actinobacteriota,895,895
+g__Azovibrio,Proteobacteria,886,886
+g__Allokutzneria,Actinobacteriota,883,883
+f__Burkholderiaceae,Proteobacteria,876,876
+g__Vicingus,Bacteroidota,873,873
+g__MM1,Proteobacteria,868,868
+g__Oceanobacillus,Firmicutes,868,868
+g__Ligilactobacillus,Firmicutes,859,859
+g__Erysipelatoclostridium,Firmicutes,854,854
+g__Desulfoprunum,Desulfobacterota,848,848
+f__Methylomonadaceae,Proteobacteria,846,846
+f__KD1-131,Bacteroidota,845,845
+g__SUP05 cluster,Proteobacteria,835,835
+g__Acidisphaera sp.,Proteobacteria,833,833
+g__JdFR-76,Calditrichota,828,828
+g__Candidatus Bacilloplasma,Firmicutes,826,826
+g__Buchnera,Proteobacteria,824,824
+g__Turicibacter,Firmicutes,823,823
+f__Legionellaceae,Proteobacteria,821,821
+g__Sandarakinorhabdus,Proteobacteria,819,819
+g__Candidatus Entotheonella,Entotheonellaeota,815,815
+g__Coprococcus,Firmicutes,798,798
+g__Planctopirus,Planctomycetota,790,790
+g__Ancylothrix 8PC,Cyanobacteria,787,787
+f__Rickettsiaceae,Proteobacteria,787,787
+g__Cavicella,Proteobacteria,786,786
+g__Cesiribacter,Bacteroidota,786,786
+g__Gracilimonas,Bacteroidota,786,786
+g__Jahnella,Myxococcota,785,785
+g__Georgfuchsia,Proteobacteria,773,773
+g__Antarcticibacterium,Bacteroidota,772,772
+g__Jeotgalibacillus,Firmicutes,772,772
+g__Desulfomonile,Desulfobacterota,770,770
+g__Flexibacter,Bacteroidota,768,768
+g__Erysipelotrichaceae UCG-003,Firmicutes,768,768
+g__Candidatus Latescibacter,Latescibacterota,768,768
+g__Filomicrobium,Proteobacteria,765,765
+g__Salipaludibacillus,Firmicutes,759,759
+g__Geminicoccus,Proteobacteria,756,756
+g__JCM 18997,Actinobacteriota,748,748
+g__Alicycliphilus,Proteobacteria,746,746
+g__Silanimonas mangrovi AK13,Proteobacteria,745,745
+g__Xanthomonas,Proteobacteria,743,743
+g__Gryllotalpicola,Actinobacteriota,742,742
+g__Acidovorax sp. T1,Proteobacteria,735,735
+g__Gramella,Bacteroidota,733,733
+g__Veillonella,Firmicutes,732,732
+g__Fermentimonas,Bacteroidota,730,730
+g__Salinispora,Actinobacteriota,729,729
+g__Ga0074140,Verrucomicrobiota,727,727
+g__Desulfotomaculum,Firmicutes,724,724
+f__UCG-010,Firmicutes,721,721
+f__Ruminococcaceae,Firmicutes,719,719
+g__MSBL7,Desulfobacterota,718,718
+g__Sphaerisporangium,Actinobacteriota,714,714
+g__Laceyella,Firmicutes,712,712
+g__IMCC26207,Actinobacteriota,712,712
+g__alpha proteobacterium MTB-KTN92,Proteobacteria,710,710
+g__Catenibacterium,Firmicutes,709,709
+g__Paramesorhizobium,Proteobacteria,708,708
+g__Hydrocarboniphaga,Proteobacteria,702,702
+g__Spirillospora,Actinobacteriota,700,700
+g__Longilinea,Chloroflexi,699,699
+g__Moheibacter,Bacteroidota,695,695
+f__Peptostreptococcaceae,Firmicutes,694,694
+f__Paracaedibacteraceae,Proteobacteria,692,692
+g__Ferritrophicum,Proteobacteria,692,692
+g__Corallococcus,Myxococcota,692,692
+g__Conyzicola,Actinobacteriota,690,690
+g__Leuconostoc,Firmicutes,689,689
+g__Weissella,Firmicutes,686,686
+g__Williamsia,Actinobacteriota,684,684
+g__Oscillochloris,Chloroflexi,682,682
+g__iron-reducing bacterium enrichment culture clone HN-HFO16,Desulfobacterota,680,680
+g__Filibacter,Firmicutes,671,671
+g__Sandaracinobacter,Proteobacteria,666,666
+g__Blastopirellula,Planctomycetota,663,663
+g__Pseudopelobacter,Desulfobacterota,661,661
+g__Oikopleura,Verrucomicrobiota,656,656
+g__TX1A-55,Proteobacteria,654,654
+g__Permianibacter,Proteobacteria,651,651
+g__Paludisphaera,Planctomycetota,642,642
+g__Rhodonellum,Bacteroidota,640,640
+g__Orrella,Proteobacteria,639,639
+g__PMMR1,Proteobacteria,638,638
+g__Acidiphilium,Proteobacteria,636,636
+g__Frankia,Actinobacteriota,635,635
+g__IheB3-7,Bacteroidota,635,635
+g__Solimonas,Proteobacteria,633,633
+g__Collimonas,Proteobacteria,633,633
+g__Pir2 lineage,Planctomycetota,632,632
+f__Amb-16S-1034,Myxococcota,632,632
+f__Rubinisphaeraceae,Planctomycetota,632,632
+g__bacterium enrichment culture clone SRAO_28,Proteobacteria,631,631
+g__Constrictibacter,Proteobacteria,627,627
+g__Nitratireductor,Proteobacteria,626,626
+f__Chlorobi bacterium OLB5,Bacteroidota,626,626
+g__Nevskia,Proteobacteria,626,626
+g__Prevotella,Bacteroidota,617,617
+g__Melghirimyces,Firmicutes,617,617
+g__Methylovorus,Proteobacteria,614,614
+g__Larkinella,Bacteroidota,613,613
+g__Chroococcidiopsis PCC 7203,Cyanobacteria,609,609
+g__Tunicatimonas,Bacteroidota,609,609
+g__Planomonospora,Actinobacteriota,608,608
+g__Nocardiopsis,Actinobacteriota,608,608
+g__Telluria,Proteobacteria,608,608
+g__Brachybacterium,Actinobacteriota,607,607
+g__Bordetella flabilis,Proteobacteria,607,607
+f__Babeliaceae,Dependentiae,606,606
+g__Helicobacter,Campylobacterota,604,604
+f__Terasakiellaceae,Proteobacteria,598,598
+g__Novispirillum,Proteobacteria,597,597
+g__Collinsella,Actinobacteriota,593,593
+g__Acetobacteroides,Bacteroidota,593,593
+f__Bdellovibrionales bacterium GWC1_52_8,Bdellovibrionota,587,587
+g__Tepidisphaera,Planctomycetota,584,584
+g__Planktothrix NIVA-CYA 15,Cyanobacteria,578,578
+g__Fontimonas,Proteobacteria,577,577
+g__Lachnotalea,Firmicutes,572,572
+f__Sporolactobacillaceae,Firmicutes,569,569
+g__Chloroflexi bacterium Ellin7237,Chloroflexi,567,567
+g__Haloplasma,Firmicutes,564,564
+g__Oxalobacter,Proteobacteria,557,557
+f__DEV007,Verrucomicrobiota,552,552
+f__Fodinicurvataceae,Proteobacteria,549,549
+g__FFCH5858,Proteobacteria,548,548
+g__Thermoanaerobaculum,Acidobacteriota,547,547
+g__Plantactinospora,Actinobacteriota,541,541
+g__Marisediminicola,Actinobacteriota,541,541
+g__Leptolyngbya PCC-6306,Cyanobacteria,540,540
+g__Geobacteraceae bacterium JN18_V95_J,Desulfobacterota,539,539
+g__Paralcaligenes,Proteobacteria,538,538
+g__Synechococcus IR11,Cyanobacteria,538,538
+g__CL500-3,Planctomycetota,527,527
+g__Silvanigrella,Bdellovibrionota,525,525
+g__Parasutterella,Proteobacteria,523,523
+g__Alkanindiges,Proteobacteria,520,520
+f__uncultivated soil bacterium clone S111,Acidobacteriota,515,515
+g__Leptospirillum,Nitrospirota,513,513
+g__RBG-16-49-21,Spirochaetota,512,512
+f__Desulfobulbaceae,Desulfobacterota,512,512
+g__Anaerolineaceae UCG-001,Chloroflexi,510,510
+g__Propionicimonas,Actinobacteriota,507,507
+f__Bacteriovoracaceae,Bdellovibrionota,507,507
+g__Methylocaldum,Proteobacteria,504,504
+f__Nitrosotaleaceae,Crenarchaeota,504,504
+g__DEV114,Verrucomicrobiota,502,502
+g__Kroppenstedtia,Firmicutes,498,498
+g__Ancalomicrobium,Proteobacteria,493,493
+g__Amnibacterium,Actinobacteriota,491,491
+g__Wangella,Actinobacteriota,490,490
+g__Bacteroidetes bacterium GWF2_49_14,Bacteroidota,487,487
+g__Sporichthya,Actinobacteriota,483,483
+g__Saccharibacillus,Firmicutes,482,482
+g__Agarilytica,Proteobacteria,482,482
+g__Lachnospira,Firmicutes,481,481
+g__Stella,Proteobacteria,478,478
+g__Arsenicitalea sp.,Proteobacteria,474,474
+g__Kinneretia,Proteobacteria,473,473
+g__Afifella,Proteobacteria,468,468
+g__Candidatus Methylopumilus,Proteobacteria,466,466
+g__Crocinitomix,Bacteroidota,466,466
+g__UCG-005,Firmicutes,462,462
+g__Nostoc PCC-7107,Cyanobacteria,458,458
+g__Faecalitalea,Firmicutes,457,457
+g__Fusobacterium,Fusobacteriota,448,448
+f__UBA12409,Dependentiae,448,448
+g__Kouleothrix,Chloroflexi,447,447
+g__Trabulsiella,Proteobacteria,447,447
+g__Intestinibacter,Firmicutes,446,446
+g__Deltaproteobacteria bacterium RBG_13_43_22,Desulfobacterota,445,445
+g__Cutibacterium,Actinobacteriota,441,441
+g__[Eubacterium] brachy group,Firmicutes,440,440
+g__Pseudoclavibacter,Actinobacteriota,440,440
+g__Psychrobacter,Proteobacteria,439,439
+g__Pseudanabaena NgrPSln22,Cyanobacteria,435,435
+g__Actinomadura sp.,Actinobacteriota,435,435
+g__Sphaerospermopsis BCCUSP55,Cyanobacteria,433,433
+g__Ercella,Firmicutes,431,431
+g__Sphaerobacter,Chloroflexi,431,431
+g__Cylindrospermum PCC-7417,Cyanobacteria,430,430
+g__Niveispirillum,Proteobacteria,430,430
+g__Brevinema,Spirochaetota,423,423
+f__Rhodospirillaceae bacterium HEG_-6_10,Proteobacteria,423,423
+g__Haloactinopolyspora,Actinobacteriota,422,422
+g__Yoonia-Loktanella,Proteobacteria,421,421
+f__soil bacterium WF55,Patescibacteria,416,416
+g__Aurantimonas,Proteobacteria,412,412
+f__Puniceicoccaceae,Verrucomicrobiota,411,411
+g__Candidatus Planktoluna,Actinobacteriota,408,408
+g__Byssovorax,Myxococcota,404,404
+g__bacterium WX65,Methylomirabilota,402,402
+g__Chryseomicrobium,Firmicutes,401,401
+f__Anaeromyxobacter dehalogenans,Myxococcota,400,400
+g__Gordonia,Actinobacteriota,397,397
+g__Propionicicella,Actinobacteriota,397,397
+g__Papillibacter,Firmicutes,394,394
+g__Sulfurovum,Campylobacterota,389,389
+f__Leptospiraceae,Spirochaetota,387,387
+g__Rathayibacter,Actinobacteriota,383,383
+g__bacterium enrichment culture clone ecb9,Firmicutes,382,382
+f__SR-FBR-L83,Bacteroidota,381,381
+g__Pseudarcobacter,Campylobacterota,380,380
+g__Mitsuaria,Proteobacteria,378,378
+f__Taonella,Proteobacteria,375,375
+f__Candidatus Yanofskybacteria bacterium RIFCSPLOWO2_02_FULL_45_18,Patescibacteria,373,373
+g__Haemophilus,Proteobacteria,372,372
+f__Silvanigrellaceae,Bdellovibrionota,372,372
+g__Desulforhabdus,Desulfobacterota,370,370
+f__Candidatus Kaiserbacteria bacterium RIFOXYB1_FULL_46_14,Patescibacteria,369,369
+f__AB1,Proteobacteria,367,367
+g__Butyricimonas,Bacteroidota,361,361
+g__Parablastomonas,Proteobacteria,360,360
+g__Defluviimonas,Proteobacteria,360,360
+f__CG1-02-57-44,Nanoarchaeota,359,359
+f__Desulfovibrionaceae,Desulfobacterota,359,359
+g__Paeniclostridium,Firmicutes,357,357
+g__Ketobacter,Proteobacteria,355,355
+g__Ureibacillus,Firmicutes,354,354
+f__Acidaminococcaceae,Firmicutes,353,353
+f__Chromobacteriaceae,Proteobacteria,352,352
+g__Aestuariimicrobium,Actinobacteriota,350,350
+g__UBA1819,Firmicutes,349,349
+g__Labilithrix,Myxococcota,349,349
+g__Aneurinibacillus,Firmicutes,349,349
+f__bacterium enrichment culture clone B126(2011),Bdellovibrionota,347,347
+f__Oscillospiraceae,Firmicutes,347,347
+g__Thermobacillus,Firmicutes,347,347
+g__Virgibacillus,Firmicutes,347,347
+g__Desulfurivibrio,Desulfobacterota,346,346
+g__Eggerthella,Actinobacteriota,344,344
+g__Caldicoprobacter,Firmicutes,342,342
+f__Barnesiellaceae,Bacteroidota,341,341
+g__Salinicola,Proteobacteria,340,340
+g__Tropicimonas,Proteobacteria,339,339
+g__Falsochrobactrum,Proteobacteria,337,337
+g__Bellilinea,Chloroflexi,335,335
+g__Microcoleus SAG 1449-1a,Cyanobacteria,334,334
+g__Telmatobacter,Acidobacteriota,332,332
+g__Novibacillus,Firmicutes,331,331
+g__Fulvimonas,Proteobacteria,330,330
+g__Tuberibacillus,Firmicutes,328,328
+g__Oligotropha,Proteobacteria,328,328
+g__oc32,Proteobacteria,326,326
+g__Dubosiella,Firmicutes,322,322
+f__Cytophagaceae,Bacteroidota,318,318
+g__NK4A214 group,Firmicutes,318,318
+g__Seohaeicola,Proteobacteria,317,317
+g__Synechococcus CC9902,Cyanobacteria,317,317
+g__UCG-012,Firmicutes,316,316
+g__[Eubacterium] eligens group,Firmicutes,314,314
+g__Camelimonas,Proteobacteria,313,313
+g__Allocatelliglobosispora,Actinobacteriota,312,312
+g__Salegentibacter,Bacteroidota,311,311
+g__Cetobacterium,Fusobacteriota,311,311
+f__Eel-36e1D6,Myxococcota,310,310
+g__Hungatella,Firmicutes,310,310
+g__Prosthecomicrobium,Proteobacteria,309,309
+g__Azospirillum sp. 47_25,Proteobacteria,309,309
+g__Fibrella,Bacteroidota,309,309
+g__Pediococcus,Firmicutes,308,308
+g__Lacihabitans,Bacteroidota,307,307
+g__Trichlorobacter,Desulfobacterota,306,306
+g__Haliscomenobacter,Bacteroidota,304,304
+f__Parcubacteria group bacterium CG1_02_50_68,Patescibacteria,304,304
+g__Candidatus Amoebophilus,Bacteroidota,301,301
+g__Rhodovarius,Proteobacteria,301,301
+g__Chitinimonas,Proteobacteria,300,300
+g__Cryptanaerobacter,Firmicutes,299,299
+g__Litorivivens,Proteobacteria,298,298
+g__Phaeodactylibacter,Bacteroidota,297,297
+g__GWE2-42-42,Bacteroidota,297,297
+g__Wandonia,Bacteroidota,296,296
+g__Anaerosporomusa,Firmicutes,292,292
+f__Candidatus Jorgensenbacteria bacterium GW2011_GWA1_48_11,Patescibacteria,291,291
+g__Perlucidibaca,Proteobacteria,290,290
+g__Anoxybacillus,Firmicutes,289,289
+g__Oscillibacter,Firmicutes,289,289
+g__Hypnocyclicus,Fusobacteriota,288,288
+f__27F-1492R,Myxococcota,286,286
+g__1174-901-12,Proteobacteria,286,286
+g__Flavihumibacter sp.,Bacteroidota,285,285
+f__Bacteroidetes BD2-2,Bacteroidota,285,285
+f__S15A-MN91,Bacteroidota,283,283
+g__Saccharomonospora,Actinobacteriota,278,278
+g__Propionispira,Firmicutes,278,278
+g__Leptospira,Spirochaetota,276,276
+g__Candidatus Lumbricincola,Firmicutes,276,276
+g__Limosilactobacillus,Firmicutes,274,274
+g__Viridibacillus arenosi,Firmicutes,274,274
+g__Actinomycetales bacterium,Actinobacteriota,273,273
+g__Parvibaculum,Proteobacteria,272,272
+f__Nitriliruptoraceae,Actinobacteriota,271,271
+g__Massilia sp.,Proteobacteria,270,270
+g__Sphingosinicella sp.,Proteobacteria,269,269
+g__Thermopolyspora,Actinobacteriota,268,268
+g__Granulicatella,Firmicutes,267,267
+f__Candidatus Zambryskibacteria bacterium RIFCSPLOWO2_02_FULL_51_21,Patescibacteria,267,267
+g__GKS98 freshwater group,Proteobacteria,265,265
+g__Ottowia,Proteobacteria,265,265
+g__Youhaiella,Proteobacteria,264,264
+f__M2PB4-65 termite group,Bacteroidota,263,263
+f__Cellulomonadaceae,Actinobacteriota,262,262
+g__Candidatus Aquiluna,Actinobacteriota,262,262
+g__Monoglobus,Firmicutes,261,261
+g__Proteiniphilum,Bacteroidota,260,260
+g__Sutterella,Proteobacteria,260,260
+g__Desmonostoc PCC-7422,Cyanobacteria,259,259
+g__Dysgonomonas,Bacteroidota,257,257
+g__Trichococcus,Firmicutes,256,256
+g__Armatimonas,Armatimonadota,255,255
+g__Catenuloplanes,Actinobacteriota,255,255
+g__beta proteobacterium WWH154,Proteobacteria,254,254
+f__FFCH9454,Bacteroidota,254,254
+g__Nibribacter,Bacteroidota,253,253
+g__Lactiplantibacillus,Firmicutes,251,251
+g__Diaminobutyricimonas,Actinobacteriota,251,251
+f__Candidatus Kerfeldbacteria bacterium RIFCSPLOWO2_01_FULL_48_11,Patescibacteria,251,251
+g__Tetrasphaera,Actinobacteriota,247,247
+g__Sorangiineae bacterium NIC37A_2,Myxococcota,246,246
+f__Weeksellaceae,Bacteroidota,245,245
+g__Leptolyngbya SAG 2411,Cyanobacteria,245,245
+g__Arcobacter,Campylobacterota,244,244
+g__Arthrobacter sp. BA34(2011),Actinobacteriota,244,244
+g__Erwinia,Proteobacteria,243,243
+g__bacterium enrichment culture,Firmicutes,242,242
+g__HT002,Firmicutes,241,241
+g__Halocella,Halanaerobiaeota,239,239
+g__Rickettsiella,Proteobacteria,239,239
+f__Z4MB62,Bacteroidota,238,238
+g__Candidatus Gigarickettsia,Proteobacteria,238,238
+g__denitrifying bacterium enrichment culture clone NOB_2_A7,Bacteroidota,234,234
+f__Myxococcales bacterium Gsoil 473,Myxococcota,233,233
+f__Rice Cluster II,Halobacterota,233,233
+f__Verrucomicrobia bacterium ADurb.Bin070,Verrucomicrobiota,232,232
+f__Paludibaculum fermentans,Acidobacteriota,231,231
+g__Tepidimicrobium,Firmicutes,231,231
+g__Kineococcus,Actinobacteriota,230,230
+g__Robertkochia,Bacteroidota,228,228
+g__Draconibacterium,Bacteroidota,226,226
+g__Anaerobacillus,Firmicutes,225,225
+g__Herbiconiux,Actinobacteriota,225,225
+g__Chlorobaculum,Bacteroidota,225,225
+g__Actinocatenispora,Actinobacteriota,222,222
+g__Erysipelothrix,Firmicutes,221,221
+f__Arenicellaceae,Proteobacteria,219,219
+g__EcFYyy-200,Cyanobacteria,219,219
+g__Isosphaera,Planctomycetota,218,218
+g__Porphyromonas,Bacteroidota,217,217
+f__CWT CU03-E12,Bacteroidota,217,217
+g__Acidobacteria bacterium WX27,Acidobacteriota,216,216
+g__Lawsonella,Actinobacteriota,216,216
+g__Rhizobiales bacterium GAS113,Proteobacteria,215,215
+g__Candidatus Aquirestis,Bacteroidota,215,215
+g__Tuber borchii symbiont b-17BO,Bacteroidota,215,215
+g__bacterium YC-ZSS-LKJ66,Actinobacteriota,214,214
+f__Candidatus Raymondbacteria,Fibrobacterota,214,214
+g__Nitriliruptor,Actinobacteriota,214,214
+f__UBA12411,Dependentiae,213,213
+g__Zhizhongheella,Proteobacteria,212,212
+g__Flavonifractor,Firmicutes,211,211
+f__Candidatus Falkowbacteria bacterium GW2011_GWA2_41_14,Patescibacteria,211,211
+g__[Aquaspirillum] polymorphum group,Proteobacteria,211,211
+g__Aggregicoccus,Myxococcota,210,210
+g__Corynebacterium,Actinobacteriota,205,205
+g__Estrella,Verrucomicrobiota,203,203
+g__Prevotellaceae NK3B31 group,Bacteroidota,203,203
+g__Rubritepida,Proteobacteria,201,201
+g__Solirubrobacterales bacterium 67-14,Actinobacteriota,201,201
+f__Erysipelotrichaceae,Firmicutes,201,201
+g__Kibdelosporangium,Actinobacteriota,200,200
+g__Sulfuriferula,Proteobacteria,199,199
+f__Family XI,Firmicutes,199,199
+g__Acidobacteria bacterium LWQ13,Acidobacteriota,196,196
+g__Enhydrobacter,Proteobacteria,196,196
+g__Tissierella,Firmicutes,192,192
+g__Flectobacillus,Bacteroidota,191,191
+g__Candidatus Riegeria,Proteobacteria,190,190
+g__Fervidicella,Firmicutes,190,190
+g__Citricoccus,Actinobacteriota,190,190
+g__Colidextribacter,Firmicutes,190,190
+g__Desulfallas-Sporotomaculum,Firmicutes,189,189
+g__iron-reducing bacterium enrichment culture clone FeC_1_D2,Firmicutes,188,188
+f__Syntrophomonadaceae,Firmicutes,187,187
+f__Desulfitobacteriaceae,Firmicutes,186,186
+f__bacterium YC-LK-LKJ27,Chloroflexi,184,184
+g__Ileibacterium,Firmicutes,184,184
+f__Candidatus Jidaibacter,Proteobacteria,183,183
+g__Ascidiaceihabitans,Proteobacteria,182,182
+g__Pseudanabaena PCC-7429,Cyanobacteria,182,182
+f__Streptosporangiaceae,Actinobacteriota,181,181
+g__Rudanella,Bacteroidota,181,181
+f__Thioalkalispiraceae,Proteobacteria,181,181
+g__Family XIII AD3011 group,Firmicutes,181,181
+g__28-YEA-48,Proteobacteria,180,180
+g__Thermoflavimicrobium,Firmicutes,179,179
+g__Dehalogenimonas,Chloroflexi,178,178
+g__Azonexus,Proteobacteria,177,177
+g__[Eubacterium] ruminantium group,Firmicutes,177,177
+g__Cereibacter,Proteobacteria,177,177
+g__Starkeya,Proteobacteria,177,177
+g__Microseira Carmichael-Alabama,Cyanobacteria,175,175
+g__Quatrionicoccus,Proteobacteria,174,174
+g__Arboricoccus,Proteobacteria,174,174
+g__Deefgea,Proteobacteria,173,173
+g__Methylocapsa,Proteobacteria,172,172
+g__Megasphaera,Firmicutes,171,171
+g__Lachnospiraceae ND3007 group,Firmicutes,169,169
+g__Verticiella,Proteobacteria,169,169
+g__Cryptosporangium,Actinobacteriota,169,169
+f__Candidatus Yanofskybacteria bacterium GW2011_GWA2_41_22,Patescibacteria,168,168
+g__Pseudacidovorax,Proteobacteria,168,168
+g__Humibacillus,Actinobacteriota,167,167
+g__Frigoribacterium,Actinobacteriota,166,166
+g__Erythrobacter sp. HME6855,Proteobacteria,165,165
+g__Candidatus Megaira,Proteobacteria,165,165
+g__Marinococcus,Firmicutes,164,164
+g__Niveibacterium,Proteobacteria,162,162
+g__gamma proteobacterium OR-113,Proteobacteria,161,161
+g__Candidatus Caldatribacterium,Caldatribacteriota,161,161
+f__Balneolaceae,Bacteroidota,160,160
+g__Geitlerinema,Cyanobacteria,160,160
+g__Herbidospora,Actinobacteriota,160,160
+g__Micrococcus,Actinobacteriota,159,159
+g__Aquamicrobium,Proteobacteria,159,159
+g__Bounagaea,Actinobacteriota,158,158
+g__Leptolyngbya Es-Yyy1000,Cyanobacteria,157,157
+f__Parcubacteria group bacterium GW2011_GWA2_47_8b,Patescibacteria,156,156
+g__Micavibrio,Proteobacteria,156,156
+g__Roseimaritima,Planctomycetota,155,155
+g__Anaerotruncus,Firmicutes,154,154
+g__[Eubacterium] nodatum group,Firmicutes,153,153
+g__Stakelama,Proteobacteria,152,152
+g__Beutenbergia,Actinobacteriota,152,152
+g__Haematococcus lacustris,Bacteroidota,152,152
+g__Yonghaparkia,Actinobacteriota,150,150
+g__wb1-P19,Proteobacteria,149,149
+g__Runella,Bacteroidota,148,148
+g__Patulibacter,Actinobacteriota,147,147
+f__Candidatus Komeilibacteria bacterium RIFCSPHIGHO2_01_FULL_52_14,Patescibacteria,147,147
+f__candidate division TM7 bacterium JGI 0001002-L20,Patescibacteria,146,146
+f__Candidatus Melainabacteria bacterium RIFOXYA2_FULL_32_9,Cyanobacteria,146,146
+f__Candidatus Liptonbacteria bacterium RIFOXYB1_FULL_36_10,Patescibacteria,145,145
+g__Microcoleus Es-Yyy1400,Cyanobacteria,144,144
+f__Gimesiaceae,Planctomycetota,142,142
+f__WCHB1-02,Caldisericota,142,142
+g__Tagaea,Proteobacteria,142,142
+g__Lachnospiraceae UCG-004,Firmicutes,142,142
+g__Pseudoxanthobacter,Proteobacteria,142,142
+g__Thermobifida,Actinobacteriota,140,140
+g__Butyricicoccus,Firmicutes,140,140
+g__Thermoactinomycetaceae bacterium,Firmicutes,140,140
+g__Pseudenhygromyxa,Myxococcota,139,139
+g__denitrifying bacterium enrichment culture clone NOA_1_E9,Bacteroidota,139,139
+g__Thermobispora,Actinobacteriota,139,139
+g__Candidatus Staskawiczbacteria bacterium RIFOXYA2_FULL_32_7,Nanoarchaeota,138,138
+g__Macellibacteroides,Bacteroidota,138,138
+g__Sterolibacterium,Proteobacteria,138,138
+g__Gemella,Firmicutes,137,137
+g__Williamwhitmania,Bacteroidota,137,137
+g__Adlercreutzia,Actinobacteriota,137,137
+g__Candidatus Staskawiczbacteria bacterium RIFCSPHIGHO2_01_FULL_34_27,Nanoarchaeota,136,136
+g__Tuwongella,Planctomycetota,136,136
+g__Aphanizomenon NIES81,Cyanobacteria,134,134
+g__Intestinimonas,Firmicutes,134,134
+g__Anabaena HBU1,Cyanobacteria,134,134
+g__Dethiobacter,Firmicutes,133,133
+g__beta proteobacterium WF17,Proteobacteria,133,133
+g__uncultivated soil bacterium clone C112,Acidobacteriota,133,133
+f__Lactobacillaceae,Firmicutes,133,133
+f__Candidatus Moranbacteria bacterium GW2011_GWE1_49_15,Patescibacteria,132,132
+g__Bythopirellula,Planctomycetota,132,132
+f__B5-096,Fibrobacterota,132,132
+f__Parcubacteria group bacterium GW2011_GWA1_60_11,Patescibacteria,131,131
+f__Parcubacteria group bacterium GW2011_GWE2_42_14,Patescibacteria,130,130
+g__Methylosarcina,Proteobacteria,129,129
+g__Clostridioides,Firmicutes,129,129
+g__Persicitalea,Bacteroidota,129,129
+g__Clostridium sp. JC3,Firmicutes,128,128
+g__Fluviimonas,Bacteroidota,128,128
+f__LD-RB-34,Bacteroidota,128,128
+g__Sva0996 marine group,Actinobacteriota,128,128
+g__Xylanimonas,Actinobacteriota,127,127
+f__Ammonificaceae,Firmicutes,127,127
+g__Candidatus Endoecteinascidia,Proteobacteria,127,127
+g__Muribaculum,Bacteroidota,127,127
+g__Algoriphagus sp. AK58,Bacteroidota,127,127
+f__Cyanobacteriales Incertae Sedis,Cyanobacteria,127,127
+g__[Ruminococcus] gauvreauii group,Firmicutes,127,127
+f__Coleofasciculaceae,Cyanobacteria,127,127
+g__Nostoc PCC-8976,Cyanobacteria,126,126
+f__Tannerellaceae,Bacteroidota,126,126
+f__Methanocellaceae,Halobacterota,126,126
+g__Mycoavidus,Proteobacteria,126,126
+f__Rubritaleaceae,Verrucomicrobiota,125,125
+g__Armatimonadetes bacterium 55-13,Armatimonadota,124,124
+f__Leptotrichiaceae,Fusobacteriota,124,124
+g__Pigmentiphaga,Proteobacteria,124,124
+f__Elusimicrobia bacterium RIFCSPHIGHO2_02_FULL_61_10,Elusimicrobiota,124,124
+f__Microcystaceae,Cyanobacteria,123,123
+g__Mycetocola,Actinobacteriota,123,123
+f__Halieaceae,Proteobacteria,122,122
+g__Thermostaphylospora,Actinobacteriota,122,122
+g__Janibacter,Actinobacteriota,120,120
+g__Syntrophotalea,Desulfobacterota,119,119
+g__Wolbachia,Proteobacteria,118,118
+g__Myroides,Bacteroidota,118,118
+g__bacterium QTYC46b,Chloroflexi,118,118
+g__Candidatus Captivus,Proteobacteria,117,117
+g__Bilophila,Desulfobacterota,115,115
+g__AAP99,Proteobacteria,115,115
+f__Chloroflexaceae,Chloroflexi,115,115
+f__Pseudomonadaceae,Proteobacteria,115,115
+g__Stomatobaculum,Firmicutes,113,113
+g__Caproiciproducens,Firmicutes,113,113
+f__anaerobic bacterium MO-CFX2,Chloroflexi,113,113
+g__Nibrella,Bacteroidota,113,113
+f__Chlamydiaceae,Verrucomicrobiota,112,112
+g__M2PT2-76 termite group,Spirochaetota,112,112
+f__PBS-18,Cloacimonadota,110,110
+g__Keratinibaculum,Firmicutes,109,109
+f__Methanomicrobiaceae,Halobacterota,109,109
+g__Mariniradius,Bacteroidota,108,108
+g__Faecalibaculum,Firmicutes,108,108
+g__Hansschlegelia,Proteobacteria,108,108
+g__Enhygromyxa,Myxococcota,108,108
+g__Variovorax sp.,Proteobacteria,108,108
+g__Polymorphobacter,Proteobacteria,107,107
+f__actinobacterium YJF2-33,Actinobacteriota,107,107
+g__Hyphomonas,Proteobacteria,107,107
+g__Acetobacterium,Firmicutes,106,106
+f__Staphylococcaceae,Firmicutes,105,105
+g__Xanthomonadaceae bacterium JCM 28254,Proteobacteria,105,105
+g__Anaerobacter,Firmicutes,104,104
+g__Variibacter,Proteobacteria,104,104
+f__Elusimicrobia bacterium GWA2_69_24,Elusimicrobiota,102,102
+g__Ammoniibacillus,Firmicutes,102,102
+g__Anaerosolibacter,Firmicutes,102,102
+g__pLW-20,Proteobacteria,101,101
+g__Coprobacter,Bacteroidota,100,100
+g__Desulfatitalea,Desulfobacterota,99,99
+f__Candidatus Nomurabacteria bacterium GW2011_GWB1_35_20,Patescibacteria,99,99
+g__alpha proteobacterium CRIB-04,Proteobacteria,99,99
+g__Rickettsia,Proteobacteria,99,99
+f__Desulfosarcinaceae,Desulfobacterota,99,99
+g__Methanoculleus,Halobacterota,99,99
+f__Actinobacteria bacterium CG2_30_50_142,Actinobacteriota,98,98
+g__Friedmanniella,Actinobacteriota,98,98
+g__Actinokineospora,Actinobacteriota,96,96
+g__Lutibacter,Bacteroidota,96,96
+g__GWD2-49-16,Chloroflexi,95,95
+g__low G+C Gram-positive bacterium TR1,Firmicutes,95,95
+g__Desulfopila,Desulfobacterota,95,95
+f__Candidatus Kapabacteria sp. 59-99,Bacteroidota,95,95
+g__Mitsuaria sp. 7,Proteobacteria,95,95
+g__Oscillatoria PCC-6304,Cyanobacteria,94,94
+f__Demequinaceae,Actinobacteriota,94,94
+g__Microbacter,Bacteroidota,94,94
+g__Okibacterium,Actinobacteriota,94,94
+f__4572-13,Planctomycetota,93,93
+g__Pilimelia,Actinobacteriota,93,93
+g__Polycladomyces,Firmicutes,93,93
+f__Nitrosococcaceae,Proteobacteria,92,92
+f__Parcubacteria group bacterium GW2011_GWD2_43_10,Patescibacteria,91,91
+g__Atopobium,Actinobacteriota,91,91
+g__Cerasicoccus,Verrucomicrobiota,90,90
+g__Capnocytophaga,Bacteroidota,90,90
+g__Holdemania,Firmicutes,89,89
+g__Xenophilus,Proteobacteria,89,89
+g__Caldimonas,Proteobacteria,89,89
+g__Sphingosinicella,Proteobacteria,88,88
+g__Microcystis PCC-7914,Cyanobacteria,88,88
+g__DSSD61,Proteobacteria,87,87
+g__Paenibacillus sp.,Firmicutes,86,86
+g__Lacticaseibacillus,Firmicutes,85,85
+f__Candidatus Spiroplasma,Firmicutes,85,85
+g__Amycolatopsis sp.,Actinobacteriota,84,84
+f__Parcubacteria bacterium C7867-005,Patescibacteria,84,84
+g__bacterium Ellin5299,Proteobacteria,83,83
+g__Cucumibacter,Proteobacteria,83,83
+f__Candidatus Roizmanbacteria bacterium RIFOXYD1_FULL_41_24,Patescibacteria,83,83
+g__Pedobacter sp.,Bacteroidota,83,83
+f__bac2nit3,Proteobacteria,83,83
+g__Rikenellaceae RC9 gut group,Bacteroidota,82,82
+g__Coprobacillus,Firmicutes,82,82
+f__01D2Z36,Verrucomicrobiota,82,82
+g__Crenobacter,Proteobacteria,81,81
+g__Desulfonatronobacter,Desulfobacterota,81,81
+g__Sphingomonas sp.,Proteobacteria,81,81
+g__Pseudoclostridium,Firmicutes,81,81
+f__Prevotellaceae,Bacteroidota,81,81
+g__Candidatus Methylomirabilis,Methylomirabilota,80,80
+g__Oerskovia,Actinobacteriota,80,80
+g__Angiococcus,Myxococcota,80,80
+g__Methylovulum,Proteobacteria,80,80
+g__Caryophanon,Firmicutes,79,79
+g__Tuzzerella,Firmicutes,79,79
+g__Stigmatella,Myxococcota,78,78
+g__Halioglobus,Proteobacteria,77,77
+g__Immundisolibacter,Proteobacteria,77,77
+g__[Eubacterium] siraeum group,Firmicutes,76,76
+g__Luteimonas sp. FCS-9,Proteobacteria,76,76
+g__TPD-58,Acidobacteriota,76,76
+g__Fibrisoma,Bacteroidota,76,76
+g__I-8,Planctomycetota,75,75
+f__Caldinitratiruptor,Firmicutes,74,74
+g__Levilactobacillus,Firmicutes,73,73
+g__Salirhabdus,Firmicutes,73,73
+g__Candidatus Obscuribacter,Cyanobacteria,73,73
+g__Eisenbergiella,Firmicutes,73,73
+g__Anseongella,Bacteroidota,73,73
+g__Aquipuribacter,Actinobacteriota,72,72
+f__Candidatus Falkowbacteria bacterium GW2011_GWF2_39_8,Patescibacteria,71,71
+g__Methylococcus,Proteobacteria,71,71
+g__Nanoarchaeota archaeon SCGC AAA011-D5,Nanoarchaeota,70,70
+g__Pusillimonas,Proteobacteria,70,70
+g__Candidatus Soleaferrea,Firmicutes,70,70
+g__Rubrivirga,Bacteroidota,70,70
+g__Naasia,Actinobacteriota,70,70
+f__anaerobic bacterium KX,Chloroflexi,70,70
+g__Cylindrospermum PMC238.04,Cyanobacteria,69,69
+g__Phycisphaera,Planctomycetota,69,69
+f__Candidatus Jorgensenbacteria bacterium GW2011_GWB1_50_10,Patescibacteria,69,69
+g__Paraprevotella,Bacteroidota,69,69
+g__Nocardia farcinica,Actinobacteriota,68,68
+g__E1B-B3-114,Actinobacteriota,68,68
+g__Candidatus Brocadia,Planctomycetota,68,68
+f__Candidatus Woesebacteria bacterium GW2011_GWA1_40_43,Patescibacteria,68,68
+g__Planctomycetales bacterium Ellin7244,Planctomycetota,68,68
+g__Clostridium sensu stricto 19,Firmicutes,68,68
+g__Antricoccus,Actinobacteriota,67,67
+g__Magnetovibrio,Proteobacteria,66,66
+f__Desulfobacteraceae,Desulfobacterota,66,66
+f__bacterium Ellin7509,Acidobacteriota,66,66
+g__Methylomagnum,Proteobacteria,66,66
+g__gamma proteobacterium EHK-1,Proteobacteria,66,66
+g__Neorhizobium sp.,Proteobacteria,66,66
+g__Lacibacterium,Proteobacteria,66,66
+g__Thermocatellispora,Actinobacteriota,65,65
+g__Rufibacter,Bacteroidota,65,65
+g__s3t2d-1089,Proteobacteria,64,64
+g__Ancylobacter,Proteobacteria,64,64
+g__Marinilutecoccus,Actinobacteriota,64,64
+g__Shinella kummerowiae,Proteobacteria,64,64
+g__BacC-u-018,Chloroflexi,63,63
+g__P3OB-51,Proteobacteria,63,63
+g__Paracraurococcus,Proteobacteria,63,63
+f__Parcubacteria group bacterium GW2011_GWA2_40_14,Patescibacteria,62,62
+g__GWE2-31-10,Spirochaetota,62,62
+g__Peptoclostridium,Firmicutes,62,62
+g__Propioniciclava,Actinobacteriota,62,62
+g__Chitinibacter,Proteobacteria,62,62
+g__Desulfatirhabdium,Desulfobacterota,61,61
+g__Smaragdicoccus,Actinobacteriota,61,61
+f__Candidatus Doudnabacteria bacterium RIFCSPLOWO2_02_FULL_48_13,Patescibacteria,61,61
+g__Candidatus Tenderia,Proteobacteria,60,60
+g__Clostridium,Firmicutes,60,60
+f__Acidobacteria bacterium Ellin7246,Acidobacteriota,60,60
+g__Aureispira,Bacteroidota,60,60
+g__Mucispirillum,Deferribacterota,60,60
+f__Marinilabiliaceae,Bacteroidota,60,60
+g__CAG-352,Firmicutes,59,59
+g__Defluviitaleaceae UCG-011,Firmicutes,59,59
+g__iron-reducing bacterium enrichment culture clone FeC_1_B2,Firmicutes,59,59
+g__Alkaliphilus oremlandii OhILAs,Firmicutes,59,59
+g__FukuN18 freshwater group,Verrucomicrobiota,59,59
+g__Geminocystis PCC-6308,Cyanobacteria,59,59
+f__Thermomicrobiaceae,Chloroflexi,58,58
+g__Fluviicoccus,Proteobacteria,58,58
+f__Dermacoccaceae,Actinobacteriota,57,57
+f__SM1B06,Proteobacteria,57,57
+g__Syntrophaceticus,Firmicutes,56,56
+g__Alphaproteobacteria bacterium RIFCSPHIGHO2_01_FULL_41_14,Proteobacteria,56,56
+f__B122,Fibrobacterota,56,56
+g__Aquaspirillum,Proteobacteria,55,55
+g__Lachnospiraceae UCG-010,Firmicutes,55,55
+f__Nocardiaceae,Actinobacteriota,55,55
+g__Schumannella,Actinobacteriota,54,54
+g__GTL1,Patescibacteria,54,54
+f__Sulfuricellaceae,Proteobacteria,53,53
+g__Dehalobacter,Firmicutes,53,53
+f__Methanobacteriaceae,Euryarchaeota,53,53
+g__Ktedonobacterales bacterium Uno3,Chloroflexi,53,53
+g__Fontibacillus,Firmicutes,53,53
+g__Candidatus Odyssella,Proteobacteria,53,53
+g__Marinobacterium,Proteobacteria,52,52
+f__Parvibaculaceae,Proteobacteria,52,52
+g__Candidatus Glomeribacter,Proteobacteria,52,52
+g__Geothermomicrobium,Firmicutes,52,52
+g__possible genus 06,Fibrobacterota,51,51
+g__Cyanothece PCC 7425,Cyanobacteria,51,51
+g__Oscillatoria PCC-10802,Cyanobacteria,51,51
+g__Verrucomicrobia bacterium LX181,Verrucomicrobiota,51,51
+g__Porticoccus,Proteobacteria,51,51
+f__ST-12K33,Bacteroidota,51,51
+g__Candidatus Symbiobacter,Proteobacteria,50,50
+g__Alteromonas,Proteobacteria,50,50
+g__Jiangella,Actinobacteriota,50,50
+f__Geobacter sp. enrichment culture clone VanCtr1,Bdellovibrionota,49,49
+g__Tepidibacter,Firmicutes,49,49
+g__Scopulibacillus,Firmicutes,49,49
+g__Pandoraea pulmonicola,Proteobacteria,49,49
+g__Kurthia,Firmicutes,49,49
+g__Actinomyces,Actinobacteriota,49,49
+g__Ornithinicoccus,Actinobacteriota,49,49
+g__Clade Ia,Proteobacteria,48,48
+f__Methylococcaceae,Proteobacteria,48,48
+g__Caedibacter,Proteobacteria,48,48
+g__Gordonibacter,Actinobacteriota,48,48
+f__Zavarziniaceae,Proteobacteria,48,48
+f__Beggiatoaceae,Proteobacteria,47,47
+g__Agreia,Actinobacteriota,47,47
+g__Planctomicrobium,Planctomycetota,47,47
+f__Sneathiellaceae,Proteobacteria,46,46
+f__Microgenomates bacterium SCGC AAA011-B20,Patescibacteria,46,46
+f__JI49D030,Proteobacteria,46,46
+g__Ekhidna,Bacteroidota,46,46
+g__Natranaerovirga,Firmicutes,46,46
+g__Ensifer adhaerens,Proteobacteria,46,46
+g__Tyzzerella,Firmicutes,46,46
+g__Phaeospirillum,Proteobacteria,45,45
+g__Brevibacterium,Actinobacteriota,45,45
+f__Dermatophilaceae,Actinobacteriota,45,45
+g__Lachnospiraceae UCG-006,Firmicutes,45,45
+g__Aquincola,Proteobacteria,45,45
+g__Chitinivorax,Proteobacteria,45,45
+g__agricultural soil bacterium SC-I-39,Proteobacteria,44,44
+f__Candidatus Peribacter riflensis,Patescibacteria,44,44
+g__HdN1,Proteobacteria,44,44
+f__candidate division TM7 bacterium LY2,Patescibacteria,44,44
+g__Hymenobacter sp. 9PNM-21,Bacteroidota,44,44
+g__Paenibacillus sp. P117,Firmicutes,44,44
+g__Crinalium SAG 22.89,Cyanobacteria,44,44
+g__[Eubacterium] xylanophilum group,Firmicutes,44,44
+g__Cerasibacillus,Firmicutes,43,43
+g__Asinibacterium,Bacteroidota,43,43
+g__Telmatocola,Planctomycetota,43,43
+g__Methylopila,Proteobacteria,43,43
+g__Geobacter sp. AOG2,Desulfobacterota,42,42
+g__Garciella,Firmicutes,42,42
+g__Oscillospira,Firmicutes,42,42
+g__Desulfohalotomaculum,Firmicutes,42,42
+f__Candidatus Woesebacteria bacterium GW2011_GWF1_31_35,Patescibacteria,42,42
+g__Pir3 lineage,Planctomycetota,42,42
+g__Sphaerimonospora,Actinobacteriota,41,41
+f__Candidatus Woesebacteria bacterium GW2011_GWA2_40_7b,Patescibacteria,41,41
+g__Methanosphaerula,Halobacterota,41,41
+g__Algoriphagus sp. N3,Bacteroidota,41,41
+f__EF100-94H03,Proteobacteria,41,41
+f__Candidatus Woesebacteria bacterium GW2011_GWA1_39_21,Patescibacteria,41,41
+g__Candidatus Methylospira,Proteobacteria,40,40
+g__Aquabacterium sp. H7,Proteobacteria,40,40
+f__SRB2,Firmicutes,40,40
+f__Dethiobacteraceae,Firmicutes,40,40
+g__Raineya,Bacteroidota,40,40
+f__PRD18C08,Verrucomicrobiota,39,39
+g__Elioraea,Proteobacteria,39,39
+g__Diapherotrites archaeon SCGC AAA011-K09,Iainarchaeota,39,39
+g__Martelella sp.,Proteobacteria,39,39
+g__bacterium LWQ8,Patescibacteria,38,38
+g__Arsenicibacter,Bacteroidota,38,38
+g__Rhodospirillaceae bacterium NAU-10,Proteobacteria,38,38
+g__Planctomycetales bacterium Ellin7224,Planctomycetota,38,38
+f__Dehalococcoidia bacterium SCGC AB-540-C11,Chloroflexi,38,38
+f__symbiont of Cochliopodium minus,Proteobacteria,38,38
+g__Limnochorda,Firmicutes,38,38
+g__Scytonema UTEX 2349,Cyanobacteria,38,38
+f__Candidatus Nomurabacteria bacterium GW2011_GWC2_42_20,Patescibacteria,38,38
+g__Hungateiclostridium,Firmicutes,38,38
+g__Subgroup 23,Acidobacteriota,38,38
+g__966-1,Proteobacteria,38,38
+f__Corynebacteriaceae,Actinobacteriota,37,37
+g__endosymbiont of Acanthamoeba sp. UWC8,Proteobacteria,37,37
+g__bacterium Ellin5257,Acidobacteriota,37,37
+g__Dyella sp.,Proteobacteria,37,37
+g__Methyloparacoccus,Proteobacteria,37,37
+g__Paludicola,Firmicutes,37,37
+g__Alkalibacter,Firmicutes,37,37
+g__GCA-900066575,Firmicutes,37,37
+f__Lenti-02,Verrucomicrobiota,36,36
+f__Selenomonadaceae,Firmicutes,36,36
+g__Candidatus Saccharimonas,Patescibacteria,36,36
+g__Prevotella_7,Bacteroidota,35,35
+g__Clostridium sensu stricto 2,Firmicutes,35,35
+g__Defluviitalea,Firmicutes,35,35
+f__Acidiferrobacteraceae,Proteobacteria,35,35
+g__Campylobacter,Campylobacterota,35,35
+g__Sinomicrobium,Bacteroidota,34,34
+f__Calditrichaceae,Calditrichota,34,34
+g__Procabacter,Proteobacteria,34,34
+g__Candidatus Trichorickettsia,Proteobacteria,33,33
+g__Pseudoalteromonas,Proteobacteria,33,33
+f__Crocinitomicaceae,Bacteroidota,32,32
+g__Magnetospira,Proteobacteria,32,32
+g__Tsukamurella,Actinobacteriota,31,31
+g__Acidicapsa,Acidobacteriota,31,31
+g__bacterium YC-ZSS-LKJ159,Actinobacteriota,31,31
+g__UCG-003,Firmicutes,30,30
+g__Latilactobacillus,Firmicutes,30,30
+f__Acidobacteria bacterium enrichment culture clone CV-04,Acidobacteriota,30,30
+g__Meiothermus,Deinococcota,30,30
+g__Magnetococcus,Proteobacteria,30,30
+g__Nesterenkonia,Actinobacteriota,30,30
+f__Moduliflexaceae,Modulibacteria,30,30
+g__Caldalkalibacillus,Firmicutes,30,30
+g__Pseudanabaena PCC-6802,Cyanobacteria,30,30
+f__bacterium SH4-10,Patescibacteria,30,30
+g__Vibrio,Proteobacteria,30,30
+g__Magnetospirillum sp. enrichment culture clone Van25,Proteobacteria,30,30
+f__Coriobacteriales Incertae Sedis,Actinobacteriota,30,30
+g__Candidatus Metachlamydia,Verrucomicrobiota,29,29
+g__Gloeocapsa,Cyanobacteria,29,29
+g__Methylogaea,Proteobacteria,29,29
+g__Amphiplicatus,Proteobacteria,28,28
+g__Holdemanella,Firmicutes,28,28
+g__Risungbinella,Firmicutes,28,28
+g__Marinomonas,Proteobacteria,28,28
+g__Gluconobacter,Proteobacteria,28,28
+g__Pelagibacterium sp.,Proteobacteria,28,28
+g__Rhabdanaerobium,Firmicutes,27,27
+f__Candidatus Wolfebacteria bacterium GW2011_GWA2_42_10,Patescibacteria,27,27
+f__Chloroflexi bacterium ADurb.Bin180,Chloroflexi,27,27
+g__Clostridium sensu stricto 18,Firmicutes,27,27
+g__Negativibacillus,Firmicutes,27,27
+f__TG3,Fibrobacterota,26,26
+g__Anaerococcus,Firmicutes,25,25
+g__Thermus,Deinococcota,25,25
+g__JSC-12,Cyanobacteria,25,25
+g__Segniliparus,Actinobacteriota,25,25
+g__Niveitalea,Bacteroidota,25,25
+g__Roseobacter clade CHAB-I-5 lineage,Proteobacteria,25,25
+g__Eoetvoesia,Proteobacteria,25,25
+g__Pseudogracilibacillus,Firmicutes,25,25
+g__Nostoc SAG 60.79,Cyanobacteria,24,24
+g__alpha proteobacterium LM-1,Proteobacteria,24,24
+g__Clostridium sensu stricto 7,Firmicutes,24,24
+f__MWH-UniP1 aquatic group,Proteobacteria,24,24
+g__Curvibacter sp. AEP1-3,Proteobacteria,24,24
+f__Sulfobacillaceae,Firmicutes,24,24
+g__wb1-A12,Methylomirabilota,23,23
+g__Chlamydiales bacterium CRIB 32,Verrucomicrobiota,23,23
+g__CAG-56,Firmicutes,23,23
+f__SAR86 clade,Proteobacteria,23,23
+g__Promicromonospora sp. PDD-67b-16,Actinobacteriota,23,23
+f__LF045,Caldisericota,23,23
+g__Ereboglobus,Verrucomicrobiota,23,23
+g__Candidatus Mesochlamydia,Verrucomicrobiota,22,22
+g__Catelliglobosispora,Actinobacteriota,22,22
+g__Spelaeicoccus,Actinobacteriota,22,22
+g__Lachnospiraceae AC2044 group,Firmicutes,22,22
+f__Nitrincolaceae,Proteobacteria,22,22
+g__Desulfitibacter,Firmicutes,22,22
+f__Spongiibacteraceae,Proteobacteria,22,22
+g__Anaerosalibacter,Firmicutes,21,21
+g__Citreitalea,Bacteroidota,21,21
+g__Rhodospirillaceae bacterium AW97,Proteobacteria,21,21
+g__Fournierella,Firmicutes,21,21
+g__Homoserinibacter sp.,Actinobacteriota,21,21
+f__Candidatus Woesebacteria bacterium RIFOXYA1_FULL_43_16,Patescibacteria,21,21
+g__Candidatus Kuenenia,Planctomycetota,21,21
+g__Oscillatoria SAG 1459-8,Cyanobacteria,21,21
+g__Synechocystis PCC-6803,Cyanobacteria,20,20
+g__Mycoplasma,Firmicutes,20,20
+g__Aliidongia,Proteobacteria,20,20
+g__Paenochrobactrum sp.,Proteobacteria,20,20
+g__[Eubacterium] ventriosum group,Firmicutes,20,20
+f__Candidatus Harrisonbacteria bacterium RIFCSPHIGHO2_02_FULL_40_20,Patescibacteria,20,20
+f__Ethanoligenenaceae,Firmicutes,20,20
+f__Parcubacteria group bacterium ADurb.Bin326,Patescibacteria,20,20
+g__Desulfofarcimen,Firmicutes,20,20
+g__Greenland-10,Cyanobacteria,20,20
+g__Proteiniborus,Firmicutes,19,19
+g__Thiothrix,Proteobacteria,19,19
+g__Acuticoccus,Proteobacteria,19,19
+g__Parasediminibacterium,Bacteroidota,19,19
+g__Z-35,Proteobacteria,19,19
+g__Peptoniphilus,Firmicutes,19,19
+g__DSSF69,Proteobacteria,19,19
+g__Tetragenococcus,Firmicutes,19,19
+f__Criblamydiaceae,Verrucomicrobiota,19,19
+f__Fokiniaceae,Proteobacteria,19,19
+g__Phormidesmis ANT.L52.6,Cyanobacteria,19,19
+g__Bacteroidetes bacterium RIFCSPLOWO2_12_FULL_35_15,Bacteroidota,18,18
+g__Seinonella,Firmicutes,18,18
+g__candidate division TM6 bacterium GW2011_GWE2_41_16,Dependentiae,18,18
+g__Formosa,Bacteroidota,18,18
+f__Tepidanaerobacter,Firmicutes,18,18
+g__Aliterella,Cyanobacteria,18,18
+f__Chroococcidiopsaceae,Cyanobacteria,18,18
+g__ASF356,Firmicutes,18,18
+f__Mycobacteriaceae,Actinobacteriota,18,18
+g__Clostridium sensu stricto 16,Firmicutes,18,18
+g__Rhodocista sp. SCSIO 13435,Proteobacteria,18,18
+g__Hyalangium,Myxococcota,18,18
+g__Candidatus Endonucleariobacter,Proteobacteria,18,18
+f__MAT-CR-H6-H10,Fibrobacterota,17,17
+f__koll11,Verrucomicrobiota,17,17
+g__bacterium 2RO1,Proteobacteria,17,17
+g__bacterium YC-ZSS-LKJ199,Actinobacteriota,17,17
+g__SN8,Proteobacteria,17,17
+g__Thermaerobacter,Firmicutes,17,17
+g__Huakuichenia,Actinobacteriota,17,17
+g__Snowella 0TU37S04,Cyanobacteria,17,17
+g__Olsenella,Actinobacteriota,17,17
+g__Lachnospiraceae FCS020 group,Firmicutes,16,16
+g__Virgisporangium sp.,Actinobacteriota,16,16
+g__Eubacterium,Firmicutes,16,16
+g__Candidatus Finniella,Proteobacteria,16,16
+f__T34,Proteobacteria,16,16
+g__OLB8,Bacteroidota,16,16
+f__candidate division SR1 bacterium Aalborg_AAW-1,Patescibacteria,16,16
+f__Methanoperedenaceae,Halobacterota,16,16
+g__Chelatococcus,Proteobacteria,16,16
+g__Rikenella,Bacteroidota,15,15
+f__Candidatus Abawacabacteria bacterium RBG_16_42_10,Patescibacteria,15,15
+g__Spiroplasma,Firmicutes,15,15
+g__Melittangium,Myxococcota,15,15
+g__Chryseobacterium sp.,Bacteroidota,14,14
+g__Schlegelella,Proteobacteria,14,14
+g__Phytomonospora,Actinobacteriota,14,14
+g__Lewinella,Bacteroidota,14,14
+g__Motilibacter,Actinobacteriota,14,14
+g__Pasteuria,Firmicutes,14,14
+f__GWC2-45-44,Planctomycetota,14,14
+g__Fabibacter,Bacteroidota,14,14
+g__HIMB11,Proteobacteria,14,14
+g__Clostridium sp. BMD1,Firmicutes,13,13
+g__Parasporobacterium,Firmicutes,13,13
+g__Chamaesiphon PCC-7430,Cyanobacteria,13,13
+g__Marimicrobium,Proteobacteria,13,13
+f__Hydrogenoanaerobacterium,Firmicutes,13,13
+g__Pyxidicoccus,Myxococcota,13,13
+g__Achromobacter sp. AONIH1,Proteobacteria,13,13
+f__Candidatus Magasanikbacteria bacterium RIFOXYD1_FULL_40_23,Patescibacteria,12,12
+f__Candidatus Uhrbacteria bacterium RIFOXYB12_FULL_58_10,Patescibacteria,12,12
+f__Hyphomonadaceae,Proteobacteria,12,12
+g__Urania-1B-19 marine sediment group,Planctomycetota,12,12
+f__Candidatus Collierbacteria bacterium RIFOXYB1_FULL_49_13,Patescibacteria,12,12
+g__DTU089,Firmicutes,12,12
+f__Glycomycetaceae,Actinobacteriota,12,12
+f__Amoebophilaceae,Bacteroidota,12,12
+g__bacterium enrichment culture clone heteroA59_4W,Verrucomicrobiota,12,12
+f__Parcubacteria group bacterium ADurb.Bin316,Patescibacteria,12,12
+f__Candidatus Uhrbacteria bacterium RIFCSPHIGHO2_12_FULL_60_25,Patescibacteria,11,11
+g__Millisia,Actinobacteriota,11,11
+f__Cyanobiaceae,Cyanobacteria,11,11
+g__ZOR0006,Firmicutes,11,11
+g__planctomycete WWH14,Planctomycetota,11,11
+g__Chlamydiales bacterium NS11,Verrucomicrobiota,11,11
+f__Desulfarculaceae,Desulfobacterota,11,11
+g__Comamonadaceae bacterium BFE5D,Proteobacteria,11,11
+g__Rubinisphaera,Planctomycetota,11,11
+f__Candidatus Peregrinibacteria bacterium RIFCSPLOWO2_02_FULL_48_14,Patescibacteria,10,10
+f__Eggerthellaceae,Actinobacteriota,10,10
+f__PS1 clade,Proteobacteria,10,10
+g__Arthrobacter sp. J3.49,Actinobacteriota,10,10
+g__beta proteobacterium MBIC3293,Proteobacteria,10,10
+g__Xanthomonas sp.,Proteobacteria,10,10
+g__Dapisostemonum CCIBt 3536,Cyanobacteria,10,10
+g__Leptotrichia,Fusobacteriota,10,10
+g__Vitiosangium,Myxococcota,10,10
+f__Parcubacteria group bacterium GW2011_GWB1_42_6,Patescibacteria,10,10
+f__Candidatus Moranbacteria bacterium GW2011_GWC2_40_12,Patescibacteria,10,10
+f__TC1,Firmicutes,9,9
+g__Roseiflexus,Chloroflexi,9,9
+g__Azomonas,Proteobacteria,9,9
+f__Candidatus Nomurabacteria bacterium GW2011_GWE1_32_28,Patescibacteria,9,9
+g__Rhizobacter sp.,Proteobacteria,9,9
+g__Pseudorhodobacter sp.,Proteobacteria,9,9
+g__Cuspidothrix LMECYA 163,Cyanobacteria,9,9
+f__Chloroflexi bacterium RBG_13_46_9,Chloroflexi,9,9
+g__Paucimonas,Proteobacteria,9,9
+f__Hymenobacteraceae,Bacteroidota,8,8
+g__Enterorhabdus,Actinobacteriota,8,8
+g__SCGC AAA164-E04,Verrucomicrobiota,8,8
+g__Graminella nigrifrons,Proteobacteria,8,8
+f__bacterium enrichment culture clone M624,Bacteroidota,8,8
+g__Candidatus Saccharibacteria bacterium YM_S32_TM7_50_20,Patescibacteria,8,8
+g__Allobaculum,Firmicutes,8,8
+g__Halothiobacillus,Proteobacteria,8,8
+g__Pricia,Bacteroidota,7,7
+g__Blastococcus sp.,Actinobacteriota,7,7
+g__Mesorhizobium thiogangeticum,Proteobacteria,7,7
+f__Desulfatiferula,Desulfobacterota,7,7
+f__Nocardiopsaceae,Actinobacteriota,7,7
+g__Pseudanabaena PCC-7403,Cyanobacteria,7,7
+g__Planococcaceae bacterium,Firmicutes,7,7
+f__AEGEAN-169 marine group,Proteobacteria,7,7
+g__Acetanaerobacterium,Firmicutes,7,7
+f__bacterium endosymbiont of Onthophagus Taurus,Proteobacteria,7,7
+g__Pir1 lineage,Planctomycetota,7,7
+g__planctomycete WY108,Planctomycetota,7,7
+g__Candidatus Anammoximicrobium,Planctomycetota,7,7
+f__Candidatus Lloydbacteria bacterium RIFCSPHIGHO2_02_FULL_50_18,Patescibacteria,6,6
+f__[Clostridium] methylpentosum group,Firmicutes,6,6
+g__Euzebya,Actinobacteriota,6,6
+f__Cellulosimicrobium funkei,Actinobacteriota,6,6
+f__Bifidobacteriaceae,Actinobacteriota,6,6
+g__MSBL3,Verrucomicrobiota,6,6
+f__Candidatus Magasanikbacteria bacterium RIFCSPHIGHO2_02_FULL_50_9b,Patescibacteria,6,6
+g__Chryseomicrobium palamuruense,Firmicutes,6,6
+f__Veillonellaceae,Firmicutes,6,6
+g__Ac37b,Proteobacteria,6,6
+g__Actinomadura nitritigenes,Actinobacteriota,6,6
+f__Bradymonadaceae,Desulfobacterota,5,5
+g__Chitinophagaceae bacterium,Bacteroidota,5,5
+g__UCG-009,Firmicutes,5,5
+g__Cystobacter sp. NR-2,Myxococcota,5,5
+g__Candidatus Moduliflexus,Modulibacteria,5,5
+g__Collimonas sp.,Proteobacteria,5,5
+g__Micromonospora sp. 2675OA2,Actinobacteriota,5,5
+g__Candidatus Hepatoplasma,Firmicutes,5,5
+g__Desertibacter,Proteobacteria,5,5
+g__Candidatus Desulforudis,Firmicutes,5,5
+g__Apibacter,Bacteroidota,5,5
+g__Jiangella sp. DSM 45060,Actinobacteriota,5,5
+g__Coralloluteibacterium stylophorae,Proteobacteria,4,4
+g__NS10 marine group,Bacteroidota,4,4
+g__Candidatus Bealeia,Proteobacteria,4,4
+g__iron-reducing bacterium enrichment culture clone HN-HFO75,Firmicutes,4,4
+g__actinomycete R-5,Actinobacteriota,4,4
+f__Caedibacteraceae,Proteobacteria,4,4
+g__Aurantimonas sp. USBA 369,Proteobacteria,4,4
+g__Geodermatophilus sp.,Actinobacteriota,4,4
+g__denitrifying bacterium enrichment culture clone NOB_2_H7,Bacteroidota,4,4

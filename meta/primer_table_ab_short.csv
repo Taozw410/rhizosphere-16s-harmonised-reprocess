@@ -1,0 +1,5 @@
+project,primer_f,primer_r,truncLen_f,truncLen_r,note
+PRJDB8720,,,0,0,AB_untruncated_L≈R_ambiguous
+PRJEB45341,,,179,178,AB_shortoverlap60
+PRJEB45605,,GGACTACNVGGGTWTCTAAT,179,178,AB_shortoverlap60_R2only_primer_trim
+PRJNA1060287,,,172,172,AB_shortoverlap60

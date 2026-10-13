@@ -1,0 +1,21 @@
+﻿crop,project,priority,score,mode,rlen,qual,S16,ovl,samples,title
+maize,PRJEB21590,0,140,paired,251,26,0,62.0,45,Maize age and genotype shape the rhizosphere microbiome in the field
+maize,PRJEB40690,0,140,paired,301,32,0,85.3,192,Assembly patterns of the rhizosphere microbiome along the longitudinal root axis of maize 
+rice,PRJDB8720,0,67,paired,296,33,0,42.7,59,Impact of biochar and PGPB inoculation on rhizosphere and root-associated bacterial commun
+rice,PRJEB45341,0,53,paired,251,25,0,92.7,108,"16S-soil-ash-Bangladesh, Here we investigated in large scale field trials across two geogr"
+rice,PRJEB45605,0,53,paired,251,25,0,89.3,80,"16S-timepoints-soil, rice paddy pot experiment with 4 fertiliser treatments over the life "
+rice,PRJNA858795,2,253,paired,251,25,0,68.7,114,16S rRNA gene sequencing of bacterial and archaeal communities living in Italian rice padd
+rice,PRJDB20184,2,67,paired,301,32,15,59.3,18,Rice rhizosphere 16S rRNA amplicon sequencing
+rice,PRJNA394069,2,65,paired,250,28,42,84.7,28,Microbial Community Diversities of Rice Rhizosphere Soil
+rice,PRJDB19884,2,53,paired,301,32,0,49.3,48,Amplicon-based sequencing from rhizosphere soil of rice (Oryza sativa cv. X265) in Madagas
+rice,PRJNA715843,2,33,paired,250,27,92,86.7,18,Pseudomonas sp. TCd-1 decrease Cadmium accumulation in rice and change the community compo
+wheat,PRJEB6400,0,53,paired,251,25,0,23.3,48,Effect sea-water irrigation and inoculations with Azospirillum brasilense on the bacterial
+wheat,PRJNA1037063,0,53,paired,251,25,6,76.7,31,Soil and rhizosphere bacterial/archaeal community of winter wheat under different long-ter
+wheat,PRJNA454003,1,53,single,253,26,0,,51,Effect of inorganic nitrogen fertilization on wheat rhizosphere bacterial communities
+wheat,PRJNA1136486,2,253,paired,251,25,0,68.0,34,Biochar on the wheat rhizosphere
+wheat,PRJNA1060287,2,153,paired,238,25,0,86.0,96,Microbial communities in wheat rhizospheric soil under different strategies of organo-mine
+wheat,PRJNA701534,2,87,paired,250,26,5,94.0,51,Modern and ancient wheat variety rhizosphere microbiota
+wheat,PRJEB34506,2,53,paired,250,27,0,54.7,148,Influence of plant genotype and soil on the wheat rhizosphere microbiome: identification o
+wheat,PRJEB65459,2,53,paired,300,32,0,54.0,216,Impact of pea-wheat intercropping on grain ionome in relation with changes in Pseudomonas 
+wheat,PRJNA578725,2,53,paired,301,32,0,28.7,96,Wheat rhizosphere community selection reveals bacteria associated with reduced root diseas
+wheat,PRJNA1301106,2,33,paired,301,31,0,77.3,18,Rhizosphere microbiome mediates wheat tolerance to dibutyl phthalate contamination in soil

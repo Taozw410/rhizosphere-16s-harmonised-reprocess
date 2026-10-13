@@ -1,0 +1,3 @@
+﻿project,merge,genus,asv_mode,insert,n_asv,ok_merge,ok_genus,ok_len,verdict
+PRJNA1476760,0.0,61.8,249,253,6060,True,True,True,进池
+PRJNA1310568,25.7,75.8,285,,608,False,True,True,维持排除

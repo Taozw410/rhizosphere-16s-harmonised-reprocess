@@ -1,0 +1,46 @@
+project,crop,institute,n_samples,sequencing_mode,quality_encoding_levels,n_asv,filter_pass_rate,merge_rate,retention_rate,phylum_assignment_rate,family_assignment_rate,genus_assignment_rate,selection_rank_within_crop,marker_gene_label,sensitivity_flags,platform_cluster_id,amplicon_length_mode_bp,amplicon_region_class,unassigned_read_fraction_pct,median_reads_per_sample
+PRJNA662201,maize,Hunan Academy of Agricultural Science,30,single,32,5648,99.0%,0.0%,87.2%,99.7%,93.6%,83.6%,1,OK_16S,,PC01,404,V3-V4-like (>320 bp),17.46,40253
+PRJNA608090,maize,Chinese Academy of Sciences,35,single,37,4943,91.0%,0.0%,83.0%,99.9%,97.5%,91.6%,2,OK_16S,,PC02,416,V3-V4-like (>320 bp),12.25,24672
+PRJNA753114,maize,University of Illinois at Urbana-Champaign,4,paired,31,2285,97.2%,77.3%,74.6%,99.4%,93.4%,79.9%,3,OK_16S,,PC03,253,V4-like (<=320 bp),15.77,31596
+PRJNA967263,maize,Southwest Forestry University,24,single,33,11900,73.5%,0.0%,66.5%,89.4%,77.0%,62.6%,4,CHECK_MIXED,CHECK_MIXED,PC04,301,V4-like (<=320 bp),54.54,36601
+PRJNA771712,maize,University of Nebraska-Lincoln,30,paired,33,8210,77.1%,83.0%,63.3%,98.7%,93.8%,84.3%,5,OK_16S,,PC05,253,V4-like (<=320 bp),12.49,30828
+PRJNA771711,maize,University of Nebraska-Lincoln,30,paired,33,6886,72.9%,83.4%,59.9%,97.0%,92.3%,84.0%,6,OK_16S,,PC05,253,V4-like (<=320 bp),11.29,28577
+PRJEB21590,maize,Cornell University;USA;CORNELL,30,paired,25,4256,68.4%,82.9%,56.6%,99.8%,97.7%,81.7%,7,OK_16S,,PC06,253,V4-like (<=320 bp),5.66,25146
+PRJEB21600,maize,Cornell University;USA;CORNELL,27,paired,25,2498,67.8%,70.9%,48.0%,98.6%,87.7%,77.7%,8,OK_16S,,PC06,253,V4-like (<=320 bp),25.47,24180
+PRJNA816337,maize,Lanzhou University,24,paired,33,11064,83.7%,81.6%,47.9%,99.9%,97.5%,82.9%,9,OK_16S,,PC07,456,V3-V4-like (>320 bp),6.77,23281
+PRJNA401395,maize,Nanjing Agricultural University,31,paired,25,1870,89.9%,51.0%,45.7%,99.8%,97.7%,91.0%,10,OK_16S,,PC08,253,V4-like (<=320 bp),14.14,13878
+PRJNA1479906,maize,Kyungpook National University,12,single,25,1139,51.8%,0.0%,38.8%,99.9%,98.3%,79.4%,11,OK_16S,,PC09,280,V4-like (<=320 bp),6.96,9754
+PRJNA593708,maize,Julius-Kuehn Institut,30,paired,25,6752,81.3%,56.0%,34.1%,99.9%,96.0%,82.8%,12,OK_16S,,PC10,429,V3-V4-like (>320 bp),6.59,16849
+PRJNA781096,maize,Northeast Institute of Geography and Agroecology,30,paired,32,20187,79.4%,48.8%,28.5%,99.4%,95.4%,81.2%,13,OK_16S,,PC11,425,V3-V4-like (>320 bp),23.62,14286
+PRJNA874674,maize,China Agricultural University,30,paired,3,10830,99.6%,77.2%,55.2%,99.9%,98.0%,87.9%,14,OK_16S,,PC12,469,V3-V4-like (>320 bp),6.29,29380
+PRJNA633917,maize,Northeast Institute of Geography and Agroecology,30,paired,33,13021,80.2%,38.1%,27.1%,99.6%,88.9%,72.5%,15,OK_16S,递补（合并率 30–40%）,PC13,481,V3-V4-like (>320 bp),27.66,12366
+PRJNA1157226,rice,Fujian Agriculture And Forestry University,24,single,40,2455,93.8%,0.0%,90.6%,93.8%,85.0%,76.1%,1,OK_16S,,PC14,404,V3-V4-like (>320 bp),22.82,45530
+PRJNA1146338,rice,"Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences,",30,single,31,6044,96.7%,0.0%,85.3%,99.7%,93.9%,82.9%,2,OK_16S,,PC15,377,V3-V4-like (>320 bp),13.54,41893
+PRJNA509515,rice,Hohai university,18,single,31,4997,98.7%,0.0%,81.9%,99.0%,87.8%,71.7%,3,OK_16S,,PC16,428,V3-V4-like (>320 bp),30.98,30996
+PRJNA1476760,rice,"Facultad de Quimica, Universidad de la Republica",30,single,30,6060,91.3%,0.0%,79.5%,99.3%,90.2%,73.5%,4,OK_16S,,PC17,249,V4-like (<=320 bp),19.31,28589
+PRJNA554261,rice,Hunan Academy of Agricultural Science,30,single,26,6756,89.3%,0.0%,76.8%,99.5%,95.0%,85.3%,5,OK_16S,,PC18,253,V4-like (<=320 bp),11.13,40063
+PRJNA1261944,rice,College of Environmental and Resource Sciences,30,single,10,36833,92.4%,0.0%,69.6%,98.6%,89.1%,74.1%,6,CHECK_MIXED,CHECK_MIXED,PC19,404,V3-V4-like (>320 bp),20.33,31780
+PRJNA715843,rice,South China Botanical Garden,18,paired,27,5217,89.9%,78.5%,67.5%,98.5%,88.2%,73.4%,7,OK_16S,,PC20,429,V3-V4-like (>320 bp),25.97,32568
+PRJDB20184,rice,KRIBB,18,paired,32,6828,65.9%,67.6%,44.1%,99.2%,87.6%,69.6%,8,OK_16S,,PC21,427,V3-V4-like (>320 bp),27.67,20973
+PRJNA858795,rice,University of Milano,30,paired,25,8488,69.0%,57.4%,32.2%,97.2%,80.4%,56.7%,9,CHECK_MIXED,CHECK_MIXED,PC22,470,V3-V4-like (>320 bp),37.31,15139
+PRJNA1282585,rice,nanjing agriculture university,30,paired,40,10428,90.2%,49.3%,31.5%,99.5%,91.0%,74.0%,10,OK_16S,,PC23,466,V3-V4-like (>320 bp),21.79,11402
+PRJNA665860,rice,Yangzhou University,22,paired,31,3090,75.6%,40.3%,27.2%,99.5%,82.6%,63.1%,11,OK_16S,,PC24,429,V3-V4-like (>320 bp),34.76,11254
+PRJNA611687,rice,Nanjing agricultural unversity,30,paired,33,5501,38.3%,52.9%,17.9%,99.6%,94.4%,75.7%,12,OK_16S,,PC25,425,V3-V4-like (>320 bp),17.12,8838
+PRJNA1101437,rice,Guangzhou university,30,paired,31,4978,43.0%,42.7%,16.0%,99.6%,95.5%,86.8%,13,OK_16S,,PC26,481,V3-V4-like (>320 bp),11.52,7809
+PRJNA596848,rice,yangzhou unversity,21,paired,33,4186,71.9%,34.0%,23.1%,99.5%,84.0%,67.1%,14,OK_16S,递补（合并率 30–40%）,PC27,429,V3-V4-like (>320 bp),33.27,9271
+PRJEB45605,rice,QUEEN'S UNIVERSITY BELFAST,30,paired,26,2815,93.0%,24.7%,14.6%,99.9%,92.6%,75.1%,15,OK_16S,合并率<30%（低于递补下限）,PC28,297,V4-like (<=320 bp),13.07,7269
+PRJNA454003,wheat,Rothamsted Research,30,single,26,10867,99.7%,0.0%,91.5%,99.2%,92.1%,81.8%,1,CHECK_MIXED,CHECK_MIXED,PC29,253,V4-like (<=320 bp),15.62,45020
+PRJNA601112,wheat,Rothamsted Research,24,single,26,20670,99.8%,0.0%,86.8%,99.1%,89.2%,78.4%,2,CHECK_MIXED,CHECK_MIXED,PC30,253,V4-like (<=320 bp),18.87,31282
+PRJNA996548,wheat,Helmholtz Center Munich,30,paired,32,3886,91.0%,92.5%,82.8%,99.9%,97.1%,73.5%,3,OK_16S,,PC31,253,V4-like (<=320 bp),5.85,33788
+PRJNA607209,wheat,Yangzhou University,30,single,37,8950,91.6%,0.0%,75.5%,99.3%,89.5%,77.8%,4,OK_16S,,PC32,441,V3-V4-like (>320 bp),24.21,31239
+PRJEB6400,wheat,Thünen Institute of Biodiversity,30,paired,26,2880,80.2%,76.1%,60.6%,100.0%,97.2%,86.4%,5,OK_16S,,PC33,251,V4-like (<=320 bp),5.82,30005
+PRJNA1136486,wheat,SUNY College of Environmental Science and Forestry,30,paired,26,3569,72.8%,82.1%,59.4%,99.9%,96.1%,85.0%,6,OK_16S,,PC34,253,V4-like (<=320 bp),8.59,28531
+PRJNA1189047,wheat,University of Copenhagen,30,paired,32,4968,80.7%,79.9%,58.1%,100.0%,97.3%,90.1%,7,OK_16S,,PC35,414,V3-V4-like (>320 bp),5.48,28964
+PRJNA1301106,wheat,ZHENGZHOU TOBACCO RESEARCHE INSTITUTE OF CNTC,18,paired,31,3741,67.9%,56.2%,34.3%,99.9%,90.5%,77.9%,8,OK_16S,,PC36,415,V3-V4-like (>320 bp),19.52,13527
+PRJNA1169405,wheat,University of Lausanne,30,paired,32,2184,46.5%,77.1%,32.6%,99.9%,99.4%,96.1%,9,OK_16S,,PC37,427,V3-V4-like (>320 bp),2.18,17881
+PRJNA548437,wheat,"ENEA (Italian National Agency for New Technologies, Energy and Sustainable Economic Development)",30,paired,33,2202,71.4%,42.2%,28.1%,100.0%,97.2%,87.7%,10,OK_16S,,PC38,466,V3-V4-like (>320 bp),11.49,13451
+PRJNA661129,wheat,Yangzhou University,30,paired,32,4716,48.2%,50.0%,23.6%,99.2%,89.5%,77.6%,11,OK_16S,,PC39,456,V3-V4-like (>320 bp),21.75,10929
+PRJNA1037063,wheat,Julius Kuehn-Institut,30,paired,25,10811,66.7%,42.3%,21.8%,99.8%,93.9%,74.2%,12,OK_16S,,PC40,472,V3-V4-like (>320 bp),16.51,10065
+PRJNA1334676,wheat,Kazan Volga Region Federal University,29,paired,31,6141,34.6%,55.7%,18.0%,99.8%,91.3%,82.6%,13,OK_16S,,PC41,427,V3-V4-like (>320 bp),19.43,22120
+PRJNA578725,wheat,mothur,30,paired,32,2603,25.2%,62.1%,14.8%,98.8%,97.6%,91.2%,14,OK_16S,,PC42,482,V3-V4-like (>320 bp),3.93,6574
+PRJNA506457,wheat,All-Russia Research Institute of Agricultural Microbiology,30,paired,33,712,10.5%,41.9%,3.8%,99.6%,97.5%,88.2%,15,OK_16S,,PC43,292,V4-like (<=320 bp),4.84,1863

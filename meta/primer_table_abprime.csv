@@ -1,0 +1,6 @@
+project,primer_f,primer_r,truncLen_f,truncLen_r,note,maxEE_r
+PRJNA715843,ACTCCTACGGGAGGCAGCAG,GGACTACNVGGGTWTCTAAT,0,0,abprime_keeplen_maxEE5,5
+PRJNA596848,ACTCCTACGGGAGGCAGCAG,GGACTACNVGGGTWTCTAAT,0,0,abprime_keeplen_maxEE5,5
+PRJNA593708,,,0,0,abprime_keeplen_maxEE5,5
+PRJNA427813,,,0,0,abprime_keeplen_maxEE5,5
+PRJNA1310568,,,0,0,abprime_keeplen_maxEE5_pilot_already_done,5

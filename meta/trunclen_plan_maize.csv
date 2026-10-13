@@ -1,0 +1,4 @@
+﻿project,mode,read_len,read_len_min,insert_len,t25_f,t25_r,tf,tr,overlap,n_aligned,note
+PRJNA633917,paired,301,301,481,300,250,291,250,60,238/360 (raw_reads),ok
+PRJNA662201,single,,,,,,,,,,"single-end: no merge, truncLen not planned"
+PRJNA967263,single,,,,,,,,,,"single-end: no merge, truncLen not planned"

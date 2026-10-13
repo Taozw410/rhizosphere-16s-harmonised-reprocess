@@ -1,0 +1,5 @@
+﻿project,mode,read_len,read_len_min,insert_len,t25_f,t25_r,tf,tr,overlap,n_aligned,note
+PRJNA413594,paired,251,251,253,150,200,0,0,,227/360 (raw_reads),"insert≈read length (ambiguous alignment); keep untruncated, queued for A/B"
+PRJNA555161,paired,301,301,481,300,250,291,250,60,293/360 (asv_table(raw_reads=481)),ok
+PRJNA1476760,paired,249,249,253,249,249,0,0,,332/360 (raw_reads),"insert≈read length (ambiguous alignment); keep untruncated, queued for A/B"
+PRJEB34506,paired,250,250,409,250,200,250,200,41,276/360 (asv_table(raw_reads=409)),ok

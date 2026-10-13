@@ -1,0 +1,678 @@
+During startup - Warning messages:
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+install start: 2026-10-12 20:45:53 
+bioc 3.22 reachable: FALSE 
+bioc 3.21 reachable: TRUE 
+Warning message:
+In download.file(u, tempfile(), quiet = TRUE) :
+  URL 'https://bioconductor.org/packages/3.22/bioc/src/contrib/PACKAGES.gz': status was 'SSL connect error'
+--- attempt 1: zCompositions, ALDEx2, ANCOMBC, iNEXT 
+also installing the dependencies 'utf8', 'bit', 'sys', 'rappdirs', 'backports', 'class', 'proxy', 'rematch', 'pillar', 'prettyunits', 'bit64', 'askpass', 'cachem', 'memoise', 'sass', 'checkmate', 'rootSolve', 'e1071', 'lmom', 'cellranger', 'tibble', 'progress', 'clipr', 'hms', 'vroom', 'tzdb', 'forcats', 'tidyselect', 'curl', 'mime', 'openssl', 'htmlwidgets', 'fastmap', 'bslib', 'evaluate', 'fontawesome', 'jquerylib', 'tinytex', 'xfun', 'yaml', 'highr', 'zoo', 'zigg', 'clarabel', 'gmp', 'highs', 'osqp', 'scs', 'slam', 'boot', 'mvtnorm', 'expm', 'rstudioapi', 'Exact', 'gld', 'readxl', 'readr', 'haven', 'httr', 'fs', 'rpart', 'nnet', 'foreign', 'gridExtra', 'htmlTable', 'htmltools', 'base64enc', 'colorspace', 'rmarkdown', 'knitr', 'Formula', 'rbibutils', 'rngtools', 'gsl', 'minqa', 'reformulas', 'numDeriv', 'TH.data', 'sandwich', 'NADA', 'truncnorm', 'Rfast', 'directlabels', 'CVXR', 'DescTools', 'Hmisc', 'Rdpack', 'doParallel', 'doRNG', 'energy', 'gtools', 'lme4', 'lmerTest', 'multcomp', 'nloptr'
+
+Warning: unable to access index for repository https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5:
+  cannot open URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/PACKAGES'
+Warning: unable to access index for repository https://bioconductor.org/packages/3.21/data/annotation/bin/windows/contrib/4.5:
+  cannot open URL 'https://bioconductor.org/packages/3.21/data/annotation/bin/windows/contrib/4.5/PACKAGES'
+Warning: unable to access index for repository https://bioconductor.org/packages/3.21/data/experiment/bin/windows/contrib/4.5:
+  cannot open URL 'https://bioconductor.org/packages/3.21/data/experiment/bin/windows/contrib/4.5/PACKAGES'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/utf8_1.2.6.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/bit_4.6.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/sys_3.4.3.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/rappdirs_0.3.4.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/backports_1.5.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/class_7.3-24.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/proxy_0.4-29.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/rematch_2.0.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/pillar_1.11.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/prettyunits_1.2.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/bit64_4.8.6.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/askpass_1.2.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/cachem_1.1.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/memoise_2.0.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/sass_0.4.10.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/checkmate_2.3.4.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/rootSolve_1.8.2.4.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/e1071_1.7-17.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/lmom_3.3.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/cellranger_1.1.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/tibble_3.3.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/progress_1.2.3.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/clipr_0.8.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/hms_1.1.4.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/vroom_1.7.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/tzdb_0.5.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/forcats_1.0.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/tidyselect_1.2.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/curl_8.0.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/mime_0.13.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/openssl_2.4.2.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/htmlwidgets_1.6.4.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/fastmap_1.2.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/bslib_0.12.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/evaluate_1.0.5.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/fontawesome_0.5.3.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/jquerylib_0.1.4.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/tinytex_0.61.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/xfun_0.61.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/yaml_2.3.12.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/highr_0.12.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/zoo_1.9-1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/zigg_0.0.2.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/clarabel_0.11.3.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/gmp_0.7-5.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/highs_1.14.0-2.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/osqp_1.0.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/scs_3.2.7.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/slam_0.1-56.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/boot_1.3-32.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/mvtnorm_1.4-2.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/expm_1.0-1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/rstudioapi_0.19.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/Exact_3.3.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/gld_2.6.8.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/readxl_1.5.0.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/readr_2.2.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/haven_2.5.5.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/httr_1.4.9.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/fs_2.1.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/rpart_4.1.27.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/nnet_7.3-21.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/foreign_0.8-91.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/gridExtra_2.3.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/htmlTable_2.5.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/htmltools_0.5.9.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/base64enc_0.1-6.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/colorspace_2.1-4.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/rmarkdown_2.32.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/knitr_1.52.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/Formula_1.2-6.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/rbibutils_2.4.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/rngtools_1.5.2.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/gsl_2.1-9.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/minqa_1.2.8.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/reformulas_0.4.4.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/numDeriv_2016.8-1.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/TH.data_1.1-5.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/sandwich_3.1-3.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/NADA_1.6-1.2.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/truncnorm_1.0-9.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/Rfast_2.1.5.2.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/directlabels_2026.8.27.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/CVXR_1.9.2.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/DescTools_0.99.60.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/Hmisc_5.3-0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/Rdpack_2.6.6.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/doParallel_1.0.17.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/doRNG_1.8.6.3.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/energy_1.7-12.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/gtools_3.9.5.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/lme4_2.0-6.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/lmerTest_3.2-1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/multcomp_1.4-32.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/nloptr_2.2.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/zCompositions_1.6.2.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/iNEXT_3.0.2.zip'
+Error in download.file(urls, destfiles, "libcurl", mode = "wb", ...) : 
+  cannot download any files
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'utf8' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'bit' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'sys' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'rappdirs' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'backports' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'class' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'proxy' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'rematch' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'pillar' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'prettyunits' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'bit64' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'askpass' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'cachem' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'memoise' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'sass' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'checkmate' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'rootSolve' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'e1071' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'lmom' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'cellranger' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'tibble' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'progress' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'clipr' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'hms' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'vroom' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'tzdb' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'forcats' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'tidyselect' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'curl' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'mime' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'openssl' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'htmlwidgets' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'fastmap' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'bslib' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'evaluate' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'fontawesome' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'jquerylib' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'tinytex' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'xfun' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'yaml' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'highr' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'zoo' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'zigg' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'clarabel' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'gmp' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'highs' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'osqp' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'scs' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'slam' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'boot' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'mvtnorm' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'expm' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'rstudioapi' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'Exact' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'gld' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'readxl' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'readr' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'haven' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'httr' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'fs' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'rpart' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'nnet' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'foreign' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'gridExtra' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'htmlTable' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'htmltools' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'base64enc' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'colorspace' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'rmarkdown' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'knitr' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'Formula' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'rbibutils' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'rngtools' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'gsl' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'minqa' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'reformulas' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'numDeriv' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'TH.data' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'sandwich' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'NADA' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'truncnorm' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'Rfast' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'directlabels' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'CVXR' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'DescTools' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'Hmisc' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'Rdpack' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'doParallel' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'doRNG' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'energy' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'gtools' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'lme4' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'lmerTest' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'multcomp' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'nloptr' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'zCompositions' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'iNEXT' failed
+installing the source packages 'ALDEx2', 'ANCOMBC'
+
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/ALDEx2_1.40.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/ANCOMBC_2.10.1.tar.gz'
+Error in download.file(urls, destfiles, "libcurl", mode = "wb", ...) : 
+  cannot download any files
+In addition: Warning messages:
+1: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/ALDEx2_1.40.0.tar.gz': status was 'SSL connect error'
+2: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/ANCOMBC_2.10.1.tar.gz': status was 'SSL connect error'
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'ALDEx2' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'ANCOMBC' failed
+remaining after attempt 1: zCompositions, ALDEx2, ANCOMBC, iNEXT 
+--- attempt 2: zCompositions, ALDEx2, ANCOMBC, iNEXT 
+also installing the dependencies 'utf8', 'bit', 'sys', 'rappdirs', 'backports', 'class', 'proxy', 'rematch', 'pillar', 'prettyunits', 'bit64', 'askpass', 'cachem', 'memoise', 'sass', 'checkmate', 'rootSolve', 'e1071', 'lmom', 'cellranger', 'tibble', 'progress', 'clipr', 'hms', 'vroom', 'tzdb', 'forcats', 'tidyselect', 'curl', 'mime', 'openssl', 'htmlwidgets', 'fastmap', 'bslib', 'evaluate', 'fontawesome', 'jquerylib', 'tinytex', 'xfun', 'yaml', 'highr', 'zoo', 'zigg', 'clarabel', 'gmp', 'highs', 'osqp', 'scs', 'slam', 'boot', 'mvtnorm', 'expm', 'rstudioapi', 'Exact', 'gld', 'readxl', 'readr', 'haven', 'httr', 'fs', 'rpart', 'nnet', 'foreign', 'gridExtra', 'htmlTable', 'htmltools', 'base64enc', 'colorspace', 'rmarkdown', 'knitr', 'Formula', 'rbibutils', 'rngtools', 'gsl', 'minqa', 'reformulas', 'numDeriv', 'TH.data', 'sandwich', 'NADA', 'truncnorm', 'Rfast', 'directlabels', 'CVXR', 'DescTools', 'Hmisc', 'Rdpack', 'doParallel', 'doRNG', 'energy', 'gtools', 'lme4', 'lmerTest', 'multcomp', 'nloptr'
+
+Warning: unable to access index for repository https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5:
+  cannot open URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/PACKAGES'
+Warning: unable to access index for repository https://bioconductor.org/packages/3.21/data/annotation/bin/windows/contrib/4.5:
+  cannot open URL 'https://bioconductor.org/packages/3.21/data/annotation/bin/windows/contrib/4.5/PACKAGES'
+Warning: unable to access index for repository https://bioconductor.org/packages/3.21/data/experiment/bin/windows/contrib/4.5:
+  cannot open URL 'https://bioconductor.org/packages/3.21/data/experiment/bin/windows/contrib/4.5/PACKAGES'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/utf8_1.2.6.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/bit_4.6.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/sys_3.4.3.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/rappdirs_0.3.4.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/backports_1.5.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/class_7.3-24.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/proxy_0.4-29.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/rematch_2.0.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/pillar_1.11.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/prettyunits_1.2.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/bit64_4.8.6.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/askpass_1.2.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/cachem_1.1.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/memoise_2.0.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/sass_0.4.10.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/checkmate_2.3.4.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/rootSolve_1.8.2.4.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/e1071_1.7-17.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/lmom_3.3.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/cellranger_1.1.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/tibble_3.3.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/progress_1.2.3.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/clipr_0.8.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/hms_1.1.4.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/vroom_1.7.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/tzdb_0.5.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/forcats_1.0.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/tidyselect_1.2.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/curl_8.0.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/mime_0.13.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/openssl_2.4.2.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/htmlwidgets_1.6.4.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/fastmap_1.2.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/bslib_0.12.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/evaluate_1.0.5.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/fontawesome_0.5.3.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/jquerylib_0.1.4.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/tinytex_0.61.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/xfun_0.61.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/yaml_2.3.12.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/highr_0.12.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/zoo_1.9-1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/zigg_0.0.2.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/clarabel_0.11.3.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/gmp_0.7-5.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/highs_1.14.0-2.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/osqp_1.0.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/scs_3.2.7.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/slam_0.1-56.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/boot_1.3-32.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/mvtnorm_1.4-2.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/expm_1.0-1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/rstudioapi_0.19.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/Exact_3.3.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/gld_2.6.8.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/readxl_1.5.0.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/readr_2.2.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/haven_2.5.5.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/httr_1.4.9.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/fs_2.1.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/rpart_4.1.27.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/nnet_7.3-21.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/foreign_0.8-91.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/gridExtra_2.3.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/htmlTable_2.5.0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/htmltools_0.5.9.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/base64enc_0.1-6.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/colorspace_2.1-4.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/rmarkdown_2.32.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/knitr_1.52.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/Formula_1.2-6.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/rbibutils_2.4.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/rngtools_1.5.2.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/gsl_2.1-9.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/minqa_1.2.8.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/reformulas_0.4.4.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/numDeriv_2016.8-1.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/TH.data_1.1-5.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/sandwich_3.1-3.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/NADA_1.6-1.2.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/truncnorm_1.0-9.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/Rfast_2.1.5.2.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/directlabels_2026.8.27.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/CVXR_1.9.2.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/DescTools_0.99.60.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/Hmisc_5.3-0.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/Rdpack_2.6.6.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/doParallel_1.0.17.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/doRNG_1.8.6.3.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/energy_1.7-12.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/gtools_3.9.5.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/lme4_2.0-6.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/lmerTest_3.2-1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/multcomp_1.4-32.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/nloptr_2.2.1.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/zCompositions_1.6.2.zip'
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/iNEXT_3.0.2.zip'
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'utf8' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'bit' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'rappdirs' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'backports' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'class' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'proxy' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'rematch' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'pillar' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'prettyunits' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'bit64' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'askpass' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'cachem' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'memoise' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'sass' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'checkmate' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'rootSolve' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'e1071' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'lmom' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'cellranger' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'tibble' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'progress' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'clipr' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'hms' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'vroom' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'tzdb' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'forcats' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'tidyselect' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'curl' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'mime' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'openssl' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'htmlwidgets' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'fastmap' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'bslib' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'evaluate' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'fontawesome' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'jquerylib' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'tinytex' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'xfun' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'yaml' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'highr' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'zoo' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'zigg' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'clarabel' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'gmp' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'highs' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'osqp' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'scs' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'slam' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'boot' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'mvtnorm' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'expm' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'rstudioapi' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'Exact' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'readxl' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'haven' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'fs' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'nnet' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'foreign' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'gridExtra' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'htmlTable' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'htmltools' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'base64enc' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'rmarkdown' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'Formula' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'rngtools' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'gsl' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'doParallel' failed
+package 'sys' successfully unpacked and MD5 sums checked
+package 'gld' successfully unpacked and MD5 sums checked
+package 'readr' successfully unpacked and MD5 sums checked
+package 'httr' successfully unpacked and MD5 sums checked
+package 'rpart' successfully unpacked and MD5 sums checked
+package 'colorspace' successfully unpacked and MD5 sums checked
+package 'knitr' successfully unpacked and MD5 sums checked
+package 'rbibutils' successfully unpacked and MD5 sums checked
+package 'minqa' successfully unpacked and MD5 sums checked
+package 'reformulas' successfully unpacked and MD5 sums checked
+package 'numDeriv' successfully unpacked and MD5 sums checked
+package 'TH.data' successfully unpacked and MD5 sums checked
+package 'sandwich' successfully unpacked and MD5 sums checked
+package 'NADA' successfully unpacked and MD5 sums checked
+package 'truncnorm' successfully unpacked and MD5 sums checked
+package 'Rfast' successfully unpacked and MD5 sums checked
+package 'directlabels' successfully unpacked and MD5 sums checked
+package 'CVXR' successfully unpacked and MD5 sums checked
+package 'DescTools' successfully unpacked and MD5 sums checked
+package 'Hmisc' successfully unpacked and MD5 sums checked
+package 'Rdpack' successfully unpacked and MD5 sums checked
+package 'doRNG' successfully unpacked and MD5 sums checked
+package 'energy' successfully unpacked and MD5 sums checked
+package 'gtools' successfully unpacked and MD5 sums checked
+package 'lme4' successfully unpacked and MD5 sums checked
+package 'lmerTest' successfully unpacked and MD5 sums checked
+package 'multcomp' successfully unpacked and MD5 sums checked
+package 'nloptr' successfully unpacked and MD5 sums checked
+package 'zCompositions' successfully unpacked and MD5 sums checked
+package 'iNEXT' successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\hthome\AppData\Local\Temp\RtmpYb02rr\downloaded_packages
+installing the source packages 'ALDEx2', 'ANCOMBC'
+
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/ALDEx2_1.40.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/ANCOMBC_2.10.1.tar.gz'
+Error in download.file(urls, destfiles, "libcurl", mode = "wb", ...) : 
+  cannot download any files
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'ALDEx2' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'ANCOMBC' failed
+remaining after attempt 2: ALDEx2, ANCOMBC 
+--- attempt 3: ALDEx2, ANCOMBC 
+also installing the dependency 'doParallel'
+
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/doParallel_1.0.17.zip'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ANCOMBC_2.10.1.zip'
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'doParallel' failed
+package 'ALDEx2' successfully unpacked and MD5 sums checked
+package 'ANCOMBC' successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\hthome\AppData\Local\Temp\RtmpYb02rr\downloaded_packages
+remaining after attempt 3: ALDEx2, ANCOMBC 
+--- attempt 4: ALDEx2, ANCOMBC 
+also installing the dependency 'doParallel'
+
+trying URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/doParallel_1.0.17.zip'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ANCOMBC_2.10.1.zip'
+package 'doParallel' successfully unpacked and MD5 sums checked
+package 'ALDEx2' successfully unpacked and MD5 sums checked
+package 'ANCOMBC' successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\hthome\AppData\Local\Temp\RtmpYb02rr\downloaded_packages
+remaining after attempt 4: ALDEx2, ANCOMBC 
+--- attempt 5: ALDEx2, ANCOMBC 
+Warning: unable to access index for repository https://bioconductor.org/packages/3.21/data/annotation/bin/windows/contrib/4.5:
+  cannot open URL 'https://bioconductor.org/packages/3.21/data/annotation/bin/windows/contrib/4.5/PACKAGES'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ANCOMBC_2.10.1.zip'
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'ANCOMBC' failed
+package 'ALDEx2' successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\hthome\AppData\Local\Temp\RtmpYb02rr\downloaded_packages
+remaining after attempt 5: ALDEx2, ANCOMBC 
+--- attempt 6: ALDEx2, ANCOMBC 
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ANCOMBC_2.10.1.zip'
+package 'ALDEx2' successfully unpacked and MD5 sums checked
+package 'ANCOMBC' successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\hthome\AppData\Local\Temp\RtmpYb02rr\downloaded_packages
+remaining after attempt 6: ALDEx2, ANCOMBC 
+Warning messages:
+1: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  URL 'https://cloud.r-project.org/bin/windows/contrib/4.5/doParallel_1.0.17.zip': status was 'SSL connect error'
+2: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  some files were not downloaded
+3: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ANCOMBC_2.10.1.zip': status was 'Failure when receiving data from the peer'
+4: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  some files were not downloaded
+--- verify --- 
+zCompositions  TRUE 1.6.2 
+ALDEx2         FALSE  
+ANCOMBC        FALSE  
+iNEXT          TRUE 3.0.2 
+install end: 2026-10-12 20:51:23 

@@ -1,0 +1,148 @@
+During startup - Warning messages:
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+binary retry start: 2026-10-12 20:52:40 
+--- attempt 1 (binary): ALDEx2, ANCOMBC 
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ANCOMBC_2.10.1.zip'
+package 'ALDEx2' successfully unpacked and MD5 sums checked
+package 'ANCOMBC' successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\hthome\AppData\Local\Temp\RtmpiqLk03\downloaded_packages
+--- attempt 2 (binary): ALDEx2, ANCOMBC 
+Warning: unable to access index for repository https://bioconductor.org/packages/3.21/data/annotation/bin/windows/contrib/4.5:
+  cannot open URL 'https://bioconductor.org/packages/3.21/data/annotation/bin/windows/contrib/4.5/PACKAGES'
+Warning: unable to access index for repository https://bioconductor.org/packages/3.21/data/experiment/bin/windows/contrib/4.5:
+  cannot open URL 'https://bioconductor.org/packages/3.21/data/experiment/bin/windows/contrib/4.5/PACKAGES'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ANCOMBC_2.10.1.zip'
+Error in download.file(urls, destfiles, "libcurl", mode = "wb", ...) : 
+  cannot download any files
+In addition: Warning messages:
+1: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip': status was 'SSL connect error'
+2: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ANCOMBC_2.10.1.zip': status was 'SSL connect error'
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'ALDEx2' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'ANCOMBC' failed
+--- attempt 3 (binary): ALDEx2, ANCOMBC 
+Warning: unable to access index for repository https://bioconductor.org/packages/3.21/data/annotation/bin/windows/contrib/4.5:
+  cannot open URL 'https://bioconductor.org/packages/3.21/data/annotation/bin/windows/contrib/4.5/PACKAGES'
+Warning: unable to access index for repository https://bioconductor.org/packages/3.21/data/experiment/bin/windows/contrib/4.5:
+  cannot open URL 'https://bioconductor.org/packages/3.21/data/experiment/bin/windows/contrib/4.5/PACKAGES'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ANCOMBC_2.10.1.zip'
+Error in download.file(urls, destfiles, "libcurl", mode = "wb", ...) : 
+  cannot download any files
+In addition: Warning messages:
+1: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip': status was 'SSL connect error'
+2: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ANCOMBC_2.10.1.zip': status was 'SSL connect error'
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'ALDEx2' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'ANCOMBC' failed
+--- attempt 4 (binary): ALDEx2, ANCOMBC 
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ANCOMBC_2.10.1.zip'
+Error in download.file(urls, destfiles, "libcurl", mode = "wb", ...) : 
+  cannot download any files
+In addition: Warning messages:
+1: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip': status was 'Failure when receiving data from the peer'
+2: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ANCOMBC_2.10.1.zip': status was 'SSL connect error'
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'ALDEx2' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'ANCOMBC' failed
+--- attempt 5 (binary): ALDEx2, ANCOMBC 
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ANCOMBC_2.10.1.zip'
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'ALDEx2' failed
+package 'ANCOMBC' successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\hthome\AppData\Local\Temp\RtmpiqLk03\downloaded_packages
+--- attempt 6 (binary): ALDEx2, ANCOMBC 
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ANCOMBC_2.10.1.zip'
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'ALDEx2' failed
+package 'ANCOMBC' successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\hthome\AppData\Local\Temp\RtmpiqLk03\downloaded_packages
+--- attempt 7 (binary): ALDEx2, ANCOMBC 
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ANCOMBC_2.10.1.zip'
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'ALDEx2' failed
+package 'ANCOMBC' successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\hthome\AppData\Local\Temp\RtmpiqLk03\downloaded_packages
+--- attempt 8 (binary): ALDEx2, ANCOMBC 
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ANCOMBC_2.10.1.zip'
+package 'ALDEx2' successfully unpacked and MD5 sums checked
+package 'ANCOMBC' successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\hthome\AppData\Local\Temp\RtmpiqLk03\downloaded_packages
+--- attempt 9 (binary): ALDEx2, ANCOMBC 
+Warning: unable to access index for repository https://bioconductor.org/packages/3.21/data/annotation/bin/windows/contrib/4.5:
+  cannot open URL 'https://bioconductor.org/packages/3.21/data/annotation/bin/windows/contrib/4.5/PACKAGES'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ANCOMBC_2.10.1.zip'
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'ALDEx2' failed
+package 'ANCOMBC' successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\hthome\AppData\Local\Temp\RtmpiqLk03\downloaded_packages
+--- attempt 10 (binary): ALDEx2, ANCOMBC 
+Warning: unable to access index for repository https://bioconductor.org/packages/3.21/data/annotation/bin/windows/contrib/4.5:
+  cannot open URL 'https://bioconductor.org/packages/3.21/data/annotation/bin/windows/contrib/4.5/PACKAGES'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ANCOMBC_2.10.1.zip'
+Error in download.file(urls, destfiles, "libcurl", mode = "wb", ...) : 
+  cannot download any files
+In addition: Warning messages:
+1: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip': status was 'Failure when receiving data from the peer'
+2: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  some files were not downloaded
+3: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip': status was 'Failure when receiving data from the peer'
+4: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  some files were not downloaded
+5: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip': status was 'SSL connect error'
+6: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  some files were not downloaded
+7: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip': status was 'SSL connect error'
+8: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  some files were not downloaded
+9: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ALDEx2_1.40.0.zip': status was 'SSL connect error'
+10: In download.file(urls, destfiles, "libcurl", mode = "wb", ...) :
+  URL 'https://bioconductor.org/packages/3.21/bioc/bin/windows/contrib/4.5/ANCOMBC_2.10.1.zip': status was 'SSL connect error'
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'ALDEx2' failed
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package 'ANCOMBC' failed
+--- verify --- 
+zCompositions  TRUE 1.6.2 
+ALDEx2         FALSE  
+ANCOMBC        FALSE  
+iNEXT          TRUE 3.0.2 
+binary retry end: 2026-10-12 20:59:51 

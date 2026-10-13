@@ -1,0 +1,46 @@
+project,crop,water_regime,confidence,evidence
+PRJNA662201,maize,upland,high,crop-default rule: maize is not grown under permanent flooding in any of these studies
+PRJNA608090,maize,upland,high,crop-default rule: maize is not grown under permanent flooding in any of these studies
+PRJNA753114,maize,upland,high,crop-default rule: maize is not grown under permanent flooding in any of these studies
+PRJNA967263,maize,upland,high,title: 'maize with contour reverse-slope terraces such as slope farmland' (dryland terraces)
+PRJNA771712,maize,upland,high,crop-default rule: maize is not grown under permanent flooding in any of these studies
+PRJNA771711,maize,upland,high,crop-default rule: maize is not grown under permanent flooding in any of these studies
+PRJEB21590,maize,upland,high,crop-default rule: maize is not grown under permanent flooding in any of these studies
+PRJEB21600,maize,upland,high,crop-default rule: maize is not grown under permanent flooding in any of these studies
+PRJNA816337,maize,upland,high,crop-default rule: maize is not grown under permanent flooding in any of these studies
+PRJNA401395,maize,upland,high,crop-default rule: maize is not grown under permanent flooding in any of these studies
+PRJNA1479906,maize,upland,high,"title: 'salt-stressed maize inoculated with Bacillus' (pot experiment, non-flooded)"
+PRJNA593708,maize,upland,medium,title: 'X-ray u-CT scan on rhizosphere bacteria of maize plants' (potted plants)
+PRJNA781096,maize,upland,high,crop-default rule: maize is not grown under permanent flooding in any of these studies
+PRJNA874674,maize,upland,high,crop-default rule: maize is not grown under permanent flooding in any of these studies
+PRJNA633917,maize,upland,high,crop-default rule: maize is not grown under permanent flooding in any of these studies
+PRJNA1157226,rice,flooded,medium,title: 'pot experiment' rice (rice pots are flooded by default)
+PRJNA1146338,rice,flooded,medium,crop-default rule: rice is grown in flooded paddy soil; no explicit statement in the title
+PRJNA509515,rice,flooded,medium,crop-default rule: rice is grown in flooded paddy soil; no explicit statement in the title
+PRJNA1476760,rice,flooded,medium,crop-default rule: rice is grown in flooded paddy soil; no explicit statement in the title
+PRJNA554261,rice,flooded,medium,crop-default rule: rice is grown in flooded paddy soil; no explicit statement in the title
+PRJNA1261944,rice,flooded,high,title: 'Microbial diversity in rice rhizosphere under flooding conditions'
+PRJNA715843,rice,flooded,medium,crop-default rule: rice is grown in flooded paddy soil; no explicit statement in the title
+PRJDB20184,rice,flooded,medium,crop-default rule: rice is grown in flooded paddy soil; no explicit statement in the title
+PRJNA858795,rice,flooded,high,title: 'bacterial and archaeal communities living in Italian rice paddies rhizosphere soil and pore water'
+PRJNA1282585,rice,flooded,medium,crop-default rule: rice is grown in flooded paddy soil; no explicit statement in the title
+PRJNA665860,rice,flooded,medium,crop-default rule: rice is grown in flooded paddy soil; no explicit statement in the title
+PRJNA611687,rice,flooded,medium,title: 'arsenic mobilization in the rice rhizosphere mediated by iron-reducing bacteria' (flooded-soil redox chemistry)
+PRJNA1101437,rice,flooded,medium,crop-default rule: rice is grown in flooded paddy soil; no explicit statement in the title
+PRJNA596848,rice,flooded,medium,crop-default rule: rice is grown in flooded paddy soil; no explicit statement in the title
+PRJEB45605,rice,flooded,high,title: 'rice paddy pot experiment with 4 fertiliser treatments'
+PRJNA454003,wheat,upland,high,crop-default rule: wheat is not grown under permanent flooding in any of these studies
+PRJNA601112,wheat,upland,high,crop-default rule: wheat is not grown under permanent flooding in any of these studies
+PRJNA996548,wheat,upland,high,crop-default rule: wheat is not grown under permanent flooding in any of these studies
+PRJNA607209,wheat,upland,high,crop-default rule: wheat is not grown under permanent flooding in any of these studies
+PRJEB6400,wheat,upland,high,"title: 'sea-water irrigation ... two wheat cultivars' (irrigated, not flooded)"
+PRJNA1136486,wheat,upland,high,crop-default rule: wheat is not grown under permanent flooding in any of these studies
+PRJNA1189047,wheat,upland,high,crop-default rule: wheat is not grown under permanent flooding in any of these studies
+PRJNA1301106,wheat,upland,high,crop-default rule: wheat is not grown under permanent flooding in any of these studies
+PRJNA1169405,wheat,upland,high,crop-default rule: wheat is not grown under permanent flooding in any of these studies
+PRJNA548437,wheat,upland,high,crop-default rule: wheat is not grown under permanent flooding in any of these studies
+PRJNA661129,wheat,upland,high,crop-default rule: wheat is not grown under permanent flooding in any of these studies
+PRJNA1037063,wheat,upland,high,crop-default rule: wheat is not grown under permanent flooding in any of these studies
+PRJNA1334676,wheat,upland,high,crop-default rule: wheat is not grown under permanent flooding in any of these studies
+PRJNA578725,wheat,upland,high,crop-default rule: wheat is not grown under permanent flooding in any of these studies
+PRJNA506457,wheat,upland,high,crop-default rule: wheat is not grown under permanent flooding in any of these studies

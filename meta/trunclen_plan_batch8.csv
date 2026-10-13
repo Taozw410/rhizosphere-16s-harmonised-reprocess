@@ -1,0 +1,7 @@
+﻿project,mode,read_len,read_len_min,insert_len,t25_f,t25_r,tf,tr,overlap,n_aligned,note
+PRJEB104640,paired,301,301,441,301,225,276,225,60,236/360 (raw_reads),ok
+PRJEB21600,paired,251,251,253,250,225,0,0,,319/360 (raw_reads),"insert≈read length (ambiguous alignment); keep untruncated, queued for A/B"
+PRJEB35017,single,,,,,,,,,,"single-end: no merge, truncLen not planned"
+PRJNA1310568,paired,238,238,284,238,238,172,172,60,340/360 (raw_reads),ok
+PRJNA427813,paired,151,151,253,151,151,0,0,,293/360 (raw_reads),max overlap 49 bp < 50 bp (insert long); keep untruncated
+PRJNA593708,paired,231,231,429,231,228,0,0,,332/360 (raw_reads),max overlap 33 bp < 50 bp (insert long); keep untruncated

@@ -1,0 +1,12 @@
+options(repos = c(CRAN="https://cloud.r-project.org",
+                  BioCsoft="https://bioconductor.org/packages/3.21/bioc"), timeout = 3000)
+cat("installed CVXR:", as.character(packageVersion("CVXR")), "\n")
+ap <- available.packages(type = "binary")
+cat("CRAN binary CVXR:", if ("CVXR" %in% rownames(ap)) ap["CVXR", "Version"] else "absent", "\n")
+cat("CRAN source CVXR:", "\n")
+aps <- available.packages(type = "source")
+cat("  ", if ("CVXR" %in% rownames(aps)) aps["CVXR", "Version"] else "absent", "\n")
+d <- read.dcf("D:/bioenv/envs/riz16s/Lib/R/library/ANCOMBC/DESCRIPTION")
+cat("ANCOMBC version:", d[1, "Version"], "\n")
+cat("ANCOMBC Imports:", substr(d[1, "Imports"], 1, 300), "\n")
+cat("exports 'solve' in installed CVXR:", "solve" %in% getNamespaceExports("CVXR"), "\n")

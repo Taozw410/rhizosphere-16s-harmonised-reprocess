@@ -1,0 +1,7 @@
+suppressPackageStartupMessages(library(DECIPHER))
+cat("DistanceMatrix exists:", exists("DistanceMatrix"), "\n")
+cat("ape available:", requireNamespace("ape", quietly=TRUE), "\n")
+cat("phangorn available:", requireNamespace("phangorn", quietly=TRUE), "\n")
+if (exists("DistanceMatrix")) print(args(DistanceMatrix))
+cat("--- DECIPHER 里含 tree/Tree 的导出函数 ---\n")
+print(grep("Tree|tree", getNamespaceExports("DECIPHER"), value=TRUE))

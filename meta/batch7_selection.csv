@@ -1,0 +1,32 @@
+﻿group,crop,study,score,ill_amp,med_reads,probed,title
+primary,wheat,PRJEB23424,152,24,70450,Y,Bulk and rhizosphere soil microbial communities in wheat fields
+primary,wheat,PRJEB6400,152,48,132702,Y,Effect sea-water irrigation and inoculations with Azospirillum brasilense on the bacterial diversity in the rhizosphere 
+primary,wheat,PRJEB98904,152,160,291456,Y,Wheat Rhizosphere Microbial Community Involved in Nitrogen Cycling under Elevated Ozone and Warming
+primary,wheat,PRJNA1037063,152,31,91334,Y,Soil and rhizosphere bacterial/archaeal community of winter wheat under different long-term farming practices
+primary,wheat,PRJNA1082480,152,24,179088,Y,Amplicon sequencing of rhizosphere bacteria in wheat soil Raw sequence reads
+primary,wheat,PRJNA1184964,152,81,62265,Y,Phosphorus-induced modulation of rhizosphere microbial networks enhances Tartary buckwheat tolerance to low light stress
+primary,wheat,PRJNA1201934,152,42,79973,Y,Wheat rhizosphere microbiome
+primary,wheat,PRJNA1229659,152,36,68128,Y,Raw sequencing data of wheat rhizosphere bacteria Raw sequence reads
+primary,wheat,PRJNA1301095,152,39,83002,Y,Wheat rhizosphere soil 16S sequences raw reads
+reserve,wheat,PRJNA1308852,152,36,64299,Y,Transcriptome and Rhizosphere Microbe Analysis Reveals Magnesium Oxide Nanoparticles Enhances Buckwheat Growth and Rhizo
+reserve,wheat,PRJNA1452068,152,80,87255,Y,"Bacterial 16S rRNA sequencing data in wheat rhizosphere soil, root, stem, leaf, and grain"
+reserve,wheat,PRJNA1468456,152,108,70272,Y,Rhizobacterial datasets from 13C-labeled wheat NIL rhizosphere soils
+reserve,wheat,PRJNA454003,152,51,68735,Y,Effect of inorganic nitrogen fertilization on wheat rhizosphere bacterial communities
+primary,maize,PRJDB39466,140,48,105619,n,RKN-infected maize rhizosphere microbiome across developmental stages (PRJCA047109)
+primary,maize,PRJEB21590,140,45,198220,n,Maize age and genotype shape the rhizosphere microbiome in the field
+primary,maize,PRJEB40690,140,192,148000,n,Assembly patterns of the rhizosphere microbiome along the longitudinal root axis of maize (Zea mays L.)
+primary,maize,PRJEB50304,140,173,53558,n,Root photosynthate allocation and root developmental stage interactively determine spatial patterns in the maize rhizosp
+primary,maize,PRJNA1050038,140,70,82447,n,16S rRNA gene sequencing of maize rhizosphere (carbon and signal)
+primary,maize,PRJNA1132941,140,96,65473,n,Effects of beneficial microbial consortia on maize growth and rhizosphere microbial community diversity and composition
+reserve,maize,PRJNA1140920,140,56,104983,n,16S rRNA gene sequencing of maize rhizosphere
+reserve,maize,PRJNA1142092,140,108,80081,n,Rhizosphere effects and nitrogen application co-regulate microbial enhancement of maize yield
+reserve,maize,PRJNA1180745,140,166,62071,n,Maize Rhizosphere Microbiome
+reserve,maize,PRJNA1195717,140,47,197279,n,Responses of maize roots and the rhizosphere microbiome to varying precipitation during a long-term field experiment
+primary,rice,PRJDB19022,152,24,105811,Y,Bacterial communities in irrigated rice rhizosphere
+primary,rice,PRJDB8720,152,59,71306,Y,Impact of biochar and PGPB inoculation on rhizosphere and root-associated bacterial communities in rice
+primary,rice,PRJEB45341,152,108,392714,Y,"16S-soil-ash-Bangladesh, Here we investigated in large scale field trials across two geographic regions and two seasons,"
+primary,rice,PRJEB45605,152,80,202056,Y,"16S-timepoints-soil, rice paddy pot experiment with 4 fertiliser treatments over the life cycle of rice plants, analysis"
+primary,rice,PRJEB45620,152,60,445766,Y,"16S compartment, rice paddy pot experiment with 4 fertiliser treatments over the life cycle of rice plants, analysis of "
+reserve,rice,PRJNA1060240,152,72,66897,Y,Sucrose transport coordinates salt tolerance of rice and shapes the rhizosphere microbial community
+reserve,rice,PRJNA1089842,152,21,76014,Y,Structural characteristics of phosphorus solubilizing bacterial communities in rice rhizosphere soil
+reserve,rice,PRJNA1172089,152,20,71194,Y,16S rRNA Sequencing of Rice Rhizosphere Microbiomes Under Salt Stress Treatment

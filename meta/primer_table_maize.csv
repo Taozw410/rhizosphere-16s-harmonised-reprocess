@@ -1,0 +1,4 @@
+﻿project,primer_f,primer_r,truncLen_f,truncLen_r,note
+PRJNA633917,,,291,250,strategyA_trunclen_ov60
+PRJNA662201,,,0,0,strategyA_keep_untruncated
+PRJNA967263,,,0,0,strategyA_keep_untruncated
